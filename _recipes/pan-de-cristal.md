@@ -1,17 +1,16 @@
 ---
-:title: Pan de Cristal
-:name: Pan de Cristal
-:prep_time: 40 mins
-:cook_time: 27 to 28 mins
-:total_time: 6 hrs
-:servings: 4 medium (5” x 7”) breads
-:tags:
-- "---"
-- "- bread"
-:preview_url: https://www.kingarthurbaking.com/sites/default/files/styles/featured_image/public/2021-12/Pan%20de%20Cristal%20%28Hero%20alt%29_0.jpg?itok=EF3JdnD5
-:source: https://www.kingarthurbaking.com/recipes/pan-de-cristal-recipe
-:source_kind: url
-:notes: []
+title: Pan de Cristal
+name: Pan de Cristal
+prep_time: 40 mins
+cook_time: 27 to 28 mins
+total_time: 6 hrs
+servings: 4 medium (5” x 7”) breads
+tags:
+- bread
+preview_url: https://www.kingarthurbaking.com/sites/default/files/styles/featured_image/public/2021-12/Pan%20de%20Cristal%20%28Hero%20alt%29_0.jpg?itok=EF3JdnD5
+source: https://www.kingarthurbaking.com/recipes/pan-de-cristal-recipe
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

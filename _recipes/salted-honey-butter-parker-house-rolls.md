@@ -1,16 +1,15 @@
 ---
-:title: Salted Honey Butter Parker House Rolls
-:name: Salted Honey Butter Parker House Rolls
-:prep_time: '15'
-:cook_time: '20'
-:servings: ''
-:tags:
-- "---"
-- "- bread"
-:preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2019/11/Salted-Honey-Butter-Parker-House-Rolls-7.jpg
-:source: https://www.halfbakedharvest.com/salted-honey-butter-parker-house-rolls/
-:source_kind: url
-:notes: []
+title: Salted Honey Butter Parker House Rolls
+name: Salted Honey Butter Parker House Rolls
+prep_time: '15'
+cook_time: '20'
+servings: ''
+tags:
+- bread
+preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2019/11/Salted-Honey-Butter-Parker-House-Rolls-7.jpg
+source: https://www.halfbakedharvest.com/salted-honey-butter-parker-house-rolls/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

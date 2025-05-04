@@ -1,17 +1,16 @@
 ---
-:title: Creamy White Lasagna Soup
-:name: Creamy White Lasagna Soup
-:prep_time: '20'
-:cook_time: '30'
-:servings: ''
-:tags:
-- "---"
-- "- Soup"
-- "- Chicken"
-:preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2021/10/Creamy-White-Lasagna-Soup-5.jpg
-:source: https://www.halfbakedharvest.com/creamy-white-lasagna-soup/
-:source_kind: url
-:notes: []
+title: Creamy White Lasagna Soup
+name: Creamy White Lasagna Soup
+prep_time: '20'
+cook_time: '30'
+servings: ''
+tags:
+- Soup
+- Chicken
+preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2021/10/Creamy-White-Lasagna-Soup-5.jpg
+source: https://www.halfbakedharvest.com/creamy-white-lasagna-soup/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

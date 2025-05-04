@@ -1,11 +1,10 @@
 ---
-:title: Seasoning Mixes
-:name: Seasoning Mixes
-:tags:
-- "---"
-- "- Bulk"
-:source_kind: manual
-:notes: []
+title: Seasoning Mixes
+name: Seasoning Mixes
+tags:
+- Bulk
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

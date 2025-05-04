@@ -1,14 +1,13 @@
 ---
-:title: Mom's Favorite Apricot Pie
-:name: Mom's Favorite Apricot Pie
-:prep_time: 45 min
-:cook_time: 45 min
-:tags:
-- "---"
-- "- GrandmaBrose"
-- "- Pie"
-:source_kind: manual
-:notes: []
+title: Mom's Favorite Apricot Pie
+name: Mom's Favorite Apricot Pie
+prep_time: 45 min
+cook_time: 45 min
+tags:
+- GrandmaBrose
+- Pie
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

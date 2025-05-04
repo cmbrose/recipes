@@ -1,17 +1,16 @@
 ---
-:title: Burrito Bowl
-:name: Burrito Bowl
-:prep_time: 30 minutes
-:cook_time: 1 hour
-:total_time: 1 hour 30 minutes
-:servings: '4'
-:tags:
-- "---"
-- "- Vegan"
-:preview_url: https://cdn.loveandlemons.com/wp-content/uploads/2023/03/burrito-bowl-150x150.jpg
-:source: https://www.loveandlemons.com/burrito-bowl/
-:source_kind: url
-:notes: []
+title: Burrito Bowl
+name: Burrito Bowl
+prep_time: 30 minutes
+cook_time: 1 hour
+total_time: 1 hour 30 minutes
+servings: '4'
+tags:
+- Vegan
+preview_url: https://cdn.loveandlemons.com/wp-content/uploads/2023/03/burrito-bowl-150x150.jpg
+source: https://www.loveandlemons.com/burrito-bowl/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

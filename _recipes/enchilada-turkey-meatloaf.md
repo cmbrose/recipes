@@ -1,14 +1,14 @@
 ---
-:title: 'Enchilada Turkey Meatloaf '
-:name: 'Enchilada Turkey Meatloaf '
-:prep_time: 10 mins
-:cook_time: 15 hrmins
-:servings: 6 servings
-:tags: []
-:preview_url: https://www.skinnytaste.com/wp-content/uploads/2022/03/Enchilada-Turkey-Meatloaf-4.jpg
-:source: https://www.skinnytaste.com/enchilada-turkey-meatloaf/
-:source_kind: url
-:notes: []
+title: 'Enchilada Turkey Meatloaf '
+name: 'Enchilada Turkey Meatloaf '
+prep_time: 10 mins
+cook_time: 15 hrmins
+servings: 6 servings
+tags: []
+preview_url: https://www.skinnytaste.com/wp-content/uploads/2022/03/Enchilada-Turkey-Meatloaf-4.jpg
+source: https://www.skinnytaste.com/enchilada-turkey-meatloaf/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

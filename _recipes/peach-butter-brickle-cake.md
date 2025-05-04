@@ -1,14 +1,13 @@
 ---
-:title: Peach Butter Brickle Cake
-:name: Peach Butter Brickle Cake
-:prep_time: 5 min
-:cook_time: 50 min
-:tags:
-- "---"
-- "- GrandmaBrose"
-- "- cake"
-:source_kind: manual
-:notes: []
+title: Peach Butter Brickle Cake
+name: Peach Butter Brickle Cake
+prep_time: 5 min
+cook_time: 50 min
+tags:
+- GrandmaBrose
+- cake
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

@@ -1,14 +1,14 @@
 ---
-:title: Creamy Italian White Bean Skillet Meal (25 Minutes!)
-:name: Creamy Italian White Bean Skillet Meal (25 Minutes!)
-:prep_time: 10 minutes
-:cook_time: 15 minutes
-:servings: ''
-:tags: []
-:preview_url: https://minimalistbaker.com/wp-content/uploads/2023/02/Creamy-Italian-White-Bean-Skillet-SQUARE-200x200.jpg
-:source: https://minimalistbaker.com/creamy-italian-white-bean-skillet-meal/#wprm-recipe-container-107998
-:source_kind: url
-:notes: []
+title: Creamy Italian White Bean Skillet Meal (25 Minutes!)
+name: Creamy Italian White Bean Skillet Meal (25 Minutes!)
+prep_time: 10 minutes
+cook_time: 15 minutes
+servings: ''
+tags: []
+preview_url: https://minimalistbaker.com/wp-content/uploads/2023/02/Creamy-Italian-White-Bean-Skillet-SQUARE-200x200.jpg
+source: https://minimalistbaker.com/creamy-italian-white-bean-skillet-meal/#wprm-recipe-container-107998
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

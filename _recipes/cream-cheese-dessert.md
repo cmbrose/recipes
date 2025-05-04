@@ -1,14 +1,13 @@
 ---
-:title: Cream Cheese Dessert
-:name: Cream Cheese Dessert
-:prep_time: 20 min
-:cook_time: 0 min
-:tags:
-- "---"
-- "- GrandmaBrose"
-- "- bars"
-:source_kind: manual
-:notes: []
+title: Cream Cheese Dessert
+name: Cream Cheese Dessert
+prep_time: 20 min
+cook_time: 0 min
+tags:
+- GrandmaBrose
+- bars
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

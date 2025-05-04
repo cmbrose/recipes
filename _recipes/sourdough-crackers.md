@@ -1,18 +1,17 @@
 ---
-:title: Sourdough Crackers
-:name: Sourdough Crackers
-:prep_time: 25 mins
-:cook_time: 20 to 25 mins
-:total_time: 1 hr 25 mins
-:servings: about 100 crackers
-:tags:
-- "---"
-- "- bread"
-- "- Sourdough"
-:preview_url: https://www.kingarthurbaking.com/sites/default/files/styles/featured_image/public/2021-07/sourdough-crackers.jpg?itok=-K3PkmPp
-:source: https://www.kingarthurbaking.com/recipes/sourdough-crackers-recipe
-:source_kind: url
-:notes: []
+title: Sourdough Crackers
+name: Sourdough Crackers
+prep_time: 25 mins
+cook_time: 20 to 25 mins
+total_time: 1 hr 25 mins
+servings: about 100 crackers
+tags:
+- bread
+- Sourdough
+preview_url: https://www.kingarthurbaking.com/sites/default/files/styles/featured_image/public/2021-07/sourdough-crackers.jpg?itok=-K3PkmPp
+source: https://www.kingarthurbaking.com/recipes/sourdough-crackers-recipe
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

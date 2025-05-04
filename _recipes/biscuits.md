@@ -1,18 +1,16 @@
 ---
-:title: Biscuits
-:name: Biscuits
-:prep_time: 15 min
-:cook_time: 15 min
-:servings: '8'
-:tags:
-- "---"
-- "- GrandmaBrose"
-- "- bread"
-:preview_url: https://i.imgur.com/m7c6cmr.jpg
-:source_kind: manual
-:notes:
-- "---"
-- "- Use a mixer with a bread hook to make mixing easier"
+title: Biscuits
+name: Biscuits
+prep_time: 15 min
+cook_time: 15 min
+servings: '8'
+tags:
+- GrandmaBrose
+- bread
+preview_url: https://i.imgur.com/m7c6cmr.jpg
+source_kind: manual
+notes:
+- Use a mixer with a bread hook to make mixing easier
 ---
 
 ## Ingredients

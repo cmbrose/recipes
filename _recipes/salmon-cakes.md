@@ -1,14 +1,13 @@
 ---
-:title: Salmon Cakes
-:name: Salmon Cakes
-:prep_time: 10 min
-:cook_time: 20 min
-:servings: about 8
-:tags:
-- "---"
-- "- Fish"
-:source_kind: manual
-:notes: []
+title: Salmon Cakes
+name: Salmon Cakes
+prep_time: 10 min
+cook_time: 20 min
+servings: about 8
+tags:
+- Fish
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

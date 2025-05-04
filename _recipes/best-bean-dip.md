@@ -1,15 +1,15 @@
 ---
-:title: Best Bean Dip
-:name: Best Bean Dip
-:prep_time: 20 minutes
-:cook_time: ''
-:total_time: ''
-:servings: '8'
-:tags: []
-:preview_url: https://cdn.loveandlemons.com/wp-content/uploads/2022/01/bean-dip-150x150.jpg
-:source: https://www.loveandlemons.com/bean-dip/
-:source_kind: url
-:notes: []
+title: Best Bean Dip
+name: Best Bean Dip
+prep_time: 20 minutes
+cook_time: ''
+total_time: ''
+servings: '8'
+tags: []
+preview_url: https://cdn.loveandlemons.com/wp-content/uploads/2022/01/bean-dip-150x150.jpg
+source: https://www.loveandlemons.com/bean-dip/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

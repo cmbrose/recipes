@@ -1,0 +1,18 @@
+/* --- basic tweaks on top of Primer theme --- */
+body { font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+
+.recipe-title        { font-size: 2rem; margin-top: 0.5em; }
+.recipe-meta         { list-style: none; padding: 0; margin: 0 0 1.5rem; }
+.recipe-meta li      { display: inline-block; margin-right: 1rem; font-size: .9rem; color: #555; }
+
+.tag {
+  display: inline-block;
+  background: #eef;
+  border-radius: .25rem;
+  padding: .1rem .4rem;
+  margin-left: .25rem;
+  font-size: .75rem;
+}
+
+/* Better spacing for headings inside the recipe body */
+article.recipe h2 { margin-top: 1.75rem; font-size: 1.25rem; }

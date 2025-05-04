@@ -1,19 +1,17 @@
 ---
-:title: Pizza Dough
-:name: Pizza Dough
-:prep_time: 15 min
-:total_time: 3 days
-:servings: 3 thin crust
-:tags:
-- "---"
-- "- Pizza"
-:preview_url: https://i.imgur.com/iLexsLD.jpg
-:source_kind: manual
-:notes:
-- "---"
-- "- 275 g portion for standard 10-12” thin crust"
-- "- 400-500 g portion for pan pizza"
-- "- 400-500 g portion for 12-14” thin crust"
+title: Pizza Dough
+name: Pizza Dough
+prep_time: 15 min
+total_time: 3 days
+servings: 3 thin crust
+tags:
+- Pizza
+preview_url: https://i.imgur.com/iLexsLD.jpg
+source_kind: manual
+notes:
+- 275 g portion for standard 10-12” thin crust
+- 400-500 g portion for pan pizza
+- 400-500 g portion for 12-14” thin crust
 ---
 
 ## Ingredients

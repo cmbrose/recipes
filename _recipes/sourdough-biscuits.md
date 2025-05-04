@@ -1,12 +1,11 @@
 ---
-:title: Sourdough Biscuits
-:name: Sourdough Biscuits
-:tags:
-- "---"
-- "- Gram B"
-- "- sourdough"
-:source_kind: manual
-:notes: []
+title: Sourdough Biscuits
+name: Sourdough Biscuits
+tags:
+- Gram B
+- sourdough
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

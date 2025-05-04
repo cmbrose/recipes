@@ -1,13 +1,13 @@
 ---
-:title: Pulled Pork Stuffed Peppers
-:name: Pulled Pork Stuffed Peppers
-:prep_time: 20 min
-:cook_time: 25 min
-:total_time: 45 min
-:servings: 4-6
-:tags: []
-:source_kind: manual
-:notes: []
+title: Pulled Pork Stuffed Peppers
+name: Pulled Pork Stuffed Peppers
+prep_time: 20 min
+cook_time: 25 min
+total_time: 45 min
+servings: 4-6
+tags: []
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

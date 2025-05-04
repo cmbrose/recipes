@@ -1,15 +1,14 @@
 ---
-:title: Candy Cane Cookies
-:name: Candy Cane Cookies
-:prep_time: 1 hour
-:cook_time: 9 min
-:servings: 4 dozen
-:tags:
-- "---"
-- "- cookies"
-- "- GrandmaBrose"
-:source_kind: manual
-:notes: []
+title: Candy Cane Cookies
+name: Candy Cane Cookies
+prep_time: 1 hour
+cook_time: 9 min
+servings: 4 dozen
+tags:
+- cookies
+- GrandmaBrose
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

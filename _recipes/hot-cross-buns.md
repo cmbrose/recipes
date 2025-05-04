@@ -1,14 +1,13 @@
 ---
-:title: Hot Cross Buns
-:name: Hot Cross Buns
-:prep_time: 2.5 hours
-:cook_time: 20 min
-:tags:
-- "---"
-- "- GrandmaBrose"
-- "- bread"
-:source_kind: manual
-:notes: []
+title: Hot Cross Buns
+name: Hot Cross Buns
+prep_time: 2.5 hours
+cook_time: 20 min
+tags:
+- GrandmaBrose
+- bread
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

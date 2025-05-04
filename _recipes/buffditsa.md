@@ -1,13 +1,12 @@
 ---
-:title: Buffditsa
-:name: Buffditsa
-:servings: 6-8 loaves
-:tags:
-- "---"
-- "- Gram B"
-:preview_url: ''
-:source_kind: manual
-:notes: []
+title: Buffditsa
+name: Buffditsa
+servings: 6-8 loaves
+tags:
+- Gram B
+preview_url: ''
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

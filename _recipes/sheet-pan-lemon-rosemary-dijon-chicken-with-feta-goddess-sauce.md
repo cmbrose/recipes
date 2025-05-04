@@ -1,17 +1,16 @@
 ---
-:title: "Sheet Pan Lemon Rosemary Dijon Chicken with Feta Goddess Sauce\t\t"
-:name: "Sheet Pan Lemon Rosemary Dijon Chicken with Feta Goddess Sauce\t\t"
-:prep_time: '20'
-:cook_time: '40'
-:servings: ''
-:tags:
-- "---"
-- "- Tuesday"
-- "- Sheet Pan"
-:preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2020/04/Sheet-Pan-Lemon-Rosemary-Dijon-Chicken-and-Potatoes-with-Feta-Goddess-Sauce-1-500x500.jpg
-:source: https://www.halfbakedharvest.com/sheet-pan-lemon-rosemary-dijon-chicken/
-:source_kind: url
-:notes: []
+title: "Sheet Pan Lemon Rosemary Dijon Chicken with Feta Goddess Sauce\t\t"
+name: "Sheet Pan Lemon Rosemary Dijon Chicken with Feta Goddess Sauce\t\t"
+prep_time: '20'
+cook_time: '40'
+servings: ''
+tags:
+- Tuesday
+- Sheet Pan
+preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2020/04/Sheet-Pan-Lemon-Rosemary-Dijon-Chicken-and-Potatoes-with-Feta-Goddess-Sauce-1-500x500.jpg
+source: https://www.halfbakedharvest.com/sheet-pan-lemon-rosemary-dijon-chicken/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

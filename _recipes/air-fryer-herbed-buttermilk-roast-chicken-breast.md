@@ -1,14 +1,14 @@
 ---
-:title: Air Fryer Herbed Buttermilk Roast Chicken Breast
-:name: Air Fryer Herbed Buttermilk Roast Chicken Breast
-:prep_time: 30 mins
-:cook_time: 55 mins
-:servings: 2 servings
-:tags: []
-:preview_url: https://www.skinnytaste.com/wp-content/uploads/2020/10/Air-Fryer-Herbed-Buttermilk-Roast-Chicken-Breast-6.jpg
-:source: https://www.skinnytaste.com/air-fryer-herbed-buttermilk-chicken-breast/
-:source_kind: url
-:notes: []
+title: Air Fryer Herbed Buttermilk Roast Chicken Breast
+name: Air Fryer Herbed Buttermilk Roast Chicken Breast
+prep_time: 30 mins
+cook_time: 55 mins
+servings: 2 servings
+tags: []
+preview_url: https://www.skinnytaste.com/wp-content/uploads/2020/10/Air-Fryer-Herbed-Buttermilk-Roast-Chicken-Breast-6.jpg
+source: https://www.skinnytaste.com/air-fryer-herbed-buttermilk-chicken-breast/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

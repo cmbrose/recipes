@@ -1,14 +1,14 @@
 ---
-:title: Sausage, Pepper and Onion Stromboli (Stuffed Sausage Bread)
-:name: Sausage, Pepper and Onion Stromboli (Stuffed Sausage Bread)
-:prep_time: 10 mins
-:cook_time: 50 mins
-:servings: 8 servings
-:tags: []
-:preview_url: https://www.skinnytaste.com/wp-content/uploads/2021/08/Spicy-Sausage-and-Pepper-Bread-10.jpg
-:source: https://www.skinnytaste.com/sausage-pepper-and-onion-stromboli/
-:source_kind: url
-:notes: []
+title: Sausage, Pepper and Onion Stromboli (Stuffed Sausage Bread)
+name: Sausage, Pepper and Onion Stromboli (Stuffed Sausage Bread)
+prep_time: 10 mins
+cook_time: 50 mins
+servings: 8 servings
+tags: []
+preview_url: https://www.skinnytaste.com/wp-content/uploads/2021/08/Spicy-Sausage-and-Pepper-Bread-10.jpg
+source: https://www.skinnytaste.com/sausage-pepper-and-onion-stromboli/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

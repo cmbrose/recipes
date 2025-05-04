@@ -1,18 +1,17 @@
 ---
-:title: Broccoli Salad
-:name: Broccoli Salad
-:prep_time: 10 minutes
-:cook_time: 15 minutes
-:total_time: 25 minutes
-:servings: ''
-:tags:
-- "---"
-- "- Vegan"
-- "- Salad"
-:preview_url: https://cdn.loveandlemons.com/wp-content/uploads/2019/05/broccoli-salad-recipe1-150x150.jpg
-:source: https://www.loveandlemons.com/broccoli-salad/
-:source_kind: url
-:notes: []
+title: Broccoli Salad
+name: Broccoli Salad
+prep_time: 10 minutes
+cook_time: 15 minutes
+total_time: 25 minutes
+servings: ''
+tags:
+- Vegan
+- Salad
+preview_url: https://cdn.loveandlemons.com/wp-content/uploads/2019/05/broccoli-salad-recipe1-150x150.jpg
+source: https://www.loveandlemons.com/broccoli-salad/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

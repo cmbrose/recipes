@@ -1,16 +1,15 @@
 ---
-:title: Broccoli Cheddar Chicken and Rice Casserole
-:name: Broccoli Cheddar Chicken and Rice Casserole
-:prep_time: '15'
-:cook_time: '50'
-:servings: '8'
-:tags:
-- "---"
-- "- Chicken"
-:preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2019/08/Broccoli-Cheddar-Chicken-and-Rice-Casserole-7.jpg
-:source: https://www.halfbakedharvest.com/broccoli-cheddar-chicken-and-rice-casserole/
-:source_kind: url
-:notes: []
+title: Broccoli Cheddar Chicken and Rice Casserole
+name: Broccoli Cheddar Chicken and Rice Casserole
+prep_time: '15'
+cook_time: '50'
+servings: '8'
+tags:
+- Chicken
+preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2019/08/Broccoli-Cheddar-Chicken-and-Rice-Casserole-7.jpg
+source: https://www.halfbakedharvest.com/broccoli-cheddar-chicken-and-rice-casserole/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

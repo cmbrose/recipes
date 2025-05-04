@@ -1,17 +1,16 @@
 ---
-:title: Soft Breadsticks
-:name: Soft Breadsticks
-:prep_time: 10 mins
-:cook_time: 25 mins
-:total_time: 1 hr 35 mins
-:servings: 3 dozen bread sticks
-:tags:
-- "---"
-- "- bread"
-:preview_url: https://www.kingarthurbaking.com/sites/default/files/styles/featured_image/public/recipe_legacy/1022-3-large.jpg?itok=eDJ7sB1A
-:source: https://www.kingarthurbaking.com/recipes/soft-breadsticks-recipe
-:source_kind: url
-:notes: []
+title: Soft Breadsticks
+name: Soft Breadsticks
+prep_time: 10 mins
+cook_time: 25 mins
+total_time: 1 hr 35 mins
+servings: 3 dozen bread sticks
+tags:
+- bread
+preview_url: https://www.kingarthurbaking.com/sites/default/files/styles/featured_image/public/recipe_legacy/1022-3-large.jpg?itok=eDJ7sB1A
+source: https://www.kingarthurbaking.com/recipes/soft-breadsticks-recipe
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

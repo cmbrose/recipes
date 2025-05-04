@@ -1,14 +1,13 @@
 ---
-:title: Gumdrop Bread (not Yeasted)
-:name: Gumdrop Bread (not Yeasted)
-:prep_time: 40 min
-:cook_time: 60 min
-:tags:
-- "---"
-- "- GrandmaBrose"
-- "- cakes"
-:source_kind: manual
-:notes: []
+title: Gumdrop Bread (not Yeasted)
+name: Gumdrop Bread (not Yeasted)
+prep_time: 40 min
+cook_time: 60 min
+tags:
+- GrandmaBrose
+- cakes
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

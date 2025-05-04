@@ -1,14 +1,14 @@
 ---
-:title: Sloppy Joe Recipe
-:name: Sloppy Joe Recipe
-:prep_time: 10 mins
-:cook_time: 20 mins
-:servings: 7 servings
-:tags: []
-:preview_url: https://www.skinnytaste.com/wp-content/uploads/2010/10/Skinny-Sloppy-Joe_s-9.jpg
-:source: https://www.skinnytaste.com/skinny-sloppy-joes/
-:source_kind: url
-:notes: []
+title: Sloppy Joe Recipe
+name: Sloppy Joe Recipe
+prep_time: 10 mins
+cook_time: 20 mins
+servings: 7 servings
+tags: []
+preview_url: https://www.skinnytaste.com/wp-content/uploads/2010/10/Skinny-Sloppy-Joe_s-9.jpg
+source: https://www.skinnytaste.com/skinny-sloppy-joes/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

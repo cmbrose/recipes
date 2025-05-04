@@ -1,14 +1,14 @@
 ---
-:title: Homemade Kansas City Style BBQ Sauce
-:name: Homemade Kansas City Style BBQ Sauce
-:prep_time: 5 mins
-:cook_time: 25 mins
-:servings: 17 servings
-:tags: []
-:preview_url: https://www.skinnytaste.com/wp-content/uploads/2012/04/Kansas-City-BBQ-Sauce-9.jpg
-:source: https://www.skinnytaste.com/homemade-kansas-style-bbq-sauce/
-:source_kind: url
-:notes: []
+title: Homemade Kansas City Style BBQ Sauce
+name: Homemade Kansas City Style BBQ Sauce
+prep_time: 5 mins
+cook_time: 25 mins
+servings: 17 servings
+tags: []
+preview_url: https://www.skinnytaste.com/wp-content/uploads/2012/04/Kansas-City-BBQ-Sauce-9.jpg
+source: https://www.skinnytaste.com/homemade-kansas-style-bbq-sauce/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

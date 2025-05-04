@@ -1,14 +1,14 @@
 ---
-:title: No Bean Turkey and Sweet Potato Chili
-:name: No Bean Turkey and Sweet Potato Chili
-:prep_time: 5 minutes mins
-:cook_time: 30 minutes mins
-:servings: 5 servings
-:tags: []
-:preview_url: https://www.skinnytaste.com/wp-content/uploads/2018/10/No-Bean-Turkey-Chili-1-9-520x520.jpg
-:source: https://www.skinnytaste.com/no-bean-turkey-and-sweet-potato-chili/
-:source_kind: url
-:notes: []
+title: No Bean Turkey and Sweet Potato Chili
+name: No Bean Turkey and Sweet Potato Chili
+prep_time: 5 minutes mins
+cook_time: 30 minutes mins
+servings: 5 servings
+tags: []
+preview_url: https://www.skinnytaste.com/wp-content/uploads/2018/10/No-Bean-Turkey-Chili-1-9-520x520.jpg
+source: https://www.skinnytaste.com/no-bean-turkey-and-sweet-potato-chili/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

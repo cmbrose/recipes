@@ -1,15 +1,14 @@
 ---
-:title: Rhubarb Bars
-:name: Rhubarb Bars
-:prep_time: 10 min
-:cook_time: 55 min
-:tags:
-- "---"
-- "- GrandmaBrose"
-- "- bars"
-:preview_url: ''
-:source_kind: manual
-:notes: []
+title: Rhubarb Bars
+name: Rhubarb Bars
+prep_time: 10 min
+cook_time: 55 min
+tags:
+- GrandmaBrose
+- bars
+preview_url: ''
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

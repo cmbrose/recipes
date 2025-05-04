@@ -1,17 +1,16 @@
 ---
-:title: Pasta Bolognese
-:name: Pasta Bolognese
-:prep_time: 1 hour
-:cook_time: 2+ hours
-:servings: '8'
-:tags:
-- "---"
-- "- Pasta"
-- "- Beef"
-:preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2021/12/My-Familys-Favorite-Pesto-Pasta-Bolognese-5.jpg
-:source: https://www.halfbakedharvest.com/pesto-pasta-bolognese/
-:source_kind: url
-:notes: []
+title: Pasta Bolognese
+name: Pasta Bolognese
+prep_time: 1 hour
+cook_time: 2+ hours
+servings: '8'
+tags:
+- Pasta
+- Beef
+preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2021/12/My-Familys-Favorite-Pesto-Pasta-Bolognese-5.jpg
+source: https://www.halfbakedharvest.com/pesto-pasta-bolognese/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

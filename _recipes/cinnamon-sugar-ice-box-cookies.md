@@ -1,16 +1,15 @@
 ---
-:title: Cinnamon Sugar Ice Box Cookies
-:name: Cinnamon Sugar Ice Box Cookies
-:prep_time: 15 min + 6 hours chilling
-:cook_time: 12 min
-:total_time: 6.5 hours
-:servings: 9 dozen
-:tags:
-- "---"
-- "- cookies"
-- "- GrandmaBrose"
-:source_kind: manual
-:notes: []
+title: Cinnamon Sugar Ice Box Cookies
+name: Cinnamon Sugar Ice Box Cookies
+prep_time: 15 min + 6 hours chilling
+cook_time: 12 min
+total_time: 6.5 hours
+servings: 9 dozen
+tags:
+- cookies
+- GrandmaBrose
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

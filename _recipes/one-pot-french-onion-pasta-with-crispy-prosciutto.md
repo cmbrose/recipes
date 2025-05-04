@@ -1,16 +1,15 @@
 ---
-:title: One Pot French Onion Pasta with Crispy Prosciutto
-:name: One Pot French Onion Pasta with Crispy Prosciutto
-:prep_time: '15'
-:cook_time: '45'
-:servings: ''
-:tags:
-- "---"
-- "- Pasta"
-:preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2021/10/One-Pot-French-Onion-Pasta-with-Crispy-Prosciutto-6.jpg
-:source: https://www.halfbakedharvest.com/french-onion-pasta/
-:source_kind: url
-:notes: []
+title: One Pot French Onion Pasta with Crispy Prosciutto
+name: One Pot French Onion Pasta with Crispy Prosciutto
+prep_time: '15'
+cook_time: '45'
+servings: ''
+tags:
+- Pasta
+preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2021/10/One-Pot-French-Onion-Pasta-with-Crispy-Prosciutto-6.jpg
+source: https://www.halfbakedharvest.com/french-onion-pasta/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

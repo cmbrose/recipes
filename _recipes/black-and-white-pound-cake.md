@@ -1,12 +1,11 @@
 ---
-:title: Black and White Pound Cake
-:name: Black and White Pound Cake
-:tags:
-- "---"
-- "- GrandmaBrose"
-- "- cake"
-:source_kind: manual
-:notes: []
+title: Black and White Pound Cake
+name: Black and White Pound Cake
+tags:
+- GrandmaBrose
+- cake
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

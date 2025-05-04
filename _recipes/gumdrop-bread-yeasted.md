@@ -1,14 +1,13 @@
 ---
-:title: Gumdrop Bread (Yeasted)
-:name: Gumdrop Bread (Yeasted)
-:prep_time: 3 hours
-:cook_time: 25 min
-:tags:
-- "---"
-- "- GrandmaBrose"
-- "- bread"
-:source_kind: manual
-:notes: []
+title: Gumdrop Bread (Yeasted)
+name: Gumdrop Bread (Yeasted)
+prep_time: 3 hours
+cook_time: 25 min
+tags:
+- GrandmaBrose
+- bread
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

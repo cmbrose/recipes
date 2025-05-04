@@ -1,17 +1,16 @@
 ---
-:title: Sheet Pan Cheesy Poblano Corn Enchiladas
-:name: Sheet Pan Cheesy Poblano Corn Enchiladas
-:prep_time: '15'
-:cook_time: '30'
-:servings: ''
-:tags:
-- "---"
-- "- Chicken"
-- "- Mexican"
-:preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2021/06/Sheet-Pan-Cheesy-Poblano-Corn-Enchiladas-8.jpg
-:source: https://www.halfbakedharvest.com/sheet-pan-cheesy-poblano-corn-enchiladas/
-:source_kind: url
-:notes: []
+title: Sheet Pan Cheesy Poblano Corn Enchiladas
+name: Sheet Pan Cheesy Poblano Corn Enchiladas
+prep_time: '15'
+cook_time: '30'
+servings: ''
+tags:
+- Chicken
+- Mexican
+preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2021/06/Sheet-Pan-Cheesy-Poblano-Corn-Enchiladas-8.jpg
+source: https://www.halfbakedharvest.com/sheet-pan-cheesy-poblano-corn-enchiladas/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

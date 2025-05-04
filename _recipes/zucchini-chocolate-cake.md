@@ -1,14 +1,13 @@
 ---
-:title: Zucchini Chocolate Cake
-:name: Zucchini Chocolate Cake
-:prep_time: 15 min
-:cook_time: 1 hour
-:tags:
-- "---"
-- "- GrandmaBrose"
-- "- cake"
-:source_kind: manual
-:notes: []
+title: Zucchini Chocolate Cake
+name: Zucchini Chocolate Cake
+prep_time: 15 min
+cook_time: 1 hour
+tags:
+- GrandmaBrose
+- cake
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

@@ -1,14 +1,13 @@
 ---
-:title: Nut Butter Balls
-:name: Nut Butter Balls
-:prep_time: 15 min
-:cook_time: 15 min
-:tags:
-- "---"
-- "- cookies"
-- "- GrandmaBrose"
-:source_kind: manual
-:notes: []
+title: Nut Butter Balls
+name: Nut Butter Balls
+prep_time: 15 min
+cook_time: 15 min
+tags:
+- cookies
+- GrandmaBrose
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

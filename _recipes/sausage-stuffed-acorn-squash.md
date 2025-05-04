@@ -1,15 +1,14 @@
 ---
-:title: Sausage Stuffed Acorn Squash
-:name: Sausage Stuffed Acorn Squash
-:prep_time: 20 min
-:cook_time: 1 hour
-:servings: '8'
-:tags:
-- "---"
-- "- GrandmaBrose"
-- "- Sausage"
-:source_kind: manual
-:notes: []
+title: Sausage Stuffed Acorn Squash
+name: Sausage Stuffed Acorn Squash
+prep_time: 20 min
+cook_time: 1 hour
+servings: '8'
+tags:
+- GrandmaBrose
+- Sausage
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

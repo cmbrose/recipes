@@ -1,14 +1,14 @@
 ---
-:title: Honey Mustard Pretzel Chicken and Avocado Bacon Salad
-:name: Honey Mustard Pretzel Chicken and Avocado Bacon Salad
-:prep_time: '25'
-:cook_time: '15'
-:servings: ''
-:tags: []
-:preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2021/04/Honey-Mustard-Pretzel-Chicken-and-Avocado-Bacon-Salad-5-500x500.jpg
-:source: https://www.halfbakedharvest.com/pretzel-chicken-and-avocado-bacon-salad/
-:source_kind: url
-:notes: []
+title: Honey Mustard Pretzel Chicken and Avocado Bacon Salad
+name: Honey Mustard Pretzel Chicken and Avocado Bacon Salad
+prep_time: '25'
+cook_time: '15'
+servings: ''
+tags: []
+preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2021/04/Honey-Mustard-Pretzel-Chicken-and-Avocado-Bacon-Salad-5-500x500.jpg
+source: https://www.halfbakedharvest.com/pretzel-chicken-and-avocado-bacon-salad/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

@@ -1,17 +1,15 @@
 ---
-:title: Mushroom Shakshuka
-:name: Mushroom Shakshuka
-:prep_time: 10 min
-:cook_time: 25 min
-:servings: '4'
-:tags:
-- "---"
-- "- Breakfast"
-:preview_url: https://mypoppet.com.au/living/mp-content/uploads/2019/08/mushroom-Shakshuka_5.jpg
-:source_kind: manual
-:notes:
-- "---"
-- "- Goes well with a crusty toasted bread"
+title: Mushroom Shakshuka
+name: Mushroom Shakshuka
+prep_time: 10 min
+cook_time: 25 min
+servings: '4'
+tags:
+- Breakfast
+preview_url: https://mypoppet.com.au/living/mp-content/uploads/2019/08/mushroom-Shakshuka_5.jpg
+source_kind: manual
+notes:
+- Goes well with a crusty toasted bread
 ---
 
 ## Ingredients

@@ -1,17 +1,16 @@
 ---
-:title: Basil Parmesan Pasta with Crispy Chicken, Prosciutto, and Arugula
-:name: Basil Parmesan Pasta with Crispy Chicken, Prosciutto, and Arugula
-:prep_time: '25'
-:cook_time: '15'
-:servings: ''
-:tags:
-- "---"
-- "- Chicken"
-- "- Pasta"
-:preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2021/03/Basil-Parmesan-Pasta-with-Crispy-Chicken-Prosciutto-and-Arugula-8.jpg
-:source: https://www.halfbakedharvest.com/basil-parmesan-pasta-with-crispy-chicken/
-:source_kind: url
-:notes: []
+title: Basil Parmesan Pasta with Crispy Chicken, Prosciutto, and Arugula
+name: Basil Parmesan Pasta with Crispy Chicken, Prosciutto, and Arugula
+prep_time: '25'
+cook_time: '15'
+servings: ''
+tags:
+- Chicken
+- Pasta
+preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2021/03/Basil-Parmesan-Pasta-with-Crispy-Chicken-Prosciutto-and-Arugula-8.jpg
+source: https://www.halfbakedharvest.com/basil-parmesan-pasta-with-crispy-chicken/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

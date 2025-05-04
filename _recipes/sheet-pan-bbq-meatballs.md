@@ -1,16 +1,15 @@
 ---
-:title: Sheet Pan BBQ Meatballs
-:name: Sheet Pan BBQ Meatballs
-:prep_time: '20'
-:cook_time: '25'
-:servings: '4'
-:tags:
-- "---"
-- "- Turkey"
-:preview_url: https://www.budgetbytes.com/wp-content/uploads/2021/03/Sheet-Pan-BBQ-Meatballs-H-640x640.jpg
-:source: https://www.budgetbytes.com/sheet-pan-bbq-meatballs/
-:source_kind: url
-:notes: []
+title: Sheet Pan BBQ Meatballs
+name: Sheet Pan BBQ Meatballs
+prep_time: '20'
+cook_time: '25'
+servings: '4'
+tags:
+- Turkey
+preview_url: https://www.budgetbytes.com/wp-content/uploads/2021/03/Sheet-Pan-BBQ-Meatballs-H-640x640.jpg
+source: https://www.budgetbytes.com/sheet-pan-bbq-meatballs/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

@@ -1,17 +1,16 @@
 ---
-:title: One Skillet White Chicken Chili Bake
-:name: One Skillet White Chicken Chili Bake
-:prep_time: '15'
-:cook_time: '30'
-:servings: ''
-:tags:
-- "---"
-- "- Chicken"
-- "- Easy"
-:preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2022/01/One-Skillet-White-Chicken-Chili-Bake-6.jpg
-:source: https://www.halfbakedharvest.com/white-chicken-chili-bake/
-:source_kind: url
-:notes: []
+title: One Skillet White Chicken Chili Bake
+name: One Skillet White Chicken Chili Bake
+prep_time: '15'
+cook_time: '30'
+servings: ''
+tags:
+- Chicken
+- Easy
+preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2022/01/One-Skillet-White-Chicken-Chili-Bake-6.jpg
+source: https://www.halfbakedharvest.com/white-chicken-chili-bake/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

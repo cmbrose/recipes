@@ -1,18 +1,17 @@
 ---
-:title: Creamy Pasta
-:name: Creamy Pasta
-:prep_time: 10 mins
-:cook_time: 20 mins
-:total_time: 30 mins
-:servings: '4'
-:tags:
-- "---"
-- "- Vegan"
-- "- Pasta"
-:preview_url: https://cdn.loveandlemons.com/wp-content/uploads/2017/10/vegan-pasta.jpg
-:source: https://www.loveandlemons.com/vegan-pasta/
-:source_kind: url
-:notes: []
+title: Creamy Pasta
+name: Creamy Pasta
+prep_time: 10 mins
+cook_time: 20 mins
+total_time: 30 mins
+servings: '4'
+tags:
+- Vegan
+- Pasta
+preview_url: https://cdn.loveandlemons.com/wp-content/uploads/2017/10/vegan-pasta.jpg
+source: https://www.loveandlemons.com/vegan-pasta/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

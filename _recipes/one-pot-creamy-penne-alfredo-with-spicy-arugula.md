@@ -1,17 +1,16 @@
 ---
-:title: One Pot Creamy Penne Alfredo with Spicy Arugula
-:name: One Pot Creamy Penne Alfredo with Spicy Arugula
-:prep_time: '15'
-:cook_time: '15'
-:servings: ''
-:tags:
-- "---"
-- "- Chicken"
-- "- Pasta"
-:preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2021/04/One-Pot-Creamy-Penne-Alfredo-with-Spicy-Arugula-1-500x500.jpg
-:source: https://www.halfbakedharvest.com/one-pot-creamy-penne-alfredo/
-:source_kind: url
-:notes: []
+title: One Pot Creamy Penne Alfredo with Spicy Arugula
+name: One Pot Creamy Penne Alfredo with Spicy Arugula
+prep_time: '15'
+cook_time: '15'
+servings: ''
+tags:
+- Chicken
+- Pasta
+preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2021/04/One-Pot-Creamy-Penne-Alfredo-with-Spicy-Arugula-1-500x500.jpg
+source: https://www.halfbakedharvest.com/one-pot-creamy-penne-alfredo/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

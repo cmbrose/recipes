@@ -1,16 +1,15 @@
 ---
-:title: Kentucky Fried Chicken
-:name: Kentucky Fried Chicken
-:prep_time: 15 min
-:cook_time: 1 hour
-:servings: '6'
-:tags:
-- "---"
-- "- GrandmaBrose"
-- "- Chicken"
-:preview_url: https://i.imgur.com/mGqW369.jpg
-:source_kind: manual
-:notes: []
+title: Kentucky Fried Chicken
+name: Kentucky Fried Chicken
+prep_time: 15 min
+cook_time: 1 hour
+servings: '6'
+tags:
+- GrandmaBrose
+- Chicken
+preview_url: https://i.imgur.com/mGqW369.jpg
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

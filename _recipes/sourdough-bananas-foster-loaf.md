@@ -1,12 +1,11 @@
 ---
-:title: Sourdough Bananas Foster Loaf
-:name: Sourdough Bananas Foster Loaf
-:tags:
-- "---"
-- "- bread"
-- "- Sourdough"
-:source_kind: manual
-:notes: []
+title: Sourdough Bananas Foster Loaf
+name: Sourdough Bananas Foster Loaf
+tags:
+- bread
+- Sourdough
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

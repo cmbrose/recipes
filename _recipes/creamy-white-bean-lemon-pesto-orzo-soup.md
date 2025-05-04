@@ -1,18 +1,17 @@
 ---
-:title: Creamy White Bean Lemon Pesto Orzo Soup
-:name: Creamy White Bean Lemon Pesto Orzo Soup
-:prep_time: '5'
-:cook_time: '15'
-:servings: ''
-:tags:
-- "---"
-- "- Soup"
-- "- Pasta"
-- "- Easy"
-:preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2022/02/Creamy-White-Bean-Lemon-Pesto-Orzo-Soup-5-1024x1536.jpg
-:source: https://www.halfbakedharvest.com/white-bean-lemon-pesto-orzo-soup/
-:source_kind: url
-:notes: []
+title: Creamy White Bean Lemon Pesto Orzo Soup
+name: Creamy White Bean Lemon Pesto Orzo Soup
+prep_time: '5'
+cook_time: '15'
+servings: ''
+tags:
+- Soup
+- Pasta
+- Easy
+preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2022/02/Creamy-White-Bean-Lemon-Pesto-Orzo-Soup-5-1024x1536.jpg
+source: https://www.halfbakedharvest.com/white-bean-lemon-pesto-orzo-soup/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

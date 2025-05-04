@@ -1,18 +1,17 @@
 ---
-:title: Buttery Sourdough Buns
-:name: Buttery Sourdough Buns
-:prep_time: 20 mins
-:cook_time: 22 to 25 mins
-:total_time: 3 hrs 42 mins
-:servings: 16 buns
-:tags:
-- "---"
-- "- bread"
-- "- Sourdough"
-:preview_url: https://www.kingarthurbaking.com/sites/default/files/styles/featured_image/public/recipe_legacy/3931-3-large.jpg?itok=mBVV8t1f
-:source: https://www.kingarthurbaking.com/recipes/buttery-sourdough-buns-recipe
-:source_kind: url
-:notes: []
+title: Buttery Sourdough Buns
+name: Buttery Sourdough Buns
+prep_time: 20 mins
+cook_time: 22 to 25 mins
+total_time: 3 hrs 42 mins
+servings: 16 buns
+tags:
+- bread
+- Sourdough
+preview_url: https://www.kingarthurbaking.com/sites/default/files/styles/featured_image/public/recipe_legacy/3931-3-large.jpg?itok=mBVV8t1f
+source: https://www.kingarthurbaking.com/recipes/buttery-sourdough-buns-recipe
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

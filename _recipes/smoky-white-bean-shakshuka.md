@@ -1,14 +1,14 @@
 ---
-:title: Smoky White Bean Shakshuka
-:name: Smoky White Bean Shakshuka
-:prep_time: '5'
-:cook_time: '25'
-:servings: '4'
-:tags: []
-:preview_url: "//www.budgetbytes.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif"
-:source: https://www.budgetbytes.com/smoky-white-bean-shakshuka/
-:source_kind: url
-:notes: []
+title: Smoky White Bean Shakshuka
+name: Smoky White Bean Shakshuka
+prep_time: '5'
+cook_time: '25'
+servings: '4'
+tags: []
+preview_url: "//www.budgetbytes.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif"
+source: https://www.budgetbytes.com/smoky-white-bean-shakshuka/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

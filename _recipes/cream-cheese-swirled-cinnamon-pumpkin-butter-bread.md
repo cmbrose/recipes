@@ -1,14 +1,14 @@
 ---
-:title: Cream Cheese Swirled Cinnamon Pumpkin Butter Bread
-:name: Cream Cheese Swirled Cinnamon Pumpkin Butter Bread
-:prep_time: '15'
-:cook_time: '45'
-:servings: ''
-:tags: []
-:preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2021/10/Cream-Cheese-Swirled-Cinnamon-Pumpkin-Butter-Bread-10.jpg
-:source: https://www.halfbakedharvest.com/cinnamon-pumpkin-butter-bread/
-:source_kind: url
-:notes: []
+title: Cream Cheese Swirled Cinnamon Pumpkin Butter Bread
+name: Cream Cheese Swirled Cinnamon Pumpkin Butter Bread
+prep_time: '15'
+cook_time: '45'
+servings: ''
+tags: []
+preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2021/10/Cream-Cheese-Swirled-Cinnamon-Pumpkin-Butter-Bread-10.jpg
+source: https://www.halfbakedharvest.com/cinnamon-pumpkin-butter-bread/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

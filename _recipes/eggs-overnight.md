@@ -1,14 +1,13 @@
 ---
-:title: Eggs Overnight
-:name: Eggs Overnight
-:prep_time: 20 min + Overnight
-:cook_time: 45 min
-:servings: '10'
-:tags:
-- "---"
-- "- Breakfast"
-:source_kind: manual
-:notes: []
+title: Eggs Overnight
+name: Eggs Overnight
+prep_time: 20 min + Overnight
+cook_time: 45 min
+servings: '10'
+tags:
+- Breakfast
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

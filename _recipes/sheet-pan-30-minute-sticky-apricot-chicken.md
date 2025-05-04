@@ -1,17 +1,16 @@
 ---
-:title: "Sheet Pan 30 Minute Sticky Apricot Chicken\t\t"
-:name: "Sheet Pan 30 Minute Sticky Apricot Chicken\t\t"
-:prep_time: '10'
-:cook_time: '20'
-:servings: ''
-:tags:
-- "---"
-- "- Tuesday"
-- "- Sheet Pan"
-:preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2021/03/Sheet-Pan-30-Minute-Sticky-Apricot-Chicken-1-500x500.jpg
-:source: https://www.halfbakedharvest.com/sticky-apricot-chicken/
-:source_kind: url
-:notes: []
+title: "Sheet Pan 30 Minute Sticky Apricot Chicken\t\t"
+name: "Sheet Pan 30 Minute Sticky Apricot Chicken\t\t"
+prep_time: '10'
+cook_time: '20'
+servings: ''
+tags:
+- Tuesday
+- Sheet Pan
+preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2021/03/Sheet-Pan-30-Minute-Sticky-Apricot-Chicken-1-500x500.jpg
+source: https://www.halfbakedharvest.com/sticky-apricot-chicken/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

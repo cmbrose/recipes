@@ -1,16 +1,15 @@
 ---
-:title: Skillet Louisiana Style Chicken and Rice
-:name: Skillet Louisiana Style Chicken and Rice
-:prep_time: '20'
-:cook_time: '50'
-:servings: ''
-:tags:
-- "---"
-- "- Chicken"
-:preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2022/03/One-Skillet-Louisiana-Style-Chicken-and-Rice-7.jpg
-:source: https://www.halfbakedharvest.com/louisiana-style-chicken-and-rice/
-:source_kind: url
-:notes: []
+title: Skillet Louisiana Style Chicken and Rice
+name: Skillet Louisiana Style Chicken and Rice
+prep_time: '20'
+cook_time: '50'
+servings: ''
+tags:
+- Chicken
+preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2022/03/One-Skillet-Louisiana-Style-Chicken-and-Rice-7.jpg
+source: https://www.halfbakedharvest.com/louisiana-style-chicken-and-rice/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

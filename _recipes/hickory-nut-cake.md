@@ -1,14 +1,13 @@
 ---
-:title: Hickory Nut Cake
-:name: Hickory Nut Cake
-:prep_time: 20 min
-:cook_time: 30 min
-:tags:
-- "---"
-- "- GrandmaBrose"
-- "- cake"
-:source_kind: manual
-:notes: []
+title: Hickory Nut Cake
+name: Hickory Nut Cake
+prep_time: 20 min
+cook_time: 30 min
+tags:
+- GrandmaBrose
+- cake
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

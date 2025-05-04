@@ -1,14 +1,14 @@
 ---
-:title: BBQ Beer Chicken Skewers with Avocado Corn and Feta Salsa
-:name: BBQ Beer Chicken Skewers with Avocado Corn and Feta Salsa
-:prep_time: '10'
-:cook_time: '20'
-:servings: ''
-:tags: []
-:preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2021/05/Spicy-Beer-BBQ-Chicken-Skewers-with-Avocado-Corn-and-Feta-Salsa-6.jpg
-:source: https://www.halfbakedharvest.com/beer-bbq-chicken-skewers/
-:source_kind: url
-:notes: []
+title: BBQ Beer Chicken Skewers with Avocado Corn and Feta Salsa
+name: BBQ Beer Chicken Skewers with Avocado Corn and Feta Salsa
+prep_time: '10'
+cook_time: '20'
+servings: ''
+tags: []
+preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2021/05/Spicy-Beer-BBQ-Chicken-Skewers-with-Avocado-Corn-and-Feta-Salsa-6.jpg
+source: https://www.halfbakedharvest.com/beer-bbq-chicken-skewers/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

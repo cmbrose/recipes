@@ -1,15 +1,14 @@
 ---
-:title: Grammy's Bread Pudding
-:name: Grammy's Bread Pudding
-:prep_time: 30 min
-:cook_time: 1 hour (refrigerating)
-:servings: '10'
-:tags:
-- "---"
-- "- GrandmaBrose"
-- "- dessert"
-:source_kind: manual
-:notes: []
+title: Grammy's Bread Pudding
+name: Grammy's Bread Pudding
+prep_time: 30 min
+cook_time: 1 hour (refrigerating)
+servings: '10'
+tags:
+- GrandmaBrose
+- dessert
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

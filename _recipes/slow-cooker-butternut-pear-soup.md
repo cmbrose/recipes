@@ -1,14 +1,14 @@
 ---
-:title: Slow Cooker Butternut Pear Soup
-:name: Slow Cooker Butternut Pear Soup
-:prep_time: 5 mins
-:cook_time: 8 hrs
-:servings: 6 servings
-:tags: []
-:preview_url: https://www.skinnytaste.com/wp-content/uploads/2020/11/Slow-Cooker-Butternut-Pear-5.jpg
-:source: https://www.skinnytaste.com/slow-cooker-butternut-pear-soup/
-:source_kind: url
-:notes: []
+title: Slow Cooker Butternut Pear Soup
+name: Slow Cooker Butternut Pear Soup
+prep_time: 5 mins
+cook_time: 8 hrs
+servings: 6 servings
+tags: []
+preview_url: https://www.skinnytaste.com/wp-content/uploads/2020/11/Slow-Cooker-Butternut-Pear-5.jpg
+source: https://www.skinnytaste.com/slow-cooker-butternut-pear-soup/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

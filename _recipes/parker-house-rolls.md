@@ -1,15 +1,15 @@
 ---
-:title: Parker House Rolls
-:name: Parker House Rolls
-:prep_time: 20 mins
-:cook_time: 20 to 25 mins
-:total_time: 2 hrs 55 mins
-:servings: 16 rolls
-:tags: []
-:preview_url: https://www.kingarthurbaking.com/sites/default/files/styles/featured_image/public/2019-10/parker-house-rolls.jpg?itok=-JJxtdbD
-:source: https://www.kingarthurbaking.com/recipes/parker-house-rolls-recipe
-:source_kind: url
-:notes: []
+title: Parker House Rolls
+name: Parker House Rolls
+prep_time: 20 mins
+cook_time: 20 to 25 mins
+total_time: 2 hrs 55 mins
+servings: 16 rolls
+tags: []
+preview_url: https://www.kingarthurbaking.com/sites/default/files/styles/featured_image/public/2019-10/parker-house-rolls.jpg?itok=-JJxtdbD
+source: https://www.kingarthurbaking.com/recipes/parker-house-rolls-recipe
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

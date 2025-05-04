@@ -1,14 +1,14 @@
 ---
-:title: Ratatouille Baked Chicken
-:name: Ratatouille Baked Chicken
-:prep_time: 10 mins
-:cook_time: 1 hr
-:servings: 4 servings
-:tags: []
-:preview_url: https://www.skinnytaste.com/wp-content/uploads/2020/03/Ratatouille-Baked-Chicken-5.jpg
-:source: https://www.skinnytaste.com/ratatouille-baked-chicken/
-:source_kind: url
-:notes: []
+title: Ratatouille Baked Chicken
+name: Ratatouille Baked Chicken
+prep_time: 10 mins
+cook_time: 1 hr
+servings: 4 servings
+tags: []
+preview_url: https://www.skinnytaste.com/wp-content/uploads/2020/03/Ratatouille-Baked-Chicken-5.jpg
+source: https://www.skinnytaste.com/ratatouille-baked-chicken/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

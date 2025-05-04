@@ -1,14 +1,14 @@
 ---
-:title: Easy Vegan Polenta (Super Creamy!)
-:name: Easy Vegan Polenta (Super Creamy!)
-:prep_time: 15 minutes
-:cook_time: 30 minutes
-:servings: ''
-:tags: []
-:preview_url: https://minimalistbaker.com/wp-content/uploads/2021/03/Easy-Vegan-Poleta-SQUARE-200x200.jpg
-:source: https://minimalistbaker.com/easy-vegan-polenta-super-creamy/
-:source_kind: url
-:notes: []
+title: Easy Vegan Polenta (Super Creamy!)
+name: Easy Vegan Polenta (Super Creamy!)
+prep_time: 15 minutes
+cook_time: 30 minutes
+servings: ''
+tags: []
+preview_url: https://minimalistbaker.com/wp-content/uploads/2021/03/Easy-Vegan-Poleta-SQUARE-200x200.jpg
+source: https://minimalistbaker.com/easy-vegan-polenta-super-creamy/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

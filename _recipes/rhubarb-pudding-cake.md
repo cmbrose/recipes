@@ -1,14 +1,13 @@
 ---
-:title: Rhubarb Pudding Cake
-:name: Rhubarb Pudding Cake
-:prep_time: 15 min
-:cook_time: 30 min
-:tags:
-- "---"
-- "- GrandmaBrose"
-- "- cake"
-:source_kind: manual
-:notes: []
+title: Rhubarb Pudding Cake
+name: Rhubarb Pudding Cake
+prep_time: 15 min
+cook_time: 30 min
+tags:
+- GrandmaBrose
+- cake
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

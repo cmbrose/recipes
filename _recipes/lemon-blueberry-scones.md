@@ -1,15 +1,15 @@
 ---
-:title: Lemon Blueberry Scones
-:name: Lemon Blueberry Scones
-:prep_time: 10 mins
-:cook_time: 15 to 20 mins
-:total_time: 30 mins
-:servings: 10 scones
-:tags: []
-:preview_url: https://www.kingarthurbaking.com/sites/default/files/styles/featured_image/public/recipe_legacy/6259-3-large.jpg?itok=d1YCBOST
-:source: https://www.kingarthurbaking.com/recipes/lemon-blueberry-scones-recipe
-:source_kind: url
-:notes: []
+title: Lemon Blueberry Scones
+name: Lemon Blueberry Scones
+prep_time: 10 mins
+cook_time: 15 to 20 mins
+total_time: 30 mins
+servings: 10 scones
+tags: []
+preview_url: https://www.kingarthurbaking.com/sites/default/files/styles/featured_image/public/recipe_legacy/6259-3-large.jpg?itok=d1YCBOST
+source: https://www.kingarthurbaking.com/recipes/lemon-blueberry-scones-recipe
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

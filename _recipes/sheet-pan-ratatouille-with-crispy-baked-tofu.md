@@ -1,14 +1,14 @@
 ---
-:title: Sheet Pan Ratatouille with Crispy Baked Tofu
-:name: Sheet Pan Ratatouille with Crispy Baked Tofu
-:prep_time: 15 minutes
-:cook_time: 30 minutes
-:servings: '4'
-:tags: []
-:preview_url: https://minimalistbaker.com/wp-content/uploads/2023/11/Sheet-Pan-Ratatouille-SQUARE-200x200.jpg
-:source: https://minimalistbaker.com/sheet-pan-ratatouille-with-crispy-baked-tofu/
-:source_kind: url
-:notes: []
+title: Sheet Pan Ratatouille with Crispy Baked Tofu
+name: Sheet Pan Ratatouille with Crispy Baked Tofu
+prep_time: 15 minutes
+cook_time: 30 minutes
+servings: '4'
+tags: []
+preview_url: https://minimalistbaker.com/wp-content/uploads/2023/11/Sheet-Pan-Ratatouille-SQUARE-200x200.jpg
+source: https://minimalistbaker.com/sheet-pan-ratatouille-with-crispy-baked-tofu/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

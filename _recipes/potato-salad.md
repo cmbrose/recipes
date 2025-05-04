@@ -1,13 +1,12 @@
 ---
-:title: Potato Salad
-:name: Potato Salad
-:cook_time: ''
-:tags:
-- "---"
-- "- GrandmaBrose"
-:preview_url: ''
-:source_kind: manual
-:notes: []
+title: Potato Salad
+name: Potato Salad
+cook_time: ''
+tags:
+- GrandmaBrose
+preview_url: ''
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

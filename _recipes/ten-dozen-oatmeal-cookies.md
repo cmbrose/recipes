@@ -1,14 +1,13 @@
 ---
-:title: Ten Dozen Oatmeal Cookies
-:name: Ten Dozen Oatmeal Cookies
-:prep_time: 20 min
-:servings: ''
-:tags:
-- "---"
-- "- cookies"
-- "- GrandmaBrose"
-:source_kind: manual
-:notes: []
+title: Ten Dozen Oatmeal Cookies
+name: Ten Dozen Oatmeal Cookies
+prep_time: 20 min
+servings: ''
+tags:
+- cookies
+- GrandmaBrose
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

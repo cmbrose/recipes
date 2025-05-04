@@ -1,17 +1,16 @@
 ---
-:title: Coconut Milk Braised Black Pepper Chicken with Sweet Potatoes
-:name: Coconut Milk Braised Black Pepper Chicken with Sweet Potatoes
-:prep_time: '15'
-:cook_time: '45'
-:servings: '6'
-:tags:
-- "---"
-- "- Chicken"
-- "- Indian"
-:preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2022/01/Coconut-Milk-Braised-Black-Pepper-Chicken-with-Sweet-Potatoes-5.jpg
-:source: https://www.halfbakedharvest.com/coconut-milk-braised-black-pepper-chicken/#wprm-recipe-container-116295
-:source_kind: url
-:notes: []
+title: Coconut Milk Braised Black Pepper Chicken with Sweet Potatoes
+name: Coconut Milk Braised Black Pepper Chicken with Sweet Potatoes
+prep_time: '15'
+cook_time: '45'
+servings: '6'
+tags:
+- Chicken
+- Indian
+preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2022/01/Coconut-Milk-Braised-Black-Pepper-Chicken-with-Sweet-Potatoes-5.jpg
+source: https://www.halfbakedharvest.com/coconut-milk-braised-black-pepper-chicken/#wprm-recipe-container-116295
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

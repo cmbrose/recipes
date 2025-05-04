@@ -1,18 +1,17 @@
 ---
-:title: Stuffed Acorn Squash
-:name: Stuffed Acorn Squash
-:prep_time: 20 minutes
-:cook_time: 40 minutes
-:total_time: ''
-:servings: '4'
-:tags:
-- "---"
-- "- Vegan"
-- "- Fall"
-:preview_url: https://cdn.loveandlemons.com/wp-content/uploads/2020/11/stuffed-acorn-squash-150x150.jpg
-:source: https://www.loveandlemons.com/stuffed-acorn-squash/
-:source_kind: url
-:notes: []
+title: Stuffed Acorn Squash
+name: Stuffed Acorn Squash
+prep_time: 20 minutes
+cook_time: 40 minutes
+total_time: ''
+servings: '4'
+tags:
+- Vegan
+- Fall
+preview_url: https://cdn.loveandlemons.com/wp-content/uploads/2020/11/stuffed-acorn-squash-150x150.jpg
+source: https://www.loveandlemons.com/stuffed-acorn-squash/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

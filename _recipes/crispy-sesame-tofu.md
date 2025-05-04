@@ -1,17 +1,16 @@
 ---
-:title: Crispy Sesame Tofu
-:name: Crispy Sesame Tofu
-:prep_time: 10 minutes
-:cook_time: 30 minutes
-:total_time: 40 minutes
-:servings: '2'
-:tags:
-- "---"
-- "- Vegan"
-:preview_url: https://cdn.loveandlemons.com/wp-content/uploads/2019/05/tofu-recipe-150x150.jpg
-:source: https://www.loveandlemons.com/sesame-tofu-recipe/
-:source_kind: url
-:notes: []
+title: Crispy Sesame Tofu
+name: Crispy Sesame Tofu
+prep_time: 10 minutes
+cook_time: 30 minutes
+total_time: 40 minutes
+servings: '2'
+tags:
+- Vegan
+preview_url: https://cdn.loveandlemons.com/wp-content/uploads/2019/05/tofu-recipe-150x150.jpg
+source: https://www.loveandlemons.com/sesame-tofu-recipe/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

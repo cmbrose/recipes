@@ -1,14 +1,13 @@
 ---
-:title: Fudge 3 Ways
-:name: Fudge 3 Ways
-:cook_time: ''
-:total_time: 20 min
-:tags:
-- "---"
-- "- GrandmaBrose"
-- "- candy"
-:source_kind: manual
-:notes: []
+title: Fudge 3 Ways
+name: Fudge 3 Ways
+cook_time: ''
+total_time: 20 min
+tags:
+- GrandmaBrose
+- candy
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

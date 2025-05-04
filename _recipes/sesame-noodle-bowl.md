@@ -1,17 +1,16 @@
 ---
-:title: Sesame Noodle Bowl
-:name: Sesame Noodle Bowl
-:prep_time: ''
-:cook_time: ''
-:total_time: ''
-:servings: 2 to 3
-:tags:
-- "---"
-- "- Vegan"
-:preview_url: https://cdn.loveandlemons.com/wp-content/uploads/2019/01/IMG_15836-2.jpg
-:source: https://www.loveandlemons.com/sesame-orange-noodle-bowl/
-:source_kind: url
-:notes: []
+title: Sesame Noodle Bowl
+name: Sesame Noodle Bowl
+prep_time: ''
+cook_time: ''
+total_time: ''
+servings: 2 to 3
+tags:
+- Vegan
+preview_url: https://cdn.loveandlemons.com/wp-content/uploads/2019/01/IMG_15836-2.jpg
+source: https://www.loveandlemons.com/sesame-orange-noodle-bowl/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

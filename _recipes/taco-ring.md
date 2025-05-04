@@ -1,13 +1,13 @@
 ---
-:title: Taco Ring
-:name: Taco Ring
-:prep_time: 10-15 minutes
-:cook_time: 25 minutes
-:total_time: 40 minutes
-:servings: '8'
-:tags: []
-:source_kind: manual
-:notes: []
+title: Taco Ring
+name: Taco Ring
+prep_time: 10-15 minutes
+cook_time: 25 minutes
+total_time: 40 minutes
+servings: '8'
+tags: []
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

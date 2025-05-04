@@ -1,13 +1,12 @@
 ---
-:title: Caramels
-:name: Caramels
-:cook_time: 20 min
-:tags:
-- "---"
-- "- GrandmaBrose"
-- "- Candy"
-:source_kind: manual
-:notes: []
+title: Caramels
+name: Caramels
+cook_time: 20 min
+tags:
+- GrandmaBrose
+- Candy
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

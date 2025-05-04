@@ -1,17 +1,16 @@
 ---
-:title: Chipotle Cauliflower Nachos
-:name: Chipotle Cauliflower Nachos
-:prep_time: 10 mins
-:cook_time: 8 mins
-:total_time: 18 mins
-:servings: 4 to 6
-:tags:
-- "---"
-- "- Vegan"
-:preview_url: https://cdn.loveandlemons.com/wp-content/uploads/2018/06/IMG_12301.jpg
-:source: https://www.loveandlemons.com/chipotle-cauliflower-nachos/
-:source_kind: url
-:notes: []
+title: Chipotle Cauliflower Nachos
+name: Chipotle Cauliflower Nachos
+prep_time: 10 mins
+cook_time: 8 mins
+total_time: 18 mins
+servings: 4 to 6
+tags:
+- Vegan
+preview_url: https://cdn.loveandlemons.com/wp-content/uploads/2018/06/IMG_12301.jpg
+source: https://www.loveandlemons.com/chipotle-cauliflower-nachos/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

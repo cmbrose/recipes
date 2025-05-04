@@ -1,16 +1,15 @@
 ---
-:title: One-Pot Sausage and Basil Pasta
-:name: One-Pot Sausage and Basil Pasta
-:prep_time: 10 min
-:cook_time: 10 min
-:servings: '8'
-:tags:
-- "---"
-- "- Pasta"
-- "- Easy"
-:preview_url: https://www.tasteofhome.com/wp-content/uploads/2021/08/One-Pot-Sausage-and-Basil-Pasta_EXPS_TOHDJ22_257333_B08_10_4b-1.jpg?fit=700,1024
-:source_kind: manual
-:notes: []
+title: One-Pot Sausage and Basil Pasta
+name: One-Pot Sausage and Basil Pasta
+prep_time: 10 min
+cook_time: 10 min
+servings: '8'
+tags:
+- Pasta
+- Easy
+preview_url: https://www.tasteofhome.com/wp-content/uploads/2021/08/One-Pot-Sausage-and-Basil-Pasta_EXPS_TOHDJ22_257333_B08_10_4b-1.jpg?fit=700,1024
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

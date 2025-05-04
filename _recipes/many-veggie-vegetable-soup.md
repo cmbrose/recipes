@@ -1,18 +1,17 @@
 ---
-:title: Many-Veggie Vegetable Soup
-:name: Many-Veggie Vegetable Soup
-:prep_time: 10 minutes
-:cook_time: 30 minutes
-:total_time: 40 minutes
-:servings: '6'
-:tags:
-- "---"
-- "- Vegan"
-- "- Soup"
-:preview_url: https://cdn.loveandlemons.com/wp-content/uploads/2014/10/vegetable-soup-150x150.jpg
-:source: https://www.loveandlemons.com/vegetable-soup/
-:source_kind: url
-:notes: []
+title: Many-Veggie Vegetable Soup
+name: Many-Veggie Vegetable Soup
+prep_time: 10 minutes
+cook_time: 30 minutes
+total_time: 40 minutes
+servings: '6'
+tags:
+- Vegan
+- Soup
+preview_url: https://cdn.loveandlemons.com/wp-content/uploads/2014/10/vegetable-soup-150x150.jpg
+source: https://www.loveandlemons.com/vegetable-soup/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

@@ -1,14 +1,13 @@
 ---
-:title: Cooky Cake
-:name: Cooky Cake
-:prep_time: 15 min
-:cook_time: 20 min
-:tags:
-- "---"
-- "- cake"
-- "- GrandmaBrose"
-:source_kind: manual
-:notes: []
+title: Cooky Cake
+name: Cooky Cake
+prep_time: 15 min
+cook_time: 20 min
+tags:
+- cake
+- GrandmaBrose
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

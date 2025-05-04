@@ -1,15 +1,15 @@
 ---
-:title: Sweet Potato Hash
-:name: Sweet Potato Hash
-:prep_time: 10 minutes
-:cook_time: 20 minutes
-:total_time: 30 minutes
-:servings: ''
-:tags: []
-:preview_url: https://cdn.loveandlemons.com/wp-content/uploads/2022/09/sweet-potato-hash-150x150.jpg
-:source: https://www.loveandlemons.com/sweet-potato-hash/
-:source_kind: url
-:notes: []
+title: Sweet Potato Hash
+name: Sweet Potato Hash
+prep_time: 10 minutes
+cook_time: 20 minutes
+total_time: 30 minutes
+servings: ''
+tags: []
+preview_url: https://cdn.loveandlemons.com/wp-content/uploads/2022/09/sweet-potato-hash-150x150.jpg
+source: https://www.loveandlemons.com/sweet-potato-hash/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

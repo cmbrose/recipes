@@ -1,15 +1,15 @@
 ---
-:title: Fruit and Nut Bars (Copycat Larabar)
-:name: Fruit and Nut Bars (Copycat Larabar)
-:prep_time: ''
-:cook_time: ''
-:total_time: ''
-:servings: ''
-:tags: []
-:preview_url: https://www.yummytoddlerfood.com/wp-content/uploads/2023/02/Fruit-and-Nut-Bars-6-horiz-400x267.jpg
-:source: https://www.yummytoddlerfood.com/fruit-and-nut-bars/
-:source_kind: url
-:notes: []
+title: Fruit and Nut Bars (Copycat Larabar)
+name: Fruit and Nut Bars (Copycat Larabar)
+prep_time: ''
+cook_time: ''
+total_time: ''
+servings: ''
+tags: []
+preview_url: https://www.yummytoddlerfood.com/wp-content/uploads/2023/02/Fruit-and-Nut-Bars-6-horiz-400x267.jpg
+source: https://www.yummytoddlerfood.com/fruit-and-nut-bars/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

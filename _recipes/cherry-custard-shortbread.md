@@ -1,15 +1,14 @@
 ---
-:title: Cherry Custard Shortbread
-:name: Cherry Custard Shortbread
-:prep_time: 45 min? + chilling
-:cook_time: 45 min?
-:servings: 8-12
-:tags:
-- "---"
-- "- dessert"
-- "- GrandmaBrose"
-:source_kind: manual
-:notes: []
+title: Cherry Custard Shortbread
+name: Cherry Custard Shortbread
+prep_time: 45 min? + chilling
+cook_time: 45 min?
+servings: 8-12
+tags:
+- dessert
+- GrandmaBrose
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

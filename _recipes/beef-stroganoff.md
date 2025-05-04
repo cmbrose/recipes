@@ -1,11 +1,10 @@
 ---
-:title: Beef Stroganoff
-:name: Beef Stroganoff
-:tags:
-- "---"
-- "- Gram B"
-:source_kind: manual
-:notes: []
+title: Beef Stroganoff
+name: Beef Stroganoff
+tags:
+- Gram B
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

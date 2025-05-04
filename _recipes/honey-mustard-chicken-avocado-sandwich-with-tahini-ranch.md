@@ -1,17 +1,16 @@
 ---
-:title: Honey Mustard Chicken Avocado Sandwich with Tahini Ranch
-:name: Honey Mustard Chicken Avocado Sandwich with Tahini Ranch
-:prep_time: '30'
-:cook_time: '15'
-:servings: ''
-:tags:
-- "---"
-- "- Chicken"
-- "- Sandwich"
-:preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2022/05/Honey-Mustard-Chicken-Avocado-Sandwich-with-Tahini-Ranch.-8.jpg
-:source: https://www.halfbakedharvest.com/chicken-avocado-sandwich/
-:source_kind: url
-:notes: []
+title: Honey Mustard Chicken Avocado Sandwich with Tahini Ranch
+name: Honey Mustard Chicken Avocado Sandwich with Tahini Ranch
+prep_time: '30'
+cook_time: '15'
+servings: ''
+tags:
+- Chicken
+- Sandwich
+preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2022/05/Honey-Mustard-Chicken-Avocado-Sandwich-with-Tahini-Ranch.-8.jpg
+source: https://www.halfbakedharvest.com/chicken-avocado-sandwich/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

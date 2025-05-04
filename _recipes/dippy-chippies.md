@@ -1,15 +1,14 @@
 ---
-:title: Dippy Chippies
-:name: Dippy Chippies
-:prep_time: '10'
-:cook_time: '25'
-:tags:
-- "---"
-- "- GrandmaBrose"
-- "- bars"
-:preview_url: ''
-:source_kind: manual
-:notes: []
+title: Dippy Chippies
+name: Dippy Chippies
+prep_time: '10'
+cook_time: '25'
+tags:
+- GrandmaBrose
+- bars
+preview_url: ''
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

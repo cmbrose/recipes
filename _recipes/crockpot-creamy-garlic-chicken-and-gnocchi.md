@@ -1,17 +1,16 @@
 ---
-:title: 'Crockpot Creamy Garlic Chicken and Gnocchi:'
-:name: 'Crockpot Creamy Garlic Chicken and Gnocchi:'
-:prep_time: '15'
-:cook_time: '4'
-:servings: ''
-:tags:
-- "---"
-- "- Chicken"
-- "- Pasta"
-:preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2022/09/Crockpot-Creamy-Garlic-Chicken-and-Gnocchi-5.jpg
-:source: https://www.halfbakedharvest.com/garlic-chicken-and-gnocchi/
-:source_kind: url
-:notes: []
+title: 'Crockpot Creamy Garlic Chicken and Gnocchi:'
+name: 'Crockpot Creamy Garlic Chicken and Gnocchi:'
+prep_time: '15'
+cook_time: '4'
+servings: ''
+tags:
+- Chicken
+- Pasta
+preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2022/09/Crockpot-Creamy-Garlic-Chicken-and-Gnocchi-5.jpg
+source: https://www.halfbakedharvest.com/garlic-chicken-and-gnocchi/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

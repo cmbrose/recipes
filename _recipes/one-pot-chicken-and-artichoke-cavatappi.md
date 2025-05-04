@@ -1,14 +1,14 @@
 ---
-:title: One-Pot Chicken and Artichoke Cavatappi
-:name: One-Pot Chicken and Artichoke Cavatappi
-:prep_time: 10 mins
-:cook_time: 35 mins
-:servings: 4 servings
-:tags: []
-:preview_url: https://www.skinnytaste.com/wp-content/uploads/2021/03/One-Pot-Chicken-and-Artichoke-Cavatappi-8.jpg
-:source: https://www.skinnytaste.com/one-pot-chicken-and-artichoke-cavatappi/
-:source_kind: url
-:notes: []
+title: One-Pot Chicken and Artichoke Cavatappi
+name: One-Pot Chicken and Artichoke Cavatappi
+prep_time: 10 mins
+cook_time: 35 mins
+servings: 4 servings
+tags: []
+preview_url: https://www.skinnytaste.com/wp-content/uploads/2021/03/One-Pot-Chicken-and-Artichoke-Cavatappi-8.jpg
+source: https://www.skinnytaste.com/one-pot-chicken-and-artichoke-cavatappi/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

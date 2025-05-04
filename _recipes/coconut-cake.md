@@ -1,12 +1,11 @@
 ---
-:title: Coconut Cake
-:name: Coconut Cake
-:tags:
-- "---"
-- "- GrandmaBrose"
-- "- cake"
-:source_kind: manual
-:notes: []
+title: Coconut Cake
+name: Coconut Cake
+tags:
+- GrandmaBrose
+- cake
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

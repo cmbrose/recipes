@@ -1,14 +1,14 @@
 ---
-:title: Grain-Free Burrito Bowls with Shredded Mexican Chicken
-:name: Grain-Free Burrito Bowls with Shredded Mexican Chicken
-:prep_time: 15 minutes
-:cook_time: 25 minutes
-:servings: ''
-:tags: []
-:preview_url: https://minimalistbaker.com/wp-content/uploads/2019/09/Grain-Free-Burrito-Bowls-SQUARE-200x200.jpg
-:source: https://minimalistbaker.com/grain-free-burrito-bowls-with-shredded-mexican-chicken/
-:source_kind: url
-:notes: []
+title: Grain-Free Burrito Bowls with Shredded Mexican Chicken
+name: Grain-Free Burrito Bowls with Shredded Mexican Chicken
+prep_time: 15 minutes
+cook_time: 25 minutes
+servings: ''
+tags: []
+preview_url: https://minimalistbaker.com/wp-content/uploads/2019/09/Grain-Free-Burrito-Bowls-SQUARE-200x200.jpg
+source: https://minimalistbaker.com/grain-free-burrito-bowls-with-shredded-mexican-chicken/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

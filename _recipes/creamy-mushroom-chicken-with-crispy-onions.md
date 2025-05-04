@@ -1,14 +1,14 @@
 ---
-:title: Creamy Mushroom Chicken with Crispy Onions
-:name: Creamy Mushroom Chicken with Crispy Onions
-:prep_time: 10 mins
-:cook_time: 25 mins
-:servings: '4'
-:tags: []
-:preview_url: https://www.budgetbytes.com/wp-content/uploads/2020/09/Creamy-Mushroom-Chicken-with-Crispy-Onions-plate-2-500x500.jpg
-:source: https://www.budgetbytes.com/creamy-mushroom-chicken-with-crispy-onions/
-:source_kind: url
-:notes: []
+title: Creamy Mushroom Chicken with Crispy Onions
+name: Creamy Mushroom Chicken with Crispy Onions
+prep_time: 10 mins
+cook_time: 25 mins
+servings: '4'
+tags: []
+preview_url: https://www.budgetbytes.com/wp-content/uploads/2020/09/Creamy-Mushroom-Chicken-with-Crispy-Onions-plate-2-500x500.jpg
+source: https://www.budgetbytes.com/creamy-mushroom-chicken-with-crispy-onions/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

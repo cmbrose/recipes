@@ -1,14 +1,13 @@
 ---
-:title: Cherry Cheese Bread
-:name: Cherry Cheese Bread
-:prep_time: 20 min
-:cook_time: 1 hour
-:tags:
-- "---"
-- "- GrandmaBrose"
-- "- cake"
-:source_kind: manual
-:notes: []
+title: Cherry Cheese Bread
+name: Cherry Cheese Bread
+prep_time: 20 min
+cook_time: 1 hour
+tags:
+- GrandmaBrose
+- cake
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

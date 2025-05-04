@@ -1,14 +1,13 @@
 ---
-:title: Tunnel of Fudge Cake
-:name: Tunnel of Fudge Cake
-:prep_time: 30 min
-:cook_time: 50 min
-:tags:
-- "---"
-- "- GrandmaBrose"
-- "- cake"
-:source_kind: manual
-:notes: []
+title: Tunnel of Fudge Cake
+name: Tunnel of Fudge Cake
+prep_time: 30 min
+cook_time: 50 min
+tags:
+- GrandmaBrose
+- cake
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

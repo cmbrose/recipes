@@ -1,15 +1,14 @@
 ---
-:title: Oven Chicken
-:name: Oven Chicken
-:prep_time: 15 min
-:cook_time: 1 hour
-:tags:
-- "---"
-- "- GrandmaBrose"
-- "- entree"
-- "- chicken"
-:source_kind: manual
-:notes: []
+title: Oven Chicken
+name: Oven Chicken
+prep_time: 15 min
+cook_time: 1 hour
+tags:
+- GrandmaBrose
+- entree
+- chicken
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

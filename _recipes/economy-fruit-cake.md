@@ -1,14 +1,13 @@
 ---
-:title: Economy Fruit Cake
-:name: Economy Fruit Cake
-:prep_time: 30 min
-:cook_time: 1.5 hours
-:tags:
-- "---"
-- "- cake"
-- "- GrandmaBrose"
-:source_kind: manual
-:notes: []
+title: Economy Fruit Cake
+name: Economy Fruit Cake
+prep_time: 30 min
+cook_time: 1.5 hours
+tags:
+- cake
+- GrandmaBrose
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

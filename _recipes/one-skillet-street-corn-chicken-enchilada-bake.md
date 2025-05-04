@@ -1,17 +1,16 @@
 ---
-:title: One Skillet Street Corn Chicken Enchilada Bake
-:name: One Skillet Street Corn Chicken Enchilada Bake
-:prep_time: '20'
-:cook_time: '40'
-:servings: ''
-:tags:
-- "---"
-- "- Chicken"
-- "- Wednesday"
-:preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2022/08/One-Skillet-Street-Corn-Chicken-Enchilada-Bake-7.jpg
-:source: https://www.halfbakedharvest.com/chicken-enchilada-bake/
-:source_kind: url
-:notes: []
+title: One Skillet Street Corn Chicken Enchilada Bake
+name: One Skillet Street Corn Chicken Enchilada Bake
+prep_time: '20'
+cook_time: '40'
+servings: ''
+tags:
+- Chicken
+- Wednesday
+preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2022/08/One-Skillet-Street-Corn-Chicken-Enchilada-Bake-7.jpg
+source: https://www.halfbakedharvest.com/chicken-enchilada-bake/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

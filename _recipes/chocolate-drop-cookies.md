@@ -1,19 +1,17 @@
 ---
-:title: Chocolate Drop Cookies
-:name: Chocolate Drop Cookies
-:prep_time: 10 min
-:cook_time: 12 min
-:servings: 16-24
-:tags:
-- "---"
-- "- GrandmaBrose"
-- "- cookies"
-:preview_url: https://i.imgur.com/5eV1zSV.jpg
-:source_kind: manual
-:notes:
-- "---"
-- "- You may want to add chocolate or peanut butter chips. Needed more crunch (possibly"
-- double nuts)
+title: Chocolate Drop Cookies
+name: Chocolate Drop Cookies
+prep_time: 10 min
+cook_time: 12 min
+servings: 16-24
+tags:
+- GrandmaBrose
+- cookies
+preview_url: https://i.imgur.com/5eV1zSV.jpg
+source_kind: manual
+notes:
+- You may want to add chocolate or peanut butter chips. Needed more crunch (possibly
+  double nuts)
 ---
 
 ## Ingredients

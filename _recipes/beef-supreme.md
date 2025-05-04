@@ -1,15 +1,14 @@
 ---
-:title: Beef Supreme
-:name: Beef Supreme
-:prep_time: 30 min
-:cook_time: 2.5 hours
-:servings: 6-8
-:tags:
-- "---"
-- "- GrandmaBrose"
-- "- Beef"
-:source_kind: manual
-:notes: []
+title: Beef Supreme
+name: Beef Supreme
+prep_time: 30 min
+cook_time: 2.5 hours
+servings: 6-8
+tags:
+- GrandmaBrose
+- Beef
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

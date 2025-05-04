@@ -1,14 +1,13 @@
 ---
-:title: Fabulous Cheesecake
-:name: Fabulous Cheesecake
-:prep_time: 30 min + 4 hours
-:cook_time: 70 min
-:tags:
-- "---"
-- "- GrandmaBrose"
-- "- cake"
-:source_kind: manual
-:notes: []
+title: Fabulous Cheesecake
+name: Fabulous Cheesecake
+prep_time: 30 min + 4 hours
+cook_time: 70 min
+tags:
+- GrandmaBrose
+- cake
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

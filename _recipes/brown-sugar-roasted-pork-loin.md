@@ -1,16 +1,15 @@
 ---
-:title: Brown Sugar Roasted Pork Loin
-:name: Brown Sugar Roasted Pork Loin
-:prep_time: '5'
-:cook_time: 1 10
-:servings: ''
-:tags:
-- "---"
-- "- Pork"
-:preview_url: https://www.budgetbytes.com/wp-content/uploads/2020/12/Brown-Sugar-Roasted-Pork-Loin-front-640x640.jpg
-:source: https://www.budgetbytes.com/brown-sugar-roasted-pork-loin/
-:source_kind: url
-:notes: []
+title: Brown Sugar Roasted Pork Loin
+name: Brown Sugar Roasted Pork Loin
+prep_time: '5'
+cook_time: 1 10
+servings: ''
+tags:
+- Pork
+preview_url: https://www.budgetbytes.com/wp-content/uploads/2020/12/Brown-Sugar-Roasted-Pork-Loin-front-640x640.jpg
+source: https://www.budgetbytes.com/brown-sugar-roasted-pork-loin/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

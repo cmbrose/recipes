@@ -1,14 +1,14 @@
 ---
-:title: 30 Minute Crispy Cheese Chicken Tinga Tacos with Pineapple Salsa
-:name: 30 Minute Crispy Cheese Chicken Tinga Tacos with Pineapple Salsa
-:prep_time: '10'
-:cook_time: '20'
-:servings: ''
-:tags: []
-:preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2021/07/30-Minute-Crispy-Cheese-Chicken-Tinga-Tacos-with-Pineapple-Salsa-6.jpg
-:source: https://www.halfbakedharvest.com/crispy-cheese-chicken-tinga-tacos/
-:source_kind: url
-:notes: []
+title: 30 Minute Crispy Cheese Chicken Tinga Tacos with Pineapple Salsa
+name: 30 Minute Crispy Cheese Chicken Tinga Tacos with Pineapple Salsa
+prep_time: '10'
+cook_time: '20'
+servings: ''
+tags: []
+preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2021/07/30-Minute-Crispy-Cheese-Chicken-Tinga-Tacos-with-Pineapple-Salsa-6.jpg
+source: https://www.halfbakedharvest.com/crispy-cheese-chicken-tinga-tacos/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

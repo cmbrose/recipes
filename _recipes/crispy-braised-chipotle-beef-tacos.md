@@ -1,14 +1,14 @@
 ---
-:title: "Crispy Braised Chipotle Beef Tacos\t\t"
-:name: "Crispy Braised Chipotle Beef Tacos\t\t"
-:prep_time: '30'
-:cook_time: '3'
-:servings: ''
-:tags: []
-:preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2021/04/Crispy-Braised-Chipotle-Beef-Tacos-1-500x500.jpg
-:source: https://www.halfbakedharvest.com/chipotle-beef-tacos/
-:source_kind: url
-:notes: []
+title: "Crispy Braised Chipotle Beef Tacos\t\t"
+name: "Crispy Braised Chipotle Beef Tacos\t\t"
+prep_time: '30'
+cook_time: '3'
+servings: ''
+tags: []
+preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2021/04/Crispy-Braised-Chipotle-Beef-Tacos-1-500x500.jpg
+source: https://www.halfbakedharvest.com/chipotle-beef-tacos/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

@@ -1,18 +1,17 @@
 ---
-:title: Butternut Squash Soup
-:name: Butternut Squash Soup
-:prep_time: 10 minutes
-:cook_time: 35 minutes
-:total_time: 45 minutes
-:servings: '6'
-:tags:
-- "---"
-- "- Vegan"
-- "- Fall"
-:preview_url: https://cdn.loveandlemons.com/wp-content/uploads/2019/10/butternut-squash-soup-recipe-150x150.jpg
-:source: https://www.loveandlemons.com/butternut-squash-soup/
-:source_kind: url
-:notes: []
+title: Butternut Squash Soup
+name: Butternut Squash Soup
+prep_time: 10 minutes
+cook_time: 35 minutes
+total_time: 45 minutes
+servings: '6'
+tags:
+- Vegan
+- Fall
+preview_url: https://cdn.loveandlemons.com/wp-content/uploads/2019/10/butternut-squash-soup-recipe-150x150.jpg
+source: https://www.loveandlemons.com/butternut-squash-soup/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

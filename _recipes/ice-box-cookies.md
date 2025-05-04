@@ -1,12 +1,11 @@
 ---
-:title: Ice Box Cookies
-:name: Ice Box Cookies
-:tags:
-- "---"
-- "- cookies"
-- "- GrandmaBrose"
-:source_kind: manual
-:notes: []
+title: Ice Box Cookies
+name: Ice Box Cookies
+tags:
+- cookies
+- GrandmaBrose
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

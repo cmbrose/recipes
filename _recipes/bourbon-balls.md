@@ -1,13 +1,12 @@
 ---
-:title: Bourbon Balls
-:name: Bourbon Balls
-:total_time: 15 min
-:tags:
-- "---"
-- "- GrandmaBrose"
-- "- candy"
-:source_kind: manual
-:notes: []
+title: Bourbon Balls
+name: Bourbon Balls
+total_time: 15 min
+tags:
+- GrandmaBrose
+- candy
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

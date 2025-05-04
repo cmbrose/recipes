@@ -1,15 +1,14 @@
 ---
-:title: Never Fail Sweet Rolls
-:name: Never Fail Sweet Rolls
-:prep_time: 2 hours
-:cook_time: 35 min
-:tags:
-- "---"
-- "- GrandmaBrose"
-- "- bread"
-:preview_url: https://i.imgur.com/6R8vWxP.jpg
-:source_kind: manual
-:notes: []
+title: Never Fail Sweet Rolls
+name: Never Fail Sweet Rolls
+prep_time: 2 hours
+cook_time: 35 min
+tags:
+- GrandmaBrose
+- bread
+preview_url: https://i.imgur.com/6R8vWxP.jpg
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

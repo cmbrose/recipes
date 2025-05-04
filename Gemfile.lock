@@ -312,6 +312,7 @@ PLATFORMS
 DEPENDENCIES
   activerecord (~> 7.1)
   github-pages
+  jekyll-theme-primer
   mysql2 (~> 0.5)
 
 BUNDLED WITH

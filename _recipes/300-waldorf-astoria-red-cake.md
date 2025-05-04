@@ -1,14 +1,13 @@
 ---
-:title: "$300 Waldorf Astoria (Red Cake)"
-:name: "$300 Waldorf Astoria (Red Cake)"
-:prep_time: 1 hour
-:cook_time: 30 min
-:tags:
-- "---"
-- "- GrandmaBrose"
-- "- cake"
-:source_kind: manual
-:notes: []
+title: "$300 Waldorf Astoria (Red Cake)"
+name: "$300 Waldorf Astoria (Red Cake)"
+prep_time: 1 hour
+cook_time: 30 min
+tags:
+- GrandmaBrose
+- cake
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

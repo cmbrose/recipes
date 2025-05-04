@@ -1,13 +1,12 @@
 ---
-:title: English Toffee Ice Box Dessert
-:name: English Toffee Ice Box Dessert
-:prep_time: 45 min + Overnight
-:tags:
-- "---"
-- "- dessert"
-- "- GrandmaBrose"
-:source_kind: manual
-:notes: []
+title: English Toffee Ice Box Dessert
+name: English Toffee Ice Box Dessert
+prep_time: 45 min + Overnight
+tags:
+- dessert
+- GrandmaBrose
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

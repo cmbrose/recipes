@@ -1,15 +1,14 @@
 ---
-:title: Rhubarb 'Cobbler'
-:name: Rhubarb 'Cobbler'
-:prep_time: 20 min
-:cook_time: 30 min
-:tags:
-- "---"
-- "- GrandmaBrose"
-- "- bars"
-:preview_url: https://i.imgur.com/zuvYstG.jpg
-:source_kind: manual
-:notes: []
+title: Rhubarb 'Cobbler'
+name: Rhubarb 'Cobbler'
+prep_time: 20 min
+cook_time: 30 min
+tags:
+- GrandmaBrose
+- bars
+preview_url: https://i.imgur.com/zuvYstG.jpg
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

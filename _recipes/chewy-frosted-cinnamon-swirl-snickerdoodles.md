@@ -1,14 +1,14 @@
 ---
-:title: Chewy Frosted Cinnamon Swirl Snickerdoodles
-:name: Chewy Frosted Cinnamon Swirl Snickerdoodles
-:prep_time: '25'
-:cook_time: '10'
-:servings: ''
-:tags: []
-:preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2022/12/Chewy-Frosted-Cinnamon-Swirl-Snickerdoodles-8.jpg
-:source: https://www.halfbakedharvest.com/frosted-cinnamon-swirl-snickerdoodles/
-:source_kind: url
-:notes: []
+title: Chewy Frosted Cinnamon Swirl Snickerdoodles
+name: Chewy Frosted Cinnamon Swirl Snickerdoodles
+prep_time: '25'
+cook_time: '10'
+servings: ''
+tags: []
+preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2022/12/Chewy-Frosted-Cinnamon-Swirl-Snickerdoodles-8.jpg
+source: https://www.halfbakedharvest.com/frosted-cinnamon-swirl-snickerdoodles/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

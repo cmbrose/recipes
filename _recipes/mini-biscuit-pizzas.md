@@ -1,14 +1,13 @@
 ---
-:title: Mini Biscuit Pizzas
-:name: Mini Biscuit Pizzas
-:prep_time: 10 min
-:cook_time: 30 min
-:tags:
-- "---"
-- "- GrandmaBrose"
-- "- entree"
-:source_kind: manual
-:notes: []
+title: Mini Biscuit Pizzas
+name: Mini Biscuit Pizzas
+prep_time: 10 min
+cook_time: 30 min
+tags:
+- GrandmaBrose
+- entree
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

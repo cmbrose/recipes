@@ -1,15 +1,14 @@
 ---
-:title: School Lunch Peanut Butter Bars
-:name: School Lunch Peanut Butter Bars
-:prep_time: 20 min
-:cook_time: 20 min
-:tags:
-- "---"
-- "- GrandmaBrose"
-- "- bars"
-:preview_url: https://i.imgur.com/EpeYO7N.jpg
-:source_kind: manual
-:notes: []
+title: School Lunch Peanut Butter Bars
+name: School Lunch Peanut Butter Bars
+prep_time: 20 min
+cook_time: 20 min
+tags:
+- GrandmaBrose
+- bars
+preview_url: https://i.imgur.com/EpeYO7N.jpg
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

@@ -1,16 +1,15 @@
 ---
-:title: Cheese Stuffed Turkey Meatloaf Recipe
-:name: Cheese Stuffed Turkey Meatloaf Recipe
-:prep_time: 15 minutes mins
-:cook_time: 55 minutes mins
-:servings: 8 Servings
-:tags: []
-:preview_url: https://www.skinnytaste.com/wp-content/uploads/2018/01/meatloaf-1-3-520x520.jpg
-:source: https://www.skinnytaste.com/cheese-stuffed-turkey-meatloaf/
-:source_kind: url
-:notes:
-- "---"
-- "- Can swap mushrooms with 1/2 yellow onion and bell pepper finely diced."
+title: Cheese Stuffed Turkey Meatloaf Recipe
+name: Cheese Stuffed Turkey Meatloaf Recipe
+prep_time: 15 minutes mins
+cook_time: 55 minutes mins
+servings: 8 Servings
+tags: []
+preview_url: https://www.skinnytaste.com/wp-content/uploads/2018/01/meatloaf-1-3-520x520.jpg
+source: https://www.skinnytaste.com/cheese-stuffed-turkey-meatloaf/
+source_kind: url
+notes:
+- Can swap mushrooms with 1/2 yellow onion and bell pepper finely diced.
 ---
 
 ## Ingredients

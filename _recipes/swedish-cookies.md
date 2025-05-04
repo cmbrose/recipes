@@ -1,15 +1,14 @@
 ---
-:title: Swedish Cookies
-:name: Swedish Cookies
-:prep_time: 20 min
-:cook_time: 15 min
-:servings: 4-5 dozen
-:tags:
-- "---"
-- "- cookies"
-- "- GrandmaBrose"
-:source_kind: manual
-:notes: []
+title: Swedish Cookies
+name: Swedish Cookies
+prep_time: 20 min
+cook_time: 15 min
+servings: 4-5 dozen
+tags:
+- cookies
+- GrandmaBrose
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

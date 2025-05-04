@@ -1,14 +1,14 @@
 ---
-:title: Sheet Pan Hot Honey Mustard Chicken and Crispy Brussels Sprouts
-:name: Sheet Pan Hot Honey Mustard Chicken and Crispy Brussels Sprouts
-:prep_time: '15'
-:cook_time: '25'
-:servings: ''
-:tags: []
-:preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2021/09/Sheet-Pan-Hot-Honey-Mustard-Chicken-and-Crispy-Brussels-Sprouts-8.jpg
-:source: https://www.halfbakedharvest.com/sheet-pan-hot-honey-mustard-chicken/
-:source_kind: url
-:notes: []
+title: Sheet Pan Hot Honey Mustard Chicken and Crispy Brussels Sprouts
+name: Sheet Pan Hot Honey Mustard Chicken and Crispy Brussels Sprouts
+prep_time: '15'
+cook_time: '25'
+servings: ''
+tags: []
+preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2021/09/Sheet-Pan-Hot-Honey-Mustard-Chicken-and-Crispy-Brussels-Sprouts-8.jpg
+source: https://www.halfbakedharvest.com/sheet-pan-hot-honey-mustard-chicken/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

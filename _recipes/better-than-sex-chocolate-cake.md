@@ -1,14 +1,13 @@
 ---
-:title: Better Than Sex Chocolate Cake
-:name: Better Than Sex Chocolate Cake
-:prep_time: 30 min
-:cook_time: 40 min
-:tags:
-- "---"
-- "- GrandmaBrose"
-- "- cake"
-:source_kind: manual
-:notes: []
+title: Better Than Sex Chocolate Cake
+name: Better Than Sex Chocolate Cake
+prep_time: 30 min
+cook_time: 40 min
+tags:
+- GrandmaBrose
+- cake
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

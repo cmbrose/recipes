@@ -1,17 +1,16 @@
 ---
-:title: Crispy Chicken Katsu Bowls
-:name: Crispy Chicken Katsu Bowls
-:prep_time: '30'
-:cook_time: '15'
-:servings: ''
-:tags:
-- "---"
-- "- Chicken"
-- "- Asian"
-:preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2022/04/Crispy-Chicken-Katsu-Bowls-7.jpg
-:source: https://www.halfbakedharvest.com/chicken-katsu-bowls/
-:source_kind: url
-:notes: []
+title: Crispy Chicken Katsu Bowls
+name: Crispy Chicken Katsu Bowls
+prep_time: '30'
+cook_time: '15'
+servings: ''
+tags:
+- Chicken
+- Asian
+preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2022/04/Crispy-Chicken-Katsu-Bowls-7.jpg
+source: https://www.halfbakedharvest.com/chicken-katsu-bowls/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

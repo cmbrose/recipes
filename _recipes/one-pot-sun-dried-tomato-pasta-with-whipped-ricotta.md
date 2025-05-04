@@ -1,17 +1,16 @@
 ---
-:title: One Pot Sun-Dried Tomato Pasta with Whipped Ricotta
-:name: One Pot Sun-Dried Tomato Pasta with Whipped Ricotta
-:prep_time: '15'
-:cook_time: '15'
-:servings: ''
-:tags:
-- "---"
-- "- Pasta"
-- "- Chicken"
-:preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2022/03/One-Pot-Sun-Dried-Tomato-Pasta-with-Whipped-Ricotta-6.jpg
-:source: https://www.halfbakedharvest.com/one-pot-sun-dried-tomato-pasta/
-:source_kind: url
-:notes: []
+title: One Pot Sun-Dried Tomato Pasta with Whipped Ricotta
+name: One Pot Sun-Dried Tomato Pasta with Whipped Ricotta
+prep_time: '15'
+cook_time: '15'
+servings: ''
+tags:
+- Pasta
+- Chicken
+preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2022/03/One-Pot-Sun-Dried-Tomato-Pasta-with-Whipped-Ricotta-6.jpg
+source: https://www.halfbakedharvest.com/one-pot-sun-dried-tomato-pasta/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

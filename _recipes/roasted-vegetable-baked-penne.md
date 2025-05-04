@@ -1,14 +1,14 @@
 ---
-:title: Roasted Vegetable Baked Penne
-:name: Roasted Vegetable Baked Penne
-:prep_time: 15 mins
-:cook_time: 1 hr 25 mins
-:servings: '8'
-:tags: []
-:preview_url: https://www.budgetbytes.com/wp-content/uploads/2020/09/Roasted-Vegetable-Baked-Penne-scoop-500x500.jpg
-:source: https://www.budgetbytes.com/roasted-vegetable-baked-penne/
-:source_kind: url
-:notes: []
+title: Roasted Vegetable Baked Penne
+name: Roasted Vegetable Baked Penne
+prep_time: 15 mins
+cook_time: 1 hr 25 mins
+servings: '8'
+tags: []
+preview_url: https://www.budgetbytes.com/wp-content/uploads/2020/09/Roasted-Vegetable-Baked-Penne-scoop-500x500.jpg
+source: https://www.budgetbytes.com/roasted-vegetable-baked-penne/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

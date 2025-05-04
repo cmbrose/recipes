@@ -1,15 +1,15 @@
 ---
-:title: Peanut Butter No Bake Cookies
-:name: Peanut Butter No Bake Cookies
-:prep_time: 15 minutes
-:cook_time: ''
-:total_time: ''
-:servings: '24'
-:tags: []
-:preview_url: https://cdn.loveandlemons.com/wp-content/uploads/2021/07/peanut-butter-no-bake-cookies-150x150.jpg
-:source: https://www.loveandlemons.com/peanut-butter-no-bake-cookies/
-:source_kind: url
-:notes: []
+title: Peanut Butter No Bake Cookies
+name: Peanut Butter No Bake Cookies
+prep_time: 15 minutes
+cook_time: ''
+total_time: ''
+servings: '24'
+tags: []
+preview_url: https://cdn.loveandlemons.com/wp-content/uploads/2021/07/peanut-butter-no-bake-cookies-150x150.jpg
+source: https://www.loveandlemons.com/peanut-butter-no-bake-cookies/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

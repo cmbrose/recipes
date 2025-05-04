@@ -1,18 +1,16 @@
 ---
-:title: Chocolate Bourbon Pecan Pie
-:name: Chocolate Bourbon Pecan Pie
-:prep_time: 15 min
-:cook_time: 45 min
-:tags:
-- "---"
-- "- Dessert"
-- "- Pie"
-:preview_url: https://i.imgur.com/YqOl57z.jpg
-:source_kind: manual
-:notes:
-- "---"
-- '- "*A normal pie crust will also work instead of the graham cracker crust"'
-- "- 'Best served warm with a side of vanilla ice cream. '"
+title: Chocolate Bourbon Pecan Pie
+name: Chocolate Bourbon Pecan Pie
+prep_time: 15 min
+cook_time: 45 min
+tags:
+- Dessert
+- Pie
+preview_url: https://i.imgur.com/YqOl57z.jpg
+source_kind: manual
+notes:
+- "*A normal pie crust will also work instead of the graham cracker crust"
+- 'Best served warm with a side of vanilla ice cream. '
 ---
 
 ## Ingredients

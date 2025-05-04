@@ -1,14 +1,13 @@
 ---
-:title: Kookie Brittle
-:name: Kookie Brittle
-:prep_time: 15 min
-:cook_time: 25 min
-:tags:
-- "---"
-- "- GrandmaBrose"
-- "- bars"
-:source_kind: manual
-:notes: []
+title: Kookie Brittle
+name: Kookie Brittle
+prep_time: 15 min
+cook_time: 25 min
+tags:
+- GrandmaBrose
+- bars
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

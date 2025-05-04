@@ -1,16 +1,15 @@
 ---
-:title: Chicken Patties
-:name: Chicken Patties
-:prep_time: 15 min
-:cook_time: 20 min
-:servings: '4'
-:tags:
-- "---"
-- "- GrandmaBrose"
-- "- Chicken"
-- "- Sandwich"
-:source_kind: manual
-:notes: []
+title: Chicken Patties
+name: Chicken Patties
+prep_time: 15 min
+cook_time: 20 min
+servings: '4'
+tags:
+- GrandmaBrose
+- Chicken
+- Sandwich
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

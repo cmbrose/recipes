@@ -1,16 +1,15 @@
 ---
-:title: Baked Pasta With Sausage and Broccoli Rabe
-:name: Baked Pasta With Sausage and Broccoli Rabe
-:prep_time: 15 min
-:cook_time: 1 hour
-:servings: '6'
-:tags:
-- "---"
-- "- Pasta"
-- "- Weekend"
-:preview_url: https://assets.bonappetit.com/photos/5a31a6035468684549cf8def/1:1/w_2240,c_limit/one-pot-baked-pasta-with-sausage-and-broccoli-rabe.jpg
-:source_kind: manual
-:notes: []
+title: Baked Pasta With Sausage and Broccoli Rabe
+name: Baked Pasta With Sausage and Broccoli Rabe
+prep_time: 15 min
+cook_time: 1 hour
+servings: '6'
+tags:
+- Pasta
+- Weekend
+preview_url: https://assets.bonappetit.com/photos/5a31a6035468684549cf8def/1:1/w_2240,c_limit/one-pot-baked-pasta-with-sausage-and-broccoli-rabe.jpg
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

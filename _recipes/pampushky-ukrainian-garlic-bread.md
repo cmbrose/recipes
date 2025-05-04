@@ -1,15 +1,14 @@
 ---
-:title: Pampushky (Ukrainian garlic bread)
-:name: Pampushky (Ukrainian garlic bread)
-:prep_time: 2.5 hours
-:cook_time: 30 min
-:servings: '8'
-:tags:
-- "---"
-- "- bread"
-:preview_url: https://i.imgur.com/YEHWysf.jpg
-:source_kind: manual
-:notes: []
+title: Pampushky (Ukrainian garlic bread)
+name: Pampushky (Ukrainian garlic bread)
+prep_time: 2.5 hours
+cook_time: 30 min
+servings: '8'
+tags:
+- bread
+preview_url: https://i.imgur.com/YEHWysf.jpg
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

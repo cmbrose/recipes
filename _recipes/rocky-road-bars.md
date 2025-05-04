@@ -1,14 +1,13 @@
 ---
-:title: Rocky Road Bars
-:name: Rocky Road Bars
-:prep_time: 10 min
-:cook_time: 20 min
-:tags:
-- "---"
-- "- GrandmaBrose"
-- "- bars"
-:source_kind: manual
-:notes: []
+title: Rocky Road Bars
+name: Rocky Road Bars
+prep_time: 10 min
+cook_time: 20 min
+tags:
+- GrandmaBrose
+- bars
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

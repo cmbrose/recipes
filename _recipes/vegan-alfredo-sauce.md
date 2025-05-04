@@ -1,15 +1,15 @@
 ---
-:title: Vegan Alfredo Sauce
-:name: Vegan Alfredo Sauce
-:prep_time: 5 minutes
-:cook_time: 20 minutes
-:total_time: ''
-:servings: ''
-:tags: []
-:preview_url: https://cdn.loveandlemons.com/wp-content/uploads/2021/02/vegan-alfredo-sauce-150x150.jpg
-:source: https://www.loveandlemons.com/vegan-alfredo-sauce/
-:source_kind: url
-:notes: []
+title: Vegan Alfredo Sauce
+name: Vegan Alfredo Sauce
+prep_time: 5 minutes
+cook_time: 20 minutes
+total_time: ''
+servings: ''
+tags: []
+preview_url: https://cdn.loveandlemons.com/wp-content/uploads/2021/02/vegan-alfredo-sauce-150x150.jpg
+source: https://www.loveandlemons.com/vegan-alfredo-sauce/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

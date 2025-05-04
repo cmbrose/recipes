@@ -1,14 +1,14 @@
 ---
-:title: Colombian Carne Bistec - Colombian Steak with Onions and Tomatoes
-:name: Colombian Carne Bistec - Colombian Steak with Onions and Tomatoes
-:prep_time: 10 mins
-:cook_time: 15 mins
-:servings: 6 servings
-:tags: []
-:preview_url: https://www.skinnytaste.com/wp-content/uploads/2011/04/Skinnytaste-50.jpg
-:source: https://www.skinnytaste.com/carne-bistec-colombian-steak-with/
-:source_kind: url
-:notes: []
+title: Colombian Carne Bistec - Colombian Steak with Onions and Tomatoes
+name: Colombian Carne Bistec - Colombian Steak with Onions and Tomatoes
+prep_time: 10 mins
+cook_time: 15 mins
+servings: 6 servings
+tags: []
+preview_url: https://www.skinnytaste.com/wp-content/uploads/2011/04/Skinnytaste-50.jpg
+source: https://www.skinnytaste.com/carne-bistec-colombian-steak-with/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

@@ -1,15 +1,14 @@
 ---
-:title: Raisin Drop Cookies
-:name: Raisin Drop Cookies
-:prep_time: 30 min + chilling
-:cook_time: 12 min
-:servings: 6 dozen
-:tags:
-- "---"
-- "- cookies"
-- "- GrandmaBrose"
-:source_kind: manual
-:notes: []
+title: Raisin Drop Cookies
+name: Raisin Drop Cookies
+prep_time: 30 min + chilling
+cook_time: 12 min
+servings: 6 dozen
+tags:
+- cookies
+- GrandmaBrose
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

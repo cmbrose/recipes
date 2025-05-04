@@ -1,14 +1,14 @@
 ---
-:title: Chicken Parmesan Rolls
-:name: Chicken Parmesan Rolls
-:prep_time: 25 mins
-:cook_time: 20 mins
-:servings: 4 servings
-:tags: []
-:preview_url: https://www.skinnytaste.com/wp-content/uploads/2020/11/Chicken-Parm-Rolls-9.jpg
-:source: https://www.skinnytaste.com/chicken-parmesan-rolls/
-:source_kind: url
-:notes: []
+title: Chicken Parmesan Rolls
+name: Chicken Parmesan Rolls
+prep_time: 25 mins
+cook_time: 20 mins
+servings: 4 servings
+tags: []
+preview_url: https://www.skinnytaste.com/wp-content/uploads/2020/11/Chicken-Parm-Rolls-9.jpg
+source: https://www.skinnytaste.com/chicken-parmesan-rolls/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

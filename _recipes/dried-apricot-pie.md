@@ -1,14 +1,13 @@
 ---
-:title: Dried Apricot Pie
-:name: Dried Apricot Pie
-:prep_time: 30 min
-:cook_time: 25 min
-:tags:
-- "---"
-- "- GrandmaBrose"
-- "- Pie"
-:source_kind: manual
-:notes: []
+title: Dried Apricot Pie
+name: Dried Apricot Pie
+prep_time: 30 min
+cook_time: 25 min
+tags:
+- GrandmaBrose
+- Pie
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

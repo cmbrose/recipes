@@ -1,14 +1,13 @@
 ---
-:title: Overnight Coffee Cake
-:name: Overnight Coffee Cake
-:prep_time: 20 min + Overnight
-:cook_time: 40 min
-:tags:
-- "---"
-- "- cake"
-- "- GrandmaBrose"
-:source_kind: manual
-:notes: []
+title: Overnight Coffee Cake
+name: Overnight Coffee Cake
+prep_time: 20 min + Overnight
+cook_time: 40 min
+tags:
+- cake
+- GrandmaBrose
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

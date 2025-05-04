@@ -1,14 +1,13 @@
 ---
-:title: Brownies
-:name: Brownies
-:prep_time: 15 min
-:cook_time: 30 min
-:tags:
-- "---"
-- "- GrandmaBrose"
-- "- bars"
-:source_kind: manual
-:notes: []
+title: Brownies
+name: Brownies
+prep_time: 15 min
+cook_time: 30 min
+tags:
+- GrandmaBrose
+- bars
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

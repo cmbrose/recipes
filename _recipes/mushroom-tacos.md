@@ -1,18 +1,17 @@
 ---
-:title: Mushroom Tacos
-:name: Mushroom Tacos
-:prep_time: 15 minutes
-:cook_time: 15 minutes
-:total_time: 30 minutes
-:servings: '4'
-:tags:
-- "---"
-- "- Vegan"
-- "- Taco"
-:preview_url: https://cdn.loveandlemons.com/wp-content/uploads/2022/06/mushroom-tacos-150x150.jpg
-:source: https://www.loveandlemons.com/mushroom-tacos/
-:source_kind: url
-:notes: []
+title: Mushroom Tacos
+name: Mushroom Tacos
+prep_time: 15 minutes
+cook_time: 15 minutes
+total_time: 30 minutes
+servings: '4'
+tags:
+- Vegan
+- Taco
+preview_url: https://cdn.loveandlemons.com/wp-content/uploads/2022/06/mushroom-tacos-150x150.jpg
+source: https://www.loveandlemons.com/mushroom-tacos/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

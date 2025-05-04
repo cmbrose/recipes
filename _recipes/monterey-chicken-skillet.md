@@ -1,17 +1,16 @@
 ---
-:title: Monterey Chicken Skillet
-:name: Monterey Chicken Skillet
-:prep_time: '5'
-:cook_time: '20'
-:servings: '4'
-:tags:
-- "---"
-- "- Chicken"
-- "- Pasta"
-:preview_url: https://www.budgetbytes.com/wp-content/uploads/2014/11/Monterey-Chicken-Skillet-scoop-500x500.jpg
-:source: https://www.budgetbytes.com/monterey-chicken-skillet/
-:source_kind: url
-:notes: []
+title: Monterey Chicken Skillet
+name: Monterey Chicken Skillet
+prep_time: '5'
+cook_time: '20'
+servings: '4'
+tags:
+- Chicken
+- Pasta
+preview_url: https://www.budgetbytes.com/wp-content/uploads/2014/11/Monterey-Chicken-Skillet-scoop-500x500.jpg
+source: https://www.budgetbytes.com/monterey-chicken-skillet/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

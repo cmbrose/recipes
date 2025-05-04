@@ -1,14 +1,13 @@
 ---
-:title: Divinity
-:name: Divinity
-:prep_time: 5 min
-:cook_time: 40 min
-:tags:
-- "---"
-- "- GrandmaBrose"
-- "- candy"
-:source_kind: manual
-:notes: []
+title: Divinity
+name: Divinity
+prep_time: 5 min
+cook_time: 40 min
+tags:
+- GrandmaBrose
+- candy
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

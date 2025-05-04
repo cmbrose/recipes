@@ -1,14 +1,13 @@
 ---
-:title: Graham Cracker Cake
-:name: Graham Cracker Cake
-:prep_time: 20 min
-:cook_time: 40 min
-:tags:
-- "---"
-- "- cake"
-- "- GrandmaBrose"
-:source_kind: manual
-:notes: []
+title: Graham Cracker Cake
+name: Graham Cracker Cake
+prep_time: 20 min
+cook_time: 40 min
+tags:
+- cake
+- GrandmaBrose
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

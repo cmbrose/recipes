@@ -1,17 +1,16 @@
 ---
-:title: Lemon Brown Butter Salmon and Potatoes with Parmesan Asparagus
-:name: Lemon Brown Butter Salmon and Potatoes with Parmesan Asparagus
-:prep_time: '15'
-:cook_time: '30'
-:servings: ''
-:tags:
-- "---"
-- "- Tuesday"
-- "- Sheet Pan"
-:preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2021/03/Sheet-Pan-Lemon-Brown-Butter-Salmon-and-Potatoes-with-Parmesan-Asparagus-7.jpg
-:source: https://www.halfbakedharvest.com/lemon-brown-butter-salmon-and-potatoes/
-:source_kind: url
-:notes: []
+title: Lemon Brown Butter Salmon and Potatoes with Parmesan Asparagus
+name: Lemon Brown Butter Salmon and Potatoes with Parmesan Asparagus
+prep_time: '15'
+cook_time: '30'
+servings: ''
+tags:
+- Tuesday
+- Sheet Pan
+preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2021/03/Sheet-Pan-Lemon-Brown-Butter-Salmon-and-Potatoes-with-Parmesan-Asparagus-7.jpg
+source: https://www.halfbakedharvest.com/lemon-brown-butter-salmon-and-potatoes/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

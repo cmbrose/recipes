@@ -1,12 +1,12 @@
 ---
-:title: Kolaches
-:name: Kolaches
-:prep_time: 2.5 hours
-:cook_time: 30-40 min
-:servings: '18'
-:tags: []
-:source_kind: manual
-:notes: []
+title: Kolaches
+name: Kolaches
+prep_time: 2.5 hours
+cook_time: 30-40 min
+servings: '18'
+tags: []
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

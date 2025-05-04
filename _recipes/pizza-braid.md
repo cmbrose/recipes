@@ -1,17 +1,16 @@
 ---
-:title: Pizza Braid
-:name: Pizza Braid
-:prep_time: 30 mins
-:cook_time: 25 to 30 mins
-:total_time: 4 hrs 10 mins
-:servings: 1 braided loaf
-:tags:
-- "---"
-- "- bread"
-:preview_url: https://www.kingarthurbaking.com/sites/default/files/styles/featured_image/public/2019-09/pizza-braid.jpg?itok=96Ut_YYQ
-:source: https://www.kingarthurbaking.com/recipes/pizza-braid-recipe
-:source_kind: url
-:notes: []
+title: Pizza Braid
+name: Pizza Braid
+prep_time: 30 mins
+cook_time: 25 to 30 mins
+total_time: 4 hrs 10 mins
+servings: 1 braided loaf
+tags:
+- bread
+preview_url: https://www.kingarthurbaking.com/sites/default/files/styles/featured_image/public/2019-09/pizza-braid.jpg?itok=96Ut_YYQ
+source: https://www.kingarthurbaking.com/recipes/pizza-braid-recipe
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

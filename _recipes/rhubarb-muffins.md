@@ -1,14 +1,13 @@
 ---
-:title: Rhubarb Muffins
-:name: Rhubarb Muffins
-:prep_time: 20 min
-:cook_time: 25 min
-:servings: 18-20
-:tags:
-- "---"
-- "- GrandmaBrose"
-:source_kind: manual
-:notes: []
+title: Rhubarb Muffins
+name: Rhubarb Muffins
+prep_time: 20 min
+cook_time: 25 min
+servings: 18-20
+tags:
+- GrandmaBrose
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

@@ -1,12 +1,11 @@
 ---
-:title: Carrot Cake
-:name: Carrot Cake
-:tags:
-- "---"
-- "- GrandmaBrose"
-- "- cake"
-:source_kind: manual
-:notes: []
+title: Carrot Cake
+name: Carrot Cake
+tags:
+- GrandmaBrose
+- cake
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

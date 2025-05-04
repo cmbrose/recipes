@@ -1,17 +1,16 @@
 ---
-:title: Grilled Lemon Herb Chicken Avocado Orzo Salad with Honey Mustard Bacon Dressing
-:name: Grilled Lemon Herb Chicken Avocado Orzo Salad with Honey Mustard Bacon Dressing
-:prep_time: '25'
-:cook_time: '15'
-:servings: ''
-:tags:
-- "---"
-- "- Chicken"
-- "- Pasta"
-:preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2021/06/Grilled-Lemon-Herb-Chicken-Avocado-Orzo-Salad-with-Honey-Mustard-Bacon-Dressing-8-2048x1365.jpg
-:source: https://www.halfbakedharvest.com/lemon-herb-chicken-avocado-orzo-salad/
-:source_kind: url
-:notes: []
+title: Grilled Lemon Herb Chicken Avocado Orzo Salad with Honey Mustard Bacon Dressing
+name: Grilled Lemon Herb Chicken Avocado Orzo Salad with Honey Mustard Bacon Dressing
+prep_time: '25'
+cook_time: '15'
+servings: ''
+tags:
+- Chicken
+- Pasta
+preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2021/06/Grilled-Lemon-Herb-Chicken-Avocado-Orzo-Salad-with-Honey-Mustard-Bacon-Dressing-8-2048x1365.jpg
+source: https://www.halfbakedharvest.com/lemon-herb-chicken-avocado-orzo-salad/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

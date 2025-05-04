@@ -1,14 +1,14 @@
 ---
-:title: "Folded Crispy Chipotle Chicken Wraps\t\t"
-:name: "Folded Crispy Chipotle Chicken Wraps\t\t"
-:prep_time: '15'
-:cook_time: '15'
-:servings: ''
-:tags: []
-:preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2021/04/Folded-Crispy-Chipotle-Chicken-Wraps-1-500x500.jpg
-:source: https://www.halfbakedharvest.com/crispy-chipotle-chicken-wraps/
-:source_kind: url
-:notes: []
+title: "Folded Crispy Chipotle Chicken Wraps\t\t"
+name: "Folded Crispy Chipotle Chicken Wraps\t\t"
+prep_time: '15'
+cook_time: '15'
+servings: ''
+tags: []
+preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2021/04/Folded-Crispy-Chipotle-Chicken-Wraps-1-500x500.jpg
+source: https://www.halfbakedharvest.com/crispy-chipotle-chicken-wraps/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

@@ -1,22 +1,20 @@
 ---
-:title: Creamy Pasta Pomodoro
-:name: Creamy Pasta Pomodoro
-:prep_time: 20 minutes
-:cook_time: 20 minutes
-:total_time: 40 minutes
-:servings: '4'
-:tags:
-- "---"
-- "- Vegan"
-- "- Pasta"
-:preview_url: https://cdn.loveandlemons.com/wp-content/uploads/2019/04/pasta-pomodoro-150x150.jpg
-:source: https://www.loveandlemons.com/pasta-pomodoro/
-:source_kind: url
-:notes:
-- "---"
-- "- 'Not a week night meal!! Only if you have premade the sauce which I suggest doing"
-- in bulk. '
-- "- 'Optionally add chicken. Should also be premade. '"
+title: Creamy Pasta Pomodoro
+name: Creamy Pasta Pomodoro
+prep_time: 20 minutes
+cook_time: 20 minutes
+total_time: 40 minutes
+servings: '4'
+tags:
+- Vegan
+- Pasta
+preview_url: https://cdn.loveandlemons.com/wp-content/uploads/2019/04/pasta-pomodoro-150x150.jpg
+source: https://www.loveandlemons.com/pasta-pomodoro/
+source_kind: url
+notes:
+- 'Not a week night meal!! Only if you have premade the sauce which I suggest doing
+  in bulk. '
+- 'Optionally add chicken. Should also be premade. '
 ---
 
 ## Ingredients

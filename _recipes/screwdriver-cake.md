@@ -1,14 +1,13 @@
 ---
-:title: Screwdriver Cake
-:name: Screwdriver Cake
-:prep_time: 15 min
-:cook_time: 45 min
-:tags:
-- "---"
-- "- GrandmaBrose"
-- "- cake"
-:source_kind: manual
-:notes: []
+title: Screwdriver Cake
+name: Screwdriver Cake
+prep_time: 15 min
+cook_time: 45 min
+tags:
+- GrandmaBrose
+- cake
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

@@ -1,13 +1,13 @@
 ---
-:title: Basil Chicken Fettuccine Alfredo with Prosciutto
-:name: Basil Chicken Fettuccine Alfredo with Prosciutto
-:prep_time: '20'
-:cook_time: ''
-:servings: ''
-:tags: []
-:source: https://www.halfbakedharvest.com/basil-chicken-fettuccine-alfredo/
-:source_kind: url
-:notes: []
+title: Basil Chicken Fettuccine Alfredo with Prosciutto
+name: Basil Chicken Fettuccine Alfredo with Prosciutto
+prep_time: '20'
+cook_time: ''
+servings: ''
+tags: []
+source: https://www.halfbakedharvest.com/basil-chicken-fettuccine-alfredo/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

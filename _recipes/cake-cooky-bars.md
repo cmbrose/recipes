@@ -1,14 +1,13 @@
 ---
-:title: Cake Cooky Bars
-:name: Cake Cooky Bars
-:prep_time: 20 min
-:cook_time: 35 min
-:tags:
-- "---"
-- "- GrandmaBrose"
-- "- bars"
-:source_kind: manual
-:notes: []
+title: Cake Cooky Bars
+name: Cake Cooky Bars
+prep_time: 20 min
+cook_time: 35 min
+tags:
+- GrandmaBrose
+- bars
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

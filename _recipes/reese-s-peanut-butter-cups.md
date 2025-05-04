@@ -1,14 +1,13 @@
 ---
-:title: Reese's Peanut Butter Cups
-:name: Reese's Peanut Butter Cups
-:prep_time: 15 min
-:cook_time: 1 hour? chilling
-:tags:
-- "---"
-- "- cookie"
-- "- GrandmaBrose"
-:source_kind: manual
-:notes: []
+title: Reese's Peanut Butter Cups
+name: Reese's Peanut Butter Cups
+prep_time: 15 min
+cook_time: 1 hour? chilling
+tags:
+- cookie
+- GrandmaBrose
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

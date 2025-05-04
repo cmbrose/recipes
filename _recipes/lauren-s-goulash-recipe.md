@@ -1,15 +1,14 @@
 ---
-:title: Lauren's Goulash Recipe
-:name: Lauren's Goulash Recipe
-:prep_time: '10'
-:cook_time: '20'
-:total_time: '30'
-:tags:
-- "---"
-- "- Dairy Free"
-:preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2021/09/Healthier-Homemade-One-Pot-Hamburger-Helper-6.jpg
-:source_kind: manual
-:notes: []
+title: Lauren's Goulash Recipe
+name: Lauren's Goulash Recipe
+prep_time: '10'
+cook_time: '20'
+total_time: '30'
+tags:
+- Dairy Free
+preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2021/09/Healthier-Homemade-One-Pot-Hamburger-Helper-6.jpg
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

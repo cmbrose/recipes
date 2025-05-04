@@ -1,15 +1,15 @@
 ---
-:title: Wild Rice Soup
-:name: Wild Rice Soup
-:prep_time: 10 minutes
-:cook_time: 35 minutes
-:total_time: 45 minutes
-:servings: '4'
-:tags: []
-:preview_url: https://cdn.loveandlemons.com/wp-content/uploads/2018/11/wild-rice-soup-150x150.jpg
-:source: https://www.loveandlemons.com/wild-rice-soup/
-:source_kind: url
-:notes: []
+title: Wild Rice Soup
+name: Wild Rice Soup
+prep_time: 10 minutes
+cook_time: 35 minutes
+total_time: 45 minutes
+servings: '4'
+tags: []
+preview_url: https://cdn.loveandlemons.com/wp-content/uploads/2018/11/wild-rice-soup-150x150.jpg
+source: https://www.loveandlemons.com/wild-rice-soup/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

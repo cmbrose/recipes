@@ -1,17 +1,16 @@
 ---
-:title: Best Veggie Burger
-:name: Best Veggie Burger
-:prep_time: 20 minutes
-:cook_time: 20 minutes
-:total_time: 40 minutes
-:servings: '8'
-:tags:
-- "---"
-- "- Vegan"
-:preview_url: https://cdn.loveandlemons.com/wp-content/uploads/2018/06/veggie-burger-2-150x150.jpg
-:source: https://www.loveandlemons.com/best-veggie-burger-recipe/
-:source_kind: url
-:notes: []
+title: Best Veggie Burger
+name: Best Veggie Burger
+prep_time: 20 minutes
+cook_time: 20 minutes
+total_time: 40 minutes
+servings: '8'
+tags:
+- Vegan
+preview_url: https://cdn.loveandlemons.com/wp-content/uploads/2018/06/veggie-burger-2-150x150.jpg
+source: https://www.loveandlemons.com/best-veggie-burger-recipe/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

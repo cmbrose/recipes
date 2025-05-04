@@ -1,17 +1,16 @@
 ---
-:title: Portobello Mushroom Burger
-:name: Portobello Mushroom Burger
-:prep_time: 5 minutes
-:cook_time: 13 minutes
-:total_time: 18 minutes
-:servings: '4'
-:tags:
-- "---"
-- "- Vegan"
-:preview_url: https://cdn.loveandlemons.com/wp-content/uploads/2019/06/portabello-mushroom-burger-recipe-150x150.jpg
-:source: https://www.loveandlemons.com/portobello-mushroom-burger/
-:source_kind: url
-:notes: []
+title: Portobello Mushroom Burger
+name: Portobello Mushroom Burger
+prep_time: 5 minutes
+cook_time: 13 minutes
+total_time: 18 minutes
+servings: '4'
+tags:
+- Vegan
+preview_url: https://cdn.loveandlemons.com/wp-content/uploads/2019/06/portabello-mushroom-burger-recipe-150x150.jpg
+source: https://www.loveandlemons.com/portobello-mushroom-burger/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

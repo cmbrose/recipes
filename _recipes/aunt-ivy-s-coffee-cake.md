@@ -1,16 +1,15 @@
 ---
-:title: Aunt Ivy's Coffee Cake
-:name: Aunt Ivy's Coffee Cake
-:prep_time: 15 min
-:cook_time: 45 min
-:tags:
-- "---"
-- "- GrandmaBrose"
-- "- cake"
-- "- Brunch"
-:preview_url: https://i.imgur.com/mlBrpb7.jpg
-:source_kind: manual
-:notes: []
+title: Aunt Ivy's Coffee Cake
+name: Aunt Ivy's Coffee Cake
+prep_time: 15 min
+cook_time: 45 min
+tags:
+- GrandmaBrose
+- cake
+- Brunch
+preview_url: https://i.imgur.com/mlBrpb7.jpg
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

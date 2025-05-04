@@ -1,14 +1,13 @@
 ---
-:title: Macaroni Pizza Casserole
-:name: Macaroni Pizza Casserole
-:prep_time: 30 min
-:cook_time: 30 min
-:tags:
-- "---"
-- "- GrandmaBrose"
-- "- Casserole"
-:source_kind: manual
-:notes: []
+title: Macaroni Pizza Casserole
+name: Macaroni Pizza Casserole
+prep_time: 30 min
+cook_time: 30 min
+tags:
+- GrandmaBrose
+- Casserole
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

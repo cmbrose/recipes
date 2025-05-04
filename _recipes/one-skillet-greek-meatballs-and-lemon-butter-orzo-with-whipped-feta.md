@@ -1,14 +1,14 @@
 ---
-:title: One Skillet Greek Meatballs and Lemon Butter Orzo with Whipped Feta
-:name: One Skillet Greek Meatballs and Lemon Butter Orzo with Whipped Feta
-:prep_time: '25'
-:cook_time: '20'
-:servings: ''
-:tags: []
-:preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2020/02/One-Skillet-Greek-Meatballs-and-Lemon-Butter-Orzo-6-700x467.jpg
-:source: https://www.halfbakedharvest.com/one-skillet-greek-meatballs-and-lemon-butter-orzo/
-:source_kind: url
-:notes: []
+title: One Skillet Greek Meatballs and Lemon Butter Orzo with Whipped Feta
+name: One Skillet Greek Meatballs and Lemon Butter Orzo with Whipped Feta
+prep_time: '25'
+cook_time: '20'
+servings: ''
+tags: []
+preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2020/02/One-Skillet-Greek-Meatballs-and-Lemon-Butter-Orzo-6-700x467.jpg
+source: https://www.halfbakedharvest.com/one-skillet-greek-meatballs-and-lemon-butter-orzo/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

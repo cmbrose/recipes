@@ -1,15 +1,15 @@
 ---
-:title: Refried Beans
-:name: Refried Beans
-:prep_time: 10 minutes
-:cook_time: 15 minutes
-:total_time: ''
-:servings: ''
-:tags: []
-:preview_url: https://cdn.loveandlemons.com/wp-content/uploads/2021/04/refried-beans-150x150.jpg
-:source: https://www.loveandlemons.com/refried-beans/
-:source_kind: url
-:notes: []
+title: Refried Beans
+name: Refried Beans
+prep_time: 10 minutes
+cook_time: 15 minutes
+total_time: ''
+servings: ''
+tags: []
+preview_url: https://cdn.loveandlemons.com/wp-content/uploads/2021/04/refried-beans-150x150.jpg
+source: https://www.loveandlemons.com/refried-beans/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

@@ -1,11 +1,10 @@
 ---
-:title: Yeasted Biscuits
-:name: Yeasted Biscuits
-:tags:
-- "---"
-- "- GrandmaBrose"
-:source_kind: manual
-:notes: []
+title: Yeasted Biscuits
+name: Yeasted Biscuits
+tags:
+- GrandmaBrose
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

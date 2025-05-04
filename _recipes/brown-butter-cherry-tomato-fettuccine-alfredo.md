@@ -1,17 +1,16 @@
 ---
-:title: Brown Butter Cherry Tomato Fettuccine Alfredo
-:name: Brown Butter Cherry Tomato Fettuccine Alfredo
-:prep_time: '15'
-:cook_time: '15'
-:servings: ''
-:tags:
-- "---"
-- "- Chicken"
-- "- Pasta"
-:preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2021/08/Brown-Butter-Cherry-Tomato-Fettuccine-Alfredo-7.jpg
-:source: https://www.halfbakedharvest.com/cherry-tomato-fettuccine-alfredo/
-:source_kind: url
-:notes: []
+title: Brown Butter Cherry Tomato Fettuccine Alfredo
+name: Brown Butter Cherry Tomato Fettuccine Alfredo
+prep_time: '15'
+cook_time: '15'
+servings: ''
+tags:
+- Chicken
+- Pasta
+preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2021/08/Brown-Butter-Cherry-Tomato-Fettuccine-Alfredo-7.jpg
+source: https://www.halfbakedharvest.com/cherry-tomato-fettuccine-alfredo/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

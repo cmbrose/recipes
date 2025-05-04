@@ -1,18 +1,17 @@
 ---
-:title: Healthier Homemade One Pot Hamburger Helper
-:name: Healthier Homemade One Pot Hamburger Helper
-:prep_time: '10'
-:cook_time: '20'
-:servings: ''
-:tags:
-- "---"
-- "- Beef"
-- "- Pasta"
-- "- Thursday"
-:preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2021/09/Healthier-Homemade-One-Pot-Hamburger-Helper-6.jpg
-:source: https://www.halfbakedharvest.com/one-pot-hamburger-helper/
-:source_kind: url
-:notes: []
+title: Healthier Homemade One Pot Hamburger Helper
+name: Healthier Homemade One Pot Hamburger Helper
+prep_time: '10'
+cook_time: '20'
+servings: ''
+tags:
+- Beef
+- Pasta
+- Thursday
+preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2021/09/Healthier-Homemade-One-Pot-Hamburger-Helper-6.jpg
+source: https://www.halfbakedharvest.com/one-pot-hamburger-helper/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

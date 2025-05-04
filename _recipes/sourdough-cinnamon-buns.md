@@ -1,18 +1,17 @@
 ---
-:title: Sourdough Cinnamon Buns
-:name: Sourdough Cinnamon Buns
-:prep_time: 35 mins
-:cook_time: 18 to 22 mins
-:total_time: 9 hrs 30 mins
-:servings: 1 dozen large buns
-:tags:
-- "---"
-- "- bread"
-- "- Breakfast"
-:preview_url: https://www.kingarthurbaking.com/sites/default/files/styles/featured_image/public/recipe_legacy/19980-3-large.jpg?itok=tTrIxgVF
-:source: https://www.kingarthurbaking.com/recipes/sourdough-cinnamon-buns-recipe
-:source_kind: url
-:notes: []
+title: Sourdough Cinnamon Buns
+name: Sourdough Cinnamon Buns
+prep_time: 35 mins
+cook_time: 18 to 22 mins
+total_time: 9 hrs 30 mins
+servings: 1 dozen large buns
+tags:
+- bread
+- Breakfast
+preview_url: https://www.kingarthurbaking.com/sites/default/files/styles/featured_image/public/recipe_legacy/19980-3-large.jpg?itok=tTrIxgVF
+source: https://www.kingarthurbaking.com/recipes/sourdough-cinnamon-buns-recipe
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

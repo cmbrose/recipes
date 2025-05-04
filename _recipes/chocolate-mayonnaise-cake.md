@@ -1,12 +1,11 @@
 ---
-:title: Chocolate Mayonnaise Cake
-:name: Chocolate Mayonnaise Cake
-:tags:
-- "---"
-- "- GrandmaBrose"
-- "- cake"
-:source_kind: manual
-:notes: []
+title: Chocolate Mayonnaise Cake
+name: Chocolate Mayonnaise Cake
+tags:
+- GrandmaBrose
+- cake
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

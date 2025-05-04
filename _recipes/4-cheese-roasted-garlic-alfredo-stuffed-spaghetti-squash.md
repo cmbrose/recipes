@@ -1,16 +1,15 @@
 ---
-:title: 4 Cheese Roasted Garlic Alfredo Stuffed Spaghetti Squash
-:name: 4 Cheese Roasted Garlic Alfredo Stuffed Spaghetti Squash
-:prep_time: '45'
-:cook_time: '50'
-:servings: ''
-:tags:
-- "---"
-- "- Pork"
-:preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2021/09/4-Cheese-Roasted-Garlic-Alfredo-Stuffed-Spaghetti-Squash-7.jpg
-:source: https://www.halfbakedharvest.com/alfredo-stuffed-spaghetti-squash/
-:source_kind: url
-:notes: []
+title: 4 Cheese Roasted Garlic Alfredo Stuffed Spaghetti Squash
+name: 4 Cheese Roasted Garlic Alfredo Stuffed Spaghetti Squash
+prep_time: '45'
+cook_time: '50'
+servings: ''
+tags:
+- Pork
+preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2021/09/4-Cheese-Roasted-Garlic-Alfredo-Stuffed-Spaghetti-Squash-7.jpg
+source: https://www.halfbakedharvest.com/alfredo-stuffed-spaghetti-squash/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

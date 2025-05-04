@@ -1,17 +1,16 @@
 ---
-:title: Hamburger Potato Buns
-:name: Hamburger Potato Buns
-:prep_time: 20 mins
-:cook_time: 15 to 20 mins
-:total_time: 2 hrs 35 mins
-:servings: 6 buns
-:tags:
-- "---"
-- "- bread"
-:preview_url: https://www.kingarthurbaking.com/sites/default/files/styles/featured_image/public/2020-05/hamburger-potato-buns.jpg?itok=fg1m17s9
-:source: https://www.kingarthurbaking.com/recipes/hamburger-potato-buns-recipe
-:source_kind: url
-:notes: []
+title: Hamburger Potato Buns
+name: Hamburger Potato Buns
+prep_time: 20 mins
+cook_time: 15 to 20 mins
+total_time: 2 hrs 35 mins
+servings: 6 buns
+tags:
+- bread
+preview_url: https://www.kingarthurbaking.com/sites/default/files/styles/featured_image/public/2020-05/hamburger-potato-buns.jpg?itok=fg1m17s9
+source: https://www.kingarthurbaking.com/recipes/hamburger-potato-buns-recipe
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

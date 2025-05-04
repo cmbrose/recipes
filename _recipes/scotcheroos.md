@@ -1,13 +1,12 @@
 ---
-:title: Scotcheroos
-:name: Scotcheroos
-:cook_time: 20 min
-:tags:
-- "---"
-- "- GrandmaBrose"
-- "- bars"
-:source_kind: manual
-:notes: []
+title: Scotcheroos
+name: Scotcheroos
+cook_time: 20 min
+tags:
+- GrandmaBrose
+- bars
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

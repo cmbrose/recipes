@@ -1,13 +1,12 @@
 ---
-:title: One-Skillet Chicken With Buttery Orzo
-:name: One-Skillet Chicken With Buttery Orzo
-:servings: '4'
-:tags:
-- "---"
-- "- Chicken"
-:preview_url: https://assets.bonappetit.com/photos/58c97bc548ee007350aee2d6/1:1/w_960,c_limit/one-skillet-chicken-with-buttery-orzo.jpg
-:source_kind: manual
-:notes: []
+title: One-Skillet Chicken With Buttery Orzo
+name: One-Skillet Chicken With Buttery Orzo
+servings: '4'
+tags:
+- Chicken
+preview_url: https://assets.bonappetit.com/photos/58c97bc548ee007350aee2d6/1:1/w_960,c_limit/one-skillet-chicken-with-buttery-orzo.jpg
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

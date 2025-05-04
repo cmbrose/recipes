@@ -1,18 +1,17 @@
 ---
-:title: Best Lentil Soup
-:name: Best Lentil Soup
-:prep_time: 10 minutes
-:cook_time: 35 minutes
-:total_time: 45 minutes
-:servings: ''
-:tags:
-- "---"
-- "- Vegan"
-- "- Soup"
-:preview_url: https://cdn.loveandlemons.com/wp-content/uploads/2019/02/lentil-soup-crop-150x150.jpg
-:source: https://www.loveandlemons.com/best-lentil-soup/
-:source_kind: url
-:notes: []
+title: Best Lentil Soup
+name: Best Lentil Soup
+prep_time: 10 minutes
+cook_time: 35 minutes
+total_time: 45 minutes
+servings: ''
+tags:
+- Vegan
+- Soup
+preview_url: https://cdn.loveandlemons.com/wp-content/uploads/2019/02/lentil-soup-crop-150x150.jpg
+source: https://www.loveandlemons.com/best-lentil-soup/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

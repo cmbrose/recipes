@@ -1,11 +1,10 @@
 ---
-:title: Suet Pudding
-:name: Suet Pudding
-:tags:
-- "---"
-- "- GrandmaBrose"
-:source_kind: manual
-:notes: []
+title: Suet Pudding
+name: Suet Pudding
+tags:
+- GrandmaBrose
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

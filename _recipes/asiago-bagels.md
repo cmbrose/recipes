@@ -1,15 +1,15 @@
 ---
-:title: Asiago Bagels
-:name: Asiago Bagels
-:prep_time: 30 mins
-:cook_time: 20 to 25 mins
-:total_time: 15 hrs 5 mins
-:servings: 12 bagels
-:tags: []
-:preview_url: https://www.kingarthurbaking.com/sites/default/files/styles/featured_image/public/recipe_legacy/4653-3-large.jpg?itok=kOJcJmM-
-:source: https://www.kingarthurbaking.com/recipes/asiago-bagels-recipe
-:source_kind: url
-:notes: []
+title: Asiago Bagels
+name: Asiago Bagels
+prep_time: 30 mins
+cook_time: 20 to 25 mins
+total_time: 15 hrs 5 mins
+servings: 12 bagels
+tags: []
+preview_url: https://www.kingarthurbaking.com/sites/default/files/styles/featured_image/public/recipe_legacy/4653-3-large.jpg?itok=kOJcJmM-
+source: https://www.kingarthurbaking.com/recipes/asiago-bagels-recipe
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

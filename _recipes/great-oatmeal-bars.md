@@ -1,14 +1,13 @@
 ---
-:title: Great Oatmeal Bars
-:name: Great Oatmeal Bars
-:prep_time: 10 min
-:cook_time: 30 min
-:tags:
-- "---"
-- "- GrandmaBrose"
-- "- bars"
-:source_kind: manual
-:notes: []
+title: Great Oatmeal Bars
+name: Great Oatmeal Bars
+prep_time: 10 min
+cook_time: 30 min
+tags:
+- GrandmaBrose
+- bars
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

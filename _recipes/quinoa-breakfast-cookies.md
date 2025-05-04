@@ -1,17 +1,16 @@
 ---
-:title: Quinoa Breakfast Cookies
-:name: Quinoa Breakfast Cookies
-:prep_time: 15 mins
-:cook_time: 15 mins
-:total_time: 30 mins
-:servings: 12 large cookies
-:tags:
-- "---"
-- "- Vegan"
-:preview_url: https://cdn.loveandlemons.com/wp-content/uploads/2016/03/IMG_2016_02_21_07242-cropped2.jpg
-:source: https://www.loveandlemons.com/quinoa-breakfast-cookies/
-:source_kind: url
-:notes: []
+title: Quinoa Breakfast Cookies
+name: Quinoa Breakfast Cookies
+prep_time: 15 mins
+cook_time: 15 mins
+total_time: 30 mins
+servings: 12 large cookies
+tags:
+- Vegan
+preview_url: https://cdn.loveandlemons.com/wp-content/uploads/2016/03/IMG_2016_02_21_07242-cropped2.jpg
+source: https://www.loveandlemons.com/quinoa-breakfast-cookies/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

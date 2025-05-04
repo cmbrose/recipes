@@ -1,12 +1,12 @@
 ---
-:title: Strawberry Ricotta Scones
-:name: Strawberry Ricotta Scones
-:prep_time: 30 min
-:cook_time: 25 min
-:tags: []
-:preview_url: https://i.imgur.com/RPToLt1.jpg
-:source_kind: manual
-:notes: []
+title: Strawberry Ricotta Scones
+name: Strawberry Ricotta Scones
+prep_time: 30 min
+cook_time: 25 min
+tags: []
+preview_url: https://i.imgur.com/RPToLt1.jpg
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

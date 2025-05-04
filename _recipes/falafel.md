@@ -1,17 +1,16 @@
 ---
-:title: Falafel
-:name: Falafel
-:prep_time: 15 minutes
-:cook_time: 25 minutes
-:total_time: 1 day 40 minutes
-:servings: '4'
-:tags:
-- "---"
-- "- Vegan"
-:preview_url: https://cdn.loveandlemons.com/wp-content/uploads/2019/09/falafel-150x150.jpg
-:source: https://www.loveandlemons.com/falafel/
-:source_kind: url
-:notes: []
+title: Falafel
+name: Falafel
+prep_time: 15 minutes
+cook_time: 25 minutes
+total_time: 1 day 40 minutes
+servings: '4'
+tags:
+- Vegan
+preview_url: https://cdn.loveandlemons.com/wp-content/uploads/2019/09/falafel-150x150.jpg
+source: https://www.loveandlemons.com/falafel/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

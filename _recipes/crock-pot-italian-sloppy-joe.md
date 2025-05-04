@@ -1,14 +1,14 @@
 ---
-:title: Crock Pot Italian Sloppy Joe
-:name: Crock Pot Italian Sloppy Joe
-:prep_time: 10 mins
-:cook_time: 4 hrs
-:servings: 6 servings
-:tags: []
-:preview_url: https://www.skinnytaste.com/wp-content/uploads/2013/01/Crockpot-Italian-Sloppy-Joe-7.jpg
-:source: https://www.skinnytaste.com/crock-pot-italian-sloppy-joe/
-:source_kind: url
-:notes: []
+title: Crock Pot Italian Sloppy Joe
+name: Crock Pot Italian Sloppy Joe
+prep_time: 10 mins
+cook_time: 4 hrs
+servings: 6 servings
+tags: []
+preview_url: https://www.skinnytaste.com/wp-content/uploads/2013/01/Crockpot-Italian-Sloppy-Joe-7.jpg
+source: https://www.skinnytaste.com/crock-pot-italian-sloppy-joe/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

@@ -1,16 +1,15 @@
 ---
-:title: One Pot Stove-Top Mac and Cheese
-:name: One Pot Stove-Top Mac and Cheese
-:prep_time: '15'
-:cook_time: '15'
-:servings: ''
-:tags:
-- "---"
-- "- Pasta"
-:preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2022/01/One-Pot-Stove-Top-Mac-and-Cheese-6.jpg
-:source: https://www.halfbakedharvest.com/stove-top-mac-and-cheese/
-:source_kind: url
-:notes: []
+title: One Pot Stove-Top Mac and Cheese
+name: One Pot Stove-Top Mac and Cheese
+prep_time: '15'
+cook_time: '15'
+servings: ''
+tags:
+- Pasta
+preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2022/01/One-Pot-Stove-Top-Mac-and-Cheese-6.jpg
+source: https://www.halfbakedharvest.com/stove-top-mac-and-cheese/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

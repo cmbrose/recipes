@@ -1,19 +1,17 @@
 ---
-:title: Sandwich Bread
-:name: Sandwich Bread
-:prep_time: 3 hours, 20 minutes
-:cook_time: 32 minutes
-:servings: 1 loaf
-:tags:
-- "---"
-- "- bread"
-:preview_url: https://sallysbakingaddiction.com/wp-content/uploads/2019/11/homemade-sandwich-bread-265x265.jpg
-:source: https://sallysbakingaddiction.com/sandwich-bread/#tasty-recipes-78612
-:source_kind: url
-:notes:
-- "---"
-- "- 'For dairy free: sub all milk and water for almond milk and the butter for avocado"
-- or olive oil'
+title: Sandwich Bread
+name: Sandwich Bread
+prep_time: 3 hours, 20 minutes
+cook_time: 32 minutes
+servings: 1 loaf
+tags:
+- bread
+preview_url: https://sallysbakingaddiction.com/wp-content/uploads/2019/11/homemade-sandwich-bread-265x265.jpg
+source: https://sallysbakingaddiction.com/sandwich-bread/#tasty-recipes-78612
+source_kind: url
+notes:
+- 'For dairy free: sub all milk and water for almond milk and the butter for avocado
+  or olive oil'
 ---
 
 ## Ingredients

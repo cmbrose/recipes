@@ -1,17 +1,16 @@
 ---
-:title: Beautiful Burger Buns
-:name: Beautiful Burger Buns
-:prep_time: 25 mins
-:cook_time: 15 mins
-:total_time: 2 hrs 40 mins
-:servings: 8 large buns
-:tags:
-- "---"
-- "- bread"
-:preview_url: https://www.kingarthurbaking.com/sites/default/files/styles/featured_image/public/2021-08/beautiful-burger-buns.jpg?itok=R8cduYHH
-:source: https://www.kingarthurbaking.com/recipes/beautiful-burger-buns-recipe
-:source_kind: url
-:notes: []
+title: Beautiful Burger Buns
+name: Beautiful Burger Buns
+prep_time: 25 mins
+cook_time: 15 mins
+total_time: 2 hrs 40 mins
+servings: 8 large buns
+tags:
+- bread
+preview_url: https://www.kingarthurbaking.com/sites/default/files/styles/featured_image/public/2021-08/beautiful-burger-buns.jpg?itok=R8cduYHH
+source: https://www.kingarthurbaking.com/recipes/beautiful-burger-buns-recipe
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

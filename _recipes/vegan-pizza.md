@@ -1,17 +1,16 @@
 ---
-:title: Vegan Pizza
-:name: Vegan Pizza
-:prep_time: 20 min
-:cook_time: 15 min
-:total_time: 35 min
-:servings: '4'
-:tags:
-- "---"
-- "- Vegan"
-- "- Pizza"
-:preview_url: https://cdn.loveandlemons.com/wp-content/uploads/2018/09/vegan-pizza-1080x1080.jpg
-:source_kind: manual
-:notes: []
+title: Vegan Pizza
+name: Vegan Pizza
+prep_time: 20 min
+cook_time: 15 min
+total_time: 35 min
+servings: '4'
+tags:
+- Vegan
+- Pizza
+preview_url: https://cdn.loveandlemons.com/wp-content/uploads/2018/09/vegan-pizza-1080x1080.jpg
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

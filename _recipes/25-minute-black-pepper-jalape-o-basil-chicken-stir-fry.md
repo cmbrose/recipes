@@ -1,14 +1,14 @@
 ---
-:title: 25 Minute Black Pepper Jalapeño Basil Chicken Stir Fry
-:name: 25 Minute Black Pepper Jalapeño Basil Chicken Stir Fry
-:prep_time: '10'
-:cook_time: '15'
-:servings: ''
-:tags: []
-:preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2021/08/25-Minute-Black-Pepper-Jalapeño-Basil-Chicken-Stir-Fry-7.jpg
-:source: https://www.halfbakedharvest.com/jalapeno-basil-chicken-stir-fry/
-:source_kind: url
-:notes: []
+title: 25 Minute Black Pepper Jalapeño Basil Chicken Stir Fry
+name: 25 Minute Black Pepper Jalapeño Basil Chicken Stir Fry
+prep_time: '10'
+cook_time: '15'
+servings: ''
+tags: []
+preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2021/08/25-Minute-Black-Pepper-Jalapeño-Basil-Chicken-Stir-Fry-7.jpg
+source: https://www.halfbakedharvest.com/jalapeno-basil-chicken-stir-fry/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

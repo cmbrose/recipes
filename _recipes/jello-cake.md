@@ -1,12 +1,11 @@
 ---
-:title: Jello Cake
-:name: Jello Cake
-:tags:
-- "---"
-- "- GrandmaBrose"
-- "- cake"
-:source_kind: manual
-:notes: []
+title: Jello Cake
+name: Jello Cake
+tags:
+- GrandmaBrose
+- cake
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

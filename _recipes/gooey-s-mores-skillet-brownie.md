@@ -1,16 +1,15 @@
 ---
-:title: Gooey S'mores Skillet Brownie
-:name: Gooey S'mores Skillet Brownie
-:prep_time: '15'
-:cook_time: '25'
-:servings: ''
-:tags:
-- "---"
-- "- Dessert"
-:preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2021/06/Gooey-Smores-Skillet-Brownie-10.jpg
-:source: https://www.halfbakedharvest.com/smores-skillet-brownie/
-:source_kind: url
-:notes: []
+title: Gooey S'mores Skillet Brownie
+name: Gooey S'mores Skillet Brownie
+prep_time: '15'
+cook_time: '25'
+servings: ''
+tags:
+- Dessert
+preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2021/06/Gooey-Smores-Skillet-Brownie-10.jpg
+source: https://www.halfbakedharvest.com/smores-skillet-brownie/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

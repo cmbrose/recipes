@@ -1,15 +1,14 @@
 ---
-:title: Crispy Oven Baked Potatoes
-:name: Crispy Oven Baked Potatoes
-:prep_time: 20 min
-:cook_time: 25 min
-:servings: 4-6
-:tags:
-- "---"
-- "- GrandmaBrose"
-- "- Side"
-:source_kind: manual
-:notes: []
+title: Crispy Oven Baked Potatoes
+name: Crispy Oven Baked Potatoes
+prep_time: 20 min
+cook_time: 25 min
+servings: 4-6
+tags:
+- GrandmaBrose
+- Side
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

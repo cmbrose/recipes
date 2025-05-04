@@ -1,19 +1,17 @@
 ---
-:title: Chocolate Sourdough
-:name: Chocolate Sourdough
-:prep_time: 5 hours + overnight
-:cook_time: 45 min
-:servings: '1'
-:tags:
-- "---"
-- "- bread"
-:preview_url: https://i.imgur.com/a8e3gtj.jpeg
-:source_kind: manual
-:notes:
-- "---"
-- "- A dough whisk works really nicely for this dough because it starts very sticky."
-- It can be made by hand in a large Cambro but it takes a long time to mix fully by
-- hand.
+title: Chocolate Sourdough
+name: Chocolate Sourdough
+prep_time: 5 hours + overnight
+cook_time: 45 min
+servings: '1'
+tags:
+- bread
+preview_url: https://i.imgur.com/a8e3gtj.jpeg
+source_kind: manual
+notes:
+- A dough whisk works really nicely for this dough because it starts very sticky.
+  It can be made by hand in a large Cambro but it takes a long time to mix fully by
+  hand.
 ---
 
 ## Ingredients

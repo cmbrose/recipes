@@ -1,15 +1,15 @@
 ---
-:title: Sheet Pan Gnocchi
-:name: Sheet Pan Gnocchi
-:prep_time: 10 minutes
-:cook_time: 30 minutes
-:total_time: 40 minutes
-:servings: '4'
-:tags: []
-:preview_url: https://cdn.loveandlemons.com/wp-content/uploads/2023/03/sheet-pan-gnocchi-150x150.jpg
-:source: https://www.loveandlemons.com/sheet-pan-gnocchi/
-:source_kind: url
-:notes: []
+title: Sheet Pan Gnocchi
+name: Sheet Pan Gnocchi
+prep_time: 10 minutes
+cook_time: 30 minutes
+total_time: 40 minutes
+servings: '4'
+tags: []
+preview_url: https://cdn.loveandlemons.com/wp-content/uploads/2023/03/sheet-pan-gnocchi-150x150.jpg
+source: https://www.loveandlemons.com/sheet-pan-gnocchi/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

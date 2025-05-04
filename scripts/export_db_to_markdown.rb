@@ -27,10 +27,17 @@ def slug(str)
   str.to_s.downcase.gsub(/[^a-z0-9]+/, "-").gsub(/^-|-$/, "")
 end
 
-def parse_array(txt)
+def parse_json_array(txt)
   return [] if txt.nil? || txt.strip.empty?
   JSON.parse(txt)
 rescue JSON::ParserError
+  txt.split(/[\n;]+/).map(&:strip).reject(&:empty?)
+end
+
+def parse_yaml_array(txt)
+  return [] if txt.nil? || txt.strip.empty?
+  YAML.safe_load(txt)
+rescue Psych::SyntaxError
   txt.split(/[\n;]+/).map(&:strip).reject(&:empty?)
 end
 
@@ -46,15 +53,15 @@ Recipe.find_each(batch_size: 100) do |r|
     cook_time:   r.cook_time,
     total_time:  r.total_time,
     servings:    r.servings,
-    tags:        parse_array(r.tags),
+    tags:        parse_yaml_array(r.tags),
     preview_url: r.preview_url,
     source:      r.source,
     source_kind: r.source_kind,
-    notes:       parse_array(r.notes)
-  }.compact
+    notes:       parse_yaml_array(r.notes)
+  }.compact.transform_keys(&:to_s)
 
-  ingredients = parse_array(r.ingredients)
-  steps       = parse_array(r.directions)
+  ingredients = parse_json_array(r.ingredients)
+  steps       = parse_json_array(r.directions)
 
   File.open(File.join(out_dir, "#{slug(r.name || "recipe-#{r.id}")}.md"), "w") do |f|
     f.puts front.to_yaml

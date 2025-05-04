@@ -1,18 +1,17 @@
 ---
-:title: Sourdough Hamburger Buns
-:name: Sourdough Hamburger Buns
-:prep_time: 30 mins
-:cook_time: 20 to 25 mins
-:total_time: 8 hrs 55 mins
-:servings: 6 buns
-:tags:
-- "---"
-- "- bread"
-- "- Sourdough"
-:preview_url: https://www.kingarthurbaking.com/sites/default/files/styles/featured_image/public/2021-01/Sourdough_Hamburger_20-2_web_2.jpg?itok=RMjIRbol
-:source: https://www.kingarthurbaking.com/recipes/sourdough-hamburger-buns-recipe
-:source_kind: url
-:notes: []
+title: Sourdough Hamburger Buns
+name: Sourdough Hamburger Buns
+prep_time: 30 mins
+cook_time: 20 to 25 mins
+total_time: 8 hrs 55 mins
+servings: 6 buns
+tags:
+- bread
+- Sourdough
+preview_url: https://www.kingarthurbaking.com/sites/default/files/styles/featured_image/public/2021-01/Sourdough_Hamburger_20-2_web_2.jpg?itok=RMjIRbol
+source: https://www.kingarthurbaking.com/recipes/sourdough-hamburger-buns-recipe
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

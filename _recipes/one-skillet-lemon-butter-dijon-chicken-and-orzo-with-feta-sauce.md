@@ -1,17 +1,16 @@
 ---
-:title: One Skillet Lemon Butter Dijon Chicken and Orzo with Feta Sauce
-:name: One Skillet Lemon Butter Dijon Chicken and Orzo with Feta Sauce
-:prep_time: '20'
-:cook_time: '40'
-:servings: ''
-:tags:
-- "---"
-- "- Chicken"
-- "- Pasta"
-:preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2022/01/One-Skillet-Lemon-Butter-Dijon-Chicken-and-Orzo-with-Feta-Sauce-7.jpg
-:source: https://www.halfbakedharvest.com/lemon-butter-dijon-chicken-and-orzo/
-:source_kind: url
-:notes: []
+title: One Skillet Lemon Butter Dijon Chicken and Orzo with Feta Sauce
+name: One Skillet Lemon Butter Dijon Chicken and Orzo with Feta Sauce
+prep_time: '20'
+cook_time: '40'
+servings: ''
+tags:
+- Chicken
+- Pasta
+preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2022/01/One-Skillet-Lemon-Butter-Dijon-Chicken-and-Orzo-with-Feta-Sauce-7.jpg
+source: https://www.halfbakedharvest.com/lemon-butter-dijon-chicken-and-orzo/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

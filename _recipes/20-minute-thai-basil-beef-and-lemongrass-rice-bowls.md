@@ -1,17 +1,16 @@
 ---
-:title: 20 Minute Thai Basil Beef and Lemongrass Rice Bowls
-:name: 20 Minute Thai Basil Beef and Lemongrass Rice Bowls
-:prep_time: '10'
-:cook_time: '15'
-:servings: ''
-:tags:
-- "---"
-- "- Asian"
-- "- Beef"
-:preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2022/07/Thai-Basil-Beef-and-Lemongrass-Rice-Bowls-4.jpg
-:source: https://www.halfbakedharvest.com/20-minute-thai-basil-beef-lemongrass-rice-bowls/
-:source_kind: url
-:notes: []
+title: 20 Minute Thai Basil Beef and Lemongrass Rice Bowls
+name: 20 Minute Thai Basil Beef and Lemongrass Rice Bowls
+prep_time: '10'
+cook_time: '15'
+servings: ''
+tags:
+- Asian
+- Beef
+preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2022/07/Thai-Basil-Beef-and-Lemongrass-Rice-Bowls-4.jpg
+source: https://www.halfbakedharvest.com/20-minute-thai-basil-beef-lemongrass-rice-bowls/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

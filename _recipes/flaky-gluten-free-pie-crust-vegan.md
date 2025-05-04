@@ -1,14 +1,14 @@
 ---
-:title: Flaky Gluten-Free Pie Crust (Vegan)
-:name: Flaky Gluten-Free Pie Crust (Vegan)
-:prep_time: 25 minutes
-:cook_time: 20 minutes
-:servings: ''
-:tags: []
-:preview_url: https://minimalistbaker.com/wp-content/uploads/2022/09/Flaky-Gluten-Free-Pie-Crust-SQUARE-200x200.jpg
-:source: https://minimalistbaker.com/flaky-gluten-free-pie-crust-vegan/
-:source_kind: url
-:notes: []
+title: Flaky Gluten-Free Pie Crust (Vegan)
+name: Flaky Gluten-Free Pie Crust (Vegan)
+prep_time: 25 minutes
+cook_time: 20 minutes
+servings: ''
+tags: []
+preview_url: https://minimalistbaker.com/wp-content/uploads/2022/09/Flaky-Gluten-Free-Pie-Crust-SQUARE-200x200.jpg
+source: https://minimalistbaker.com/flaky-gluten-free-pie-crust-vegan/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

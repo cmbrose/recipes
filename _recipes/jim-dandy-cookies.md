@@ -1,20 +1,18 @@
 ---
-:title: Jim Dandy Cookies
-:name: Jim Dandy Cookies
-:prep_time: 30 min
-:cook_time: 20 min
-:servings: '39'
-:tags:
-- "---"
-- "- cookies"
-- "- GrandmaBrose"
-:preview_url: https://i.imgur.com/VlBYeVv.jpg
-:source_kind: manual
-:notes:
-- "---"
-- "- 'Future attempts: try it in a 9x13 as a bar with mini marshmallows or marshmallow"
-- fluff'
-- "- Be careful on the amount of sugar as it can be too wet and not set up well"
+title: Jim Dandy Cookies
+name: Jim Dandy Cookies
+prep_time: 30 min
+cook_time: 20 min
+servings: '39'
+tags:
+- cookies
+- GrandmaBrose
+preview_url: https://i.imgur.com/VlBYeVv.jpg
+source_kind: manual
+notes:
+- 'Future attempts: try it in a 9x13 as a bar with mini marshmallows or marshmallow
+  fluff'
+- Be careful on the amount of sugar as it can be too wet and not set up well
 ---
 
 ## Ingredients

@@ -1,17 +1,16 @@
 ---
-:title: Pretzel Sandwich Buns
-:name: Pretzel Sandwich Buns
-:prep_time: 20 mins
-:cook_time: 22 to 26 mins
-:total_time: 1 hr 57 mins
-:servings: 10 buns
-:tags:
-- "---"
-- "- bread"
-:preview_url: https://www.kingarthurbaking.com/sites/default/files/styles/featured_image/public/recipe_legacy/4995-3-large.jpg?itok=yas3PcEt
-:source: https://www.kingarthurbaking.com/recipes/pretzel-sandwich-buns-recipe
-:source_kind: url
-:notes: []
+title: Pretzel Sandwich Buns
+name: Pretzel Sandwich Buns
+prep_time: 20 mins
+cook_time: 22 to 26 mins
+total_time: 1 hr 57 mins
+servings: 10 buns
+tags:
+- bread
+preview_url: https://www.kingarthurbaking.com/sites/default/files/styles/featured_image/public/recipe_legacy/4995-3-large.jpg?itok=yas3PcEt
+source: https://www.kingarthurbaking.com/recipes/pretzel-sandwich-buns-recipe
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

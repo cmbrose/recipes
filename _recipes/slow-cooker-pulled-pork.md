@@ -1,17 +1,16 @@
 ---
-:title: Slow Cooker Pulled Pork
-:name: Slow Cooker Pulled Pork
-:prep_time: 5 mins
-:cook_time: 7 hrs
-:servings: 8 servings
-:tags:
-- "---"
-- "- Pork"
-- "- Sandwich"
-:preview_url: https://www.skinnytaste.com/wp-content/uploads/2012/04/pulled-pork-06-1.jpg
-:source: https://www.skinnytaste.com/slow-cooker-pulled-pork/
-:source_kind: url
-:notes: []
+title: Slow Cooker Pulled Pork
+name: Slow Cooker Pulled Pork
+prep_time: 5 mins
+cook_time: 7 hrs
+servings: 8 servings
+tags:
+- Pork
+- Sandwich
+preview_url: https://www.skinnytaste.com/wp-content/uploads/2012/04/pulled-pork-06-1.jpg
+source: https://www.skinnytaste.com/slow-cooker-pulled-pork/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

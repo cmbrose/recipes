@@ -1,14 +1,13 @@
 ---
-:title: Lola's Bread
-:name: Lola's Bread
-:prep_time: 15 min
-:cook_time: 50 min
-:tags:
-- "---"
-- "- GrandmaBrose"
-- "- bread"
-:source_kind: manual
-:notes: []
+title: Lola's Bread
+name: Lola's Bread
+prep_time: 15 min
+cook_time: 50 min
+tags:
+- GrandmaBrose
+- bread
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

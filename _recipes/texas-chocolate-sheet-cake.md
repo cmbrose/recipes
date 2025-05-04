@@ -1,14 +1,13 @@
 ---
-:title: Texas Chocolate Sheet Cake
-:name: Texas Chocolate Sheet Cake
-:prep_time: 20 min
-:cook_time: 20 min
-:tags:
-- "---"
-- "- GrandmaBrose"
-- "- cake"
-:source_kind: manual
-:notes: []
+title: Texas Chocolate Sheet Cake
+name: Texas Chocolate Sheet Cake
+prep_time: 20 min
+cook_time: 20 min
+tags:
+- GrandmaBrose
+- cake
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

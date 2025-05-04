@@ -1,17 +1,16 @@
 ---
-:title: Sheet Pan Chicken Gyros with Feta Tzatziki
-:name: Sheet Pan Chicken Gyros with Feta Tzatziki
-:prep_time: '30'
-:cook_time: '25'
-:servings: ''
-:tags:
-- "---"
-- "- Chicken"
-- "- Greek"
-:preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2022/02/Quick-Sheet-Pan-Chicken-Gyros-with-Feta-Tzatziki-5.jpg
-:source: https://www.halfbakedharvest.com/chicken-gyros-with-feta-tzatziki/
-:source_kind: url
-:notes: []
+title: Sheet Pan Chicken Gyros with Feta Tzatziki
+name: Sheet Pan Chicken Gyros with Feta Tzatziki
+prep_time: '30'
+cook_time: '25'
+servings: ''
+tags:
+- Chicken
+- Greek
+preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2022/02/Quick-Sheet-Pan-Chicken-Gyros-with-Feta-Tzatziki-5.jpg
+source: https://www.halfbakedharvest.com/chicken-gyros-with-feta-tzatziki/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

@@ -1,16 +1,15 @@
 ---
-:title: Vegan Sourdough Discard Pancakes
-:name: Vegan Sourdough Discard Pancakes
-:prep_time: 5 min
-:cook_time: 10 min
-:servings: '9'
-:tags:
-- "---"
-- "- Vegan"
-- "- Breakfast"
-:preview_url: https://milkandpop.com/wp-content/uploads/2020/07/sourdough-pancakes-13.jpg
-:source_kind: manual
-:notes: []
+title: Vegan Sourdough Discard Pancakes
+name: Vegan Sourdough Discard Pancakes
+prep_time: 5 min
+cook_time: 10 min
+servings: '9'
+tags:
+- Vegan
+- Breakfast
+preview_url: https://milkandpop.com/wp-content/uploads/2020/07/sourdough-pancakes-13.jpg
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

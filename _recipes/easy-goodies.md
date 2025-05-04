@@ -1,18 +1,15 @@
 ---
-:title: Easy Goodies
-:name: Easy Goodies
-:prep_time: 20 min
-:cook_time: ''
-:tags:
-- "---"
-- "- cookies"
-- "- GrandmaBrose"
-:source_kind: manual
-:notes:
-- "---"
-- '- ''There is a note on the recipe that says "Peanut clusters: 2 cups choc chips,
-  2'
-- cups peanuts." I don''t know what it means but it might be a modification.'
+title: Easy Goodies
+name: Easy Goodies
+prep_time: 20 min
+cook_time: ''
+tags:
+- cookies
+- GrandmaBrose
+source_kind: manual
+notes:
+- 'There is a note on the recipe that says "Peanut clusters: 2 cups choc chips, 2
+  cups peanuts." I don''t know what it means but it might be a modification.'
 ---
 
 ## Ingredients

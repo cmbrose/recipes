@@ -1,14 +1,14 @@
 ---
-:title: Cajun Fried Rice
-:name: Cajun Fried Rice
-:prep_time: 15 mins
-:cook_time: 15 mins
-:servings: 4 servings
-:tags: []
-:preview_url: https://www.skinnytaste.com/wp-content/uploads/2022/02/Cajun-Fried-Rice-7.jpg
-:source: https://www.skinnytaste.com/cajun-fried-rice/
-:source_kind: url
-:notes: []
+title: Cajun Fried Rice
+name: Cajun Fried Rice
+prep_time: 15 mins
+cook_time: 15 mins
+servings: 4 servings
+tags: []
+preview_url: https://www.skinnytaste.com/wp-content/uploads/2022/02/Cajun-Fried-Rice-7.jpg
+source: https://www.skinnytaste.com/cajun-fried-rice/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

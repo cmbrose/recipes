@@ -1,17 +1,16 @@
 ---
-:title: Creamy Sun-Dried Tomato Chicken Pasta
-:name: Creamy Sun-Dried Tomato Chicken Pasta
-:prep_time: '15'
-:cook_time: '25'
-:servings: ''
-:tags:
-- "---"
-- "- Chicken"
-- "- Pasta"
-:preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2021/12/Creamy-Sun-Dried-Tomato-Chicken-Pasta-7.jpg
-:source: https://www.halfbakedharvest.com/creamy-sun-dried-tomato-chicken-pasta/
-:source_kind: url
-:notes: []
+title: Creamy Sun-Dried Tomato Chicken Pasta
+name: Creamy Sun-Dried Tomato Chicken Pasta
+prep_time: '15'
+cook_time: '25'
+servings: ''
+tags:
+- Chicken
+- Pasta
+preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2021/12/Creamy-Sun-Dried-Tomato-Chicken-Pasta-7.jpg
+source: https://www.halfbakedharvest.com/creamy-sun-dried-tomato-chicken-pasta/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

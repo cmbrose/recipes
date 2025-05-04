@@ -1,17 +1,16 @@
 ---
-:title: One-Pot Orzo with Sausage, Spinach and Corn
-:name: One-Pot Orzo with Sausage, Spinach and Corn
-:prep_time: 5 mins
-:cook_time: 35 mins
-:servings: 4 servings
-:tags: []
-:preview_url: https://www.skinnytaste.com/wp-content/uploads/2022/12/Orzo-with-Italian-Sausage-Corn-and-Spinach-7-520x520.jpg
-:source: https://www.skinnytaste.com/one-pot-orzo-with-sausage-spinach-and-corn/
-:source_kind: url
-:notes:
-- "---"
-- "- 'Double recipe if you want leftovers. Season it’s extra thyme basil oregano but"
-- not salt. '
+title: One-Pot Orzo with Sausage, Spinach and Corn
+name: One-Pot Orzo with Sausage, Spinach and Corn
+prep_time: 5 mins
+cook_time: 35 mins
+servings: 4 servings
+tags: []
+preview_url: https://www.skinnytaste.com/wp-content/uploads/2022/12/Orzo-with-Italian-Sausage-Corn-and-Spinach-7-520x520.jpg
+source: https://www.skinnytaste.com/one-pot-orzo-with-sausage-spinach-and-corn/
+source_kind: url
+notes:
+- 'Double recipe if you want leftovers. Season it’s extra thyme basil oregano but
+  not salt. '
 ---
 
 ## Ingredients

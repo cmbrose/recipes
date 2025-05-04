@@ -1,15 +1,14 @@
 ---
-:title: Vegan Cinnamon Rolls
-:name: Vegan Cinnamon Rolls
-:prep_time: 3 hours
-:cook_time: 24 min
-:servings: '12'
-:tags:
-- "---"
-- "- Vegan"
-:preview_url: https://cooknourishbliss.com/wp-content/uploads/2021/03/Dairy_free_cinnamon_rolls.jpg.webp
-:source_kind: manual
-:notes: []
+title: Vegan Cinnamon Rolls
+name: Vegan Cinnamon Rolls
+prep_time: 3 hours
+cook_time: 24 min
+servings: '12'
+tags:
+- Vegan
+preview_url: https://cooknourishbliss.com/wp-content/uploads/2021/03/Dairy_free_cinnamon_rolls.jpg.webp
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

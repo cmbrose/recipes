@@ -1,18 +1,17 @@
 ---
-:title: Extra-Tangy Sourdough Bread
-:name: Extra-Tangy Sourdough Bread
-:prep_time: 15 mins
-:cook_time: 30 mins
-:total_time: 23 hrs 45 mins
-:servings: 2 loaves
-:tags:
-- "---"
-- "- bread"
-- "- Sourdough"
-:preview_url: https://www.kingarthurbaking.com/sites/default/files/styles/featured_image/public/recipe_legacy/92-3-large.jpg?itok=80UUj8st
-:source: https://www.kingarthurbaking.com/recipes/extra-tangy-sourdough-bread-recipe
-:source_kind: url
-:notes: []
+title: Extra-Tangy Sourdough Bread
+name: Extra-Tangy Sourdough Bread
+prep_time: 15 mins
+cook_time: 30 mins
+total_time: 23 hrs 45 mins
+servings: 2 loaves
+tags:
+- bread
+- Sourdough
+preview_url: https://www.kingarthurbaking.com/sites/default/files/styles/featured_image/public/recipe_legacy/92-3-large.jpg?itok=80UUj8st
+source: https://www.kingarthurbaking.com/recipes/extra-tangy-sourdough-bread-recipe
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

@@ -1,18 +1,15 @@
 ---
-:title: Impossible Rhubarb Pie
-:name: Impossible Rhubarb Pie
-:prep_time: 15 min
-:cook_time: 50 min
-:tags:
-- "---"
-- "- GrandmaBrose"
-- "- pie"
-:source_kind: manual
-:notes:
-- "---"
-- "- There's no mention of a pie crust in the recipe so no idea if you need one or
-  not"
-- ":)"
+title: Impossible Rhubarb Pie
+name: Impossible Rhubarb Pie
+prep_time: 15 min
+cook_time: 50 min
+tags:
+- GrandmaBrose
+- pie
+source_kind: manual
+notes:
+- There's no mention of a pie crust in the recipe so no idea if you need one or not
+  :)
 ---
 
 ## Ingredients

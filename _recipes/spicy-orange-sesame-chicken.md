@@ -1,17 +1,16 @@
 ---
-:title: Spicy Orange Sesame Chicken
-:name: Spicy Orange Sesame Chicken
-:prep_time: 30 min
-:cook_time: 30 min
-:servings: '4'
-:tags:
-- "---"
-- "- Chicken"
-- "- Asian"
-:preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2022/03/Spicy-Orange-Sesame-Chicken-7.jpg
-:source: https://www.halfbakedharvest.com/orange-sesame-chicken/
-:source_kind: url
-:notes: []
+title: Spicy Orange Sesame Chicken
+name: Spicy Orange Sesame Chicken
+prep_time: 30 min
+cook_time: 30 min
+servings: '4'
+tags:
+- Chicken
+- Asian
+preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2022/03/Spicy-Orange-Sesame-Chicken-7.jpg
+source: https://www.halfbakedharvest.com/orange-sesame-chicken/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

@@ -1,14 +1,14 @@
 ---
-:title: Cozy Wild Rice and Orzo Chicken Soup
-:name: Cozy Wild Rice and Orzo Chicken Soup
-:prep_time: '15'
-:cook_time: '30'
-:servings: ''
-:tags: []
-:preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2022/11/Cozy-Wild-Rice-and-Orzo-Chicken-Soup-5.jpg
-:source: https://www.halfbakedharvest.com/wild-rice-and-orzo-chicken-soup/
-:source_kind: url
-:notes: []
+title: Cozy Wild Rice and Orzo Chicken Soup
+name: Cozy Wild Rice and Orzo Chicken Soup
+prep_time: '15'
+cook_time: '30'
+servings: ''
+tags: []
+preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2022/11/Cozy-Wild-Rice-and-Orzo-Chicken-Soup-5.jpg
+source: https://www.halfbakedharvest.com/wild-rice-and-orzo-chicken-soup/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

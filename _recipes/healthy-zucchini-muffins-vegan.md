@@ -1,15 +1,15 @@
 ---
-:title: Healthy Zucchini Muffins (Vegan)
-:name: Healthy Zucchini Muffins (Vegan)
-:prep_time: ''
-:cook_time: ''
-:total_time: ''
-:servings: ''
-:tags: []
-:preview_url: https://www.yummytoddlerfood.com/wp-content/uploads/2023/05/vegan-zucchini-muffins-on-plate-400x267.jpg
-:source: https://www.yummytoddlerfood.com/vegan-zucchini-mini-muffins/?fbclid=PAAaY2hRSln7ksRKh1jgx8DAsGzHWmw5bRFqUdnCpQaE6XU7vDrpSlrZoSqqc_aem_AUQD33KhTlrActr0FlrbNbcgpexsIUHHSu--fnM9M6NCmJ7j8_GzWh1fQKnMveOQhKE
-:source_kind: url
-:notes: []
+title: Healthy Zucchini Muffins (Vegan)
+name: Healthy Zucchini Muffins (Vegan)
+prep_time: ''
+cook_time: ''
+total_time: ''
+servings: ''
+tags: []
+preview_url: https://www.yummytoddlerfood.com/wp-content/uploads/2023/05/vegan-zucchini-muffins-on-plate-400x267.jpg
+source: https://www.yummytoddlerfood.com/vegan-zucchini-mini-muffins/?fbclid=PAAaY2hRSln7ksRKh1jgx8DAsGzHWmw5bRFqUdnCpQaE6XU7vDrpSlrZoSqqc_aem_AUQD33KhTlrActr0FlrbNbcgpexsIUHHSu--fnM9M6NCmJ7j8_GzWh1fQKnMveOQhKE
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

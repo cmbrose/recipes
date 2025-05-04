@@ -1,18 +1,17 @@
 ---
-:title: Baked Sweet Potato Recipe
-:name: Baked Sweet Potato Recipe
-:prep_time: ''
-:cook_time: 40 mins
-:total_time: 40 mins
-:servings: 2 to 8filling for 2 sweet potatoesfilling for 2 sweet potatoesfilling for
+title: Baked Sweet Potato Recipe
+name: Baked Sweet Potato Recipe
+prep_time: ''
+cook_time: 40 mins
+total_time: 40 mins
+servings: 2 to 8filling for 2 sweet potatoesfilling for 2 sweet potatoesfilling for
   2 sweet potatoesfilling for 2 sweet potatoes
-:tags:
-- "---"
-- "- Vegan"
-:preview_url: https://cdn.loveandlemons.com/wp-content/uploads/2017/10/IMG_0071.jpg
-:source: https://www.loveandlemons.com/stuffed-sweet-potatoes/
-:source_kind: url
-:notes: []
+tags:
+- Vegan
+preview_url: https://cdn.loveandlemons.com/wp-content/uploads/2017/10/IMG_0071.jpg
+source: https://www.loveandlemons.com/stuffed-sweet-potatoes/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

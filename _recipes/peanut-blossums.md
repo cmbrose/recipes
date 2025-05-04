@@ -1,15 +1,14 @@
 ---
-:title: Peanut Blossums
-:name: Peanut Blossums
-:prep_time: 20 min
-:cook_time: 15 min
-:servings: 3.5 dozen
-:tags:
-- "---"
-- "- cookies"
-- "- GrandmaBrose"
-:source_kind: manual
-:notes: []
+title: Peanut Blossums
+name: Peanut Blossums
+prep_time: 20 min
+cook_time: 15 min
+servings: 3.5 dozen
+tags:
+- cookies
+- GrandmaBrose
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

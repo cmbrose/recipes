@@ -1,17 +1,16 @@
 ---
-:title: Homestyle Chicken Noodle Soup
-:name: Homestyle Chicken Noodle Soup
-:prep_time: '15'
-:cook_time: '30'
-:servings: ''
-:tags:
-- "---"
-- "- Chicken"
-- "- Soup"
-:preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2021/10/Homestyle-Chicken-Noodle-Soup-8.jpg
-:source: https://www.halfbakedharvest.com/homestyle-chicken-noodle-soup/
-:source_kind: url
-:notes: []
+title: Homestyle Chicken Noodle Soup
+name: Homestyle Chicken Noodle Soup
+prep_time: '15'
+cook_time: '30'
+servings: ''
+tags:
+- Chicken
+- Soup
+preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2021/10/Homestyle-Chicken-Noodle-Soup-8.jpg
+source: https://www.halfbakedharvest.com/homestyle-chicken-noodle-soup/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

@@ -1,17 +1,16 @@
 ---
-:title: "Sesame Chicken Dumplings in Spicy Broth with Garlic Crisps\t\t"
-:name: "Sesame Chicken Dumplings in Spicy Broth with Garlic Crisps\t\t"
-:prep_time: '30'
-:cook_time: '20'
-:servings: ''
-:tags:
-- "---"
-- "- Chicken"
-- "- Asian"
-:preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2020/11/Sesame-Chicken-Dumplings-in-Spicy-Broth-with-Garlic-Crisps-1-500x500.jpg
-:source: https://www.halfbakedharvest.com/sesame-chicken-dumplings/
-:source_kind: url
-:notes: []
+title: "Sesame Chicken Dumplings in Spicy Broth with Garlic Crisps\t\t"
+name: "Sesame Chicken Dumplings in Spicy Broth with Garlic Crisps\t\t"
+prep_time: '30'
+cook_time: '20'
+servings: ''
+tags:
+- Chicken
+- Asian
+preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2020/11/Sesame-Chicken-Dumplings-in-Spicy-Broth-with-Garlic-Crisps-1-500x500.jpg
+source: https://www.halfbakedharvest.com/sesame-chicken-dumplings/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

@@ -1,16 +1,15 @@
 ---
-:title: Brown Butter Iced Mocha Cinnamon Rolls
-:name: Brown Butter Iced Mocha Cinnamon Rolls
-:prep_time: '30'
-:cook_time: '25'
-:servings: ''
-:tags:
-- "---"
-- "- Breakfast"
-:preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2021/12/Brown-Butter-Iced-Mocha-Cinnamon-Rolls-10.jpg
-:source: https://www.halfbakedharvest.com/brown-butter-iced-mocha-cinnamon-rolls/
-:source_kind: url
-:notes: []
+title: Brown Butter Iced Mocha Cinnamon Rolls
+name: Brown Butter Iced Mocha Cinnamon Rolls
+prep_time: '30'
+cook_time: '25'
+servings: ''
+tags:
+- Breakfast
+preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2021/12/Brown-Butter-Iced-Mocha-Cinnamon-Rolls-10.jpg
+source: https://www.halfbakedharvest.com/brown-butter-iced-mocha-cinnamon-rolls/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

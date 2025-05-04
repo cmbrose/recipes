@@ -1,14 +1,14 @@
 ---
-:title: Sweet Potato Chickpea Buddha Bowl
-:name: Sweet Potato Chickpea Buddha Bowl
-:prep_time: 5 minutes
-:cook_time: 25 minutes
-:servings: '3'
-:tags: []
-:preview_url: https://minimalistbaker.com/wp-content/uploads/2015/04/Buddha-Bowls-SQUARE-200x200.jpg
-:source: https://minimalistbaker.com/sweet-potato-chickpea-buddha-bowl/#wprm-recipe-container-35619
-:source_kind: url
-:notes: []
+title: Sweet Potato Chickpea Buddha Bowl
+name: Sweet Potato Chickpea Buddha Bowl
+prep_time: 5 minutes
+cook_time: 25 minutes
+servings: '3'
+tags: []
+preview_url: https://minimalistbaker.com/wp-content/uploads/2015/04/Buddha-Bowls-SQUARE-200x200.jpg
+source: https://minimalistbaker.com/sweet-potato-chickpea-buddha-bowl/#wprm-recipe-container-35619
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

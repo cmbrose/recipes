@@ -1,13 +1,13 @@
 ---
-:title: Mediterranean Bulgur Bowl
-:name: Mediterranean Bulgur Bowl
-:prep_time: ''
-:cook_time: ''
-:total_time: 20 min
-:tags: []
-:preview_url: https://www.tasteofhome.com/wp-content/uploads/2018/01/Mediterranean-Bulgur-Bowl_EXPS_SDAS17_185656_D04_04_05_5b-1.jpg?fit=696,696
-:source_kind: manual
-:notes: []
+title: Mediterranean Bulgur Bowl
+name: Mediterranean Bulgur Bowl
+prep_time: ''
+cook_time: ''
+total_time: 20 min
+tags: []
+preview_url: https://www.tasteofhome.com/wp-content/uploads/2018/01/Mediterranean-Bulgur-Bowl_EXPS_SDAS17_185656_D04_04_05_5b-1.jpg?fit=696,696
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

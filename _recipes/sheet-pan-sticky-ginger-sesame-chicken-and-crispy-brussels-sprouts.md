@@ -1,17 +1,16 @@
 ---
-:title: "Sheet Pan Sticky Ginger Sesame Chicken and Crispy Brussels Sprouts\t\t"
-:name: "Sheet Pan Sticky Ginger Sesame Chicken and Crispy Brussels Sprouts\t\t"
-:prep_time: '15'
-:cook_time: '20'
-:servings: ''
-:tags:
-- "---"
-- "- Chicken"
-- "- Asian"
-:preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2020/09/Sheet-Pan-Sticky-Ginger-Sesame-Chicken-and-Crispy-Brussels-Sprouts-1-500x500.jpg
-:source: https://www.halfbakedharvest.com/sheet-pan-sticky-ginger-sesame-chicken/
-:source_kind: url
-:notes: []
+title: "Sheet Pan Sticky Ginger Sesame Chicken and Crispy Brussels Sprouts\t\t"
+name: "Sheet Pan Sticky Ginger Sesame Chicken and Crispy Brussels Sprouts\t\t"
+prep_time: '15'
+cook_time: '20'
+servings: ''
+tags:
+- Chicken
+- Asian
+preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2020/09/Sheet-Pan-Sticky-Ginger-Sesame-Chicken-and-Crispy-Brussels-Sprouts-1-500x500.jpg
+source: https://www.halfbakedharvest.com/sheet-pan-sticky-ginger-sesame-chicken/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

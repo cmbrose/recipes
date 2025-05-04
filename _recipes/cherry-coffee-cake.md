@@ -1,12 +1,11 @@
 ---
-:title: Cherry Coffee Cake
-:name: Cherry Coffee Cake
-:tags:
-- "---"
-- "- GrandmaBrose"
-- "- cake"
-:source_kind: manual
-:notes: []
+title: Cherry Coffee Cake
+name: Cherry Coffee Cake
+tags:
+- GrandmaBrose
+- cake
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

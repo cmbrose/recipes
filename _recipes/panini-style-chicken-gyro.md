@@ -1,17 +1,16 @@
 ---
-:title: Panini Style Chicken Gyro
-:name: Panini Style Chicken Gyro
-:prep_time: '15'
-:cook_time: '15'
-:servings: ''
-:tags:
-- "---"
-- "- Chicken"
-- "- Greek"
-:preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2021/06/Panini-Style-Chicken-Gyros-7.jpg
-:source: https://www.halfbakedharvest.com/panini-style-chicken-gyros/
-:source_kind: url
-:notes: []
+title: Panini Style Chicken Gyro
+name: Panini Style Chicken Gyro
+prep_time: '15'
+cook_time: '15'
+servings: ''
+tags:
+- Chicken
+- Greek
+preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2021/06/Panini-Style-Chicken-Gyros-7.jpg
+source: https://www.halfbakedharvest.com/panini-style-chicken-gyros/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

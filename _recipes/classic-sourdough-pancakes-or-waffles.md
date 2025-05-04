@@ -1,17 +1,16 @@
 ---
-:title: Classic Sourdough Pancakes or Waffles
-:name: Classic Sourdough Pancakes or Waffles
-:prep_time: 42 mins
-:cook_time: ''
-:total_time: 12 hrs 42 mins
-:servings: about  2 dozen medium pancakes or 1 dozen 8" waffles
-:tags:
-- "---"
-- "- Sourdough"
-:preview_url: https://www.kingarthurbaking.com/sites/default/files/styles/featured_image/public/recipe_legacy/93-3-large.jpg?itok=9X7IS2tG
-:source: https://www.kingarthurbaking.com/recipes/classic-sourdough-waffles-or-pancakes-recipe
-:source_kind: url
-:notes: []
+title: Classic Sourdough Pancakes or Waffles
+name: Classic Sourdough Pancakes or Waffles
+prep_time: 42 mins
+cook_time: ''
+total_time: 12 hrs 42 mins
+servings: about  2 dozen medium pancakes or 1 dozen 8" waffles
+tags:
+- Sourdough
+preview_url: https://www.kingarthurbaking.com/sites/default/files/styles/featured_image/public/recipe_legacy/93-3-large.jpg?itok=9X7IS2tG
+source: https://www.kingarthurbaking.com/recipes/classic-sourdough-waffles-or-pancakes-recipe
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

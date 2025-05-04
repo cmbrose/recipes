@@ -1,17 +1,16 @@
 ---
-:title: Chickpea Salad Sandwich
-:name: Chickpea Salad Sandwich
-:prep_time: 20 mins
-:cook_time: 5 mins
-:total_time: 25 mins
-:servings: 3-4
-:tags:
-- "---"
-- "- Vegan"
-:preview_url: https://cdn.loveandlemons.com/wp-content/uploads/2018/05/IMG_12147-2.jpg
-:source: https://www.loveandlemons.com/chickpea-salad-sandwich/
-:source_kind: url
-:notes: []
+title: Chickpea Salad Sandwich
+name: Chickpea Salad Sandwich
+prep_time: 20 mins
+cook_time: 5 mins
+total_time: 25 mins
+servings: 3-4
+tags:
+- Vegan
+preview_url: https://cdn.loveandlemons.com/wp-content/uploads/2018/05/IMG_12147-2.jpg
+source: https://www.loveandlemons.com/chickpea-salad-sandwich/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

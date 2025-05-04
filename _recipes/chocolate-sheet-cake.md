@@ -1,14 +1,13 @@
 ---
-:title: Chocolate Sheet Cake
-:name: Chocolate Sheet Cake
-:prep_time: 20 min
-:cook_time: 20 min
-:tags:
-- "---"
-- "- GrandmaBrose"
-- "- cake"
-:source_kind: manual
-:notes: []
+title: Chocolate Sheet Cake
+name: Chocolate Sheet Cake
+prep_time: 20 min
+cook_time: 20 min
+tags:
+- GrandmaBrose
+- cake
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

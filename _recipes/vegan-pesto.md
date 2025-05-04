@@ -1,17 +1,16 @@
 ---
-:title: Vegan Pesto
-:name: Vegan Pesto
-:prep_time: 5 minutes
-:cook_time: ''
-:total_time: ''
-:servings: '4'
-:tags: []
-:preview_url: https://cdn.loveandlemons.com/wp-content/uploads/2020/06/vegan-pesto-150x150.jpg
-:source: https://www.loveandlemons.com/vegan-pesto/
-:source_kind: url
-:notes:
-- "---"
-- "- Top jar with olive oil before freezing"
+title: Vegan Pesto
+name: Vegan Pesto
+prep_time: 5 minutes
+cook_time: ''
+total_time: ''
+servings: '4'
+tags: []
+preview_url: https://cdn.loveandlemons.com/wp-content/uploads/2020/06/vegan-pesto-150x150.jpg
+source: https://www.loveandlemons.com/vegan-pesto/
+source_kind: url
+notes:
+- Top jar with olive oil before freezing
 ---
 
 ## Ingredients

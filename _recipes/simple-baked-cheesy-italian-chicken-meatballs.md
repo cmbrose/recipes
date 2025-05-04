@@ -1,14 +1,14 @@
 ---
-:title: Simple Baked Cheesy Italian Chicken Meatballs
-:name: Simple Baked Cheesy Italian Chicken Meatballs
-:prep_time: '15'
-:cook_time: '45'
-:servings: ''
-:tags: []
-:preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2021/10/Simple-Baked-Cheesy-Italian-Chicken-Meatballs-7.jpg
-:source: https://www.halfbakedharvest.com/italian-chicken-meatballs/
-:source_kind: url
-:notes: []
+title: Simple Baked Cheesy Italian Chicken Meatballs
+name: Simple Baked Cheesy Italian Chicken Meatballs
+prep_time: '15'
+cook_time: '45'
+servings: ''
+tags: []
+preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2021/10/Simple-Baked-Cheesy-Italian-Chicken-Meatballs-7.jpg
+source: https://www.halfbakedharvest.com/italian-chicken-meatballs/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

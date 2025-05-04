@@ -1,14 +1,14 @@
 ---
-:title: Roasted Broccoli Sweet Potato Chickpea Salad
-:name: Roasted Broccoli Sweet Potato Chickpea Salad
-:prep_time: 5 minutes
-:cook_time: 25 minutes
-:servings: '2'
-:tags: []
-:preview_url: https://minimalistbaker.com/wp-content/uploads/2016/07/Broccoli-CHickpea-Salad-SQUARE-200x200.jpg
-:source: https://minimalistbaker.com/roasted-broccoli-sweet-potato-chickpea-salad/
-:source_kind: url
-:notes: []
+title: Roasted Broccoli Sweet Potato Chickpea Salad
+name: Roasted Broccoli Sweet Potato Chickpea Salad
+prep_time: 5 minutes
+cook_time: 25 minutes
+servings: '2'
+tags: []
+preview_url: https://minimalistbaker.com/wp-content/uploads/2016/07/Broccoli-CHickpea-Salad-SQUARE-200x200.jpg
+source: https://minimalistbaker.com/roasted-broccoli-sweet-potato-chickpea-salad/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

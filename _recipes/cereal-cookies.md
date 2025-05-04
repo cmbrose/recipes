@@ -1,14 +1,13 @@
 ---
-:title: Cereal Cookies
-:name: Cereal Cookies
-:prep_time: 30 min
-:cook_time: 10 min
-:tags:
-- "---"
-- "- cookies"
-- "- GrandmaBrose"
-:source_kind: manual
-:notes: []
+title: Cereal Cookies
+name: Cereal Cookies
+prep_time: 30 min
+cook_time: 10 min
+tags:
+- cookies
+- GrandmaBrose
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

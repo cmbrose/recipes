@@ -1,17 +1,16 @@
 ---
-:title: Southern Style Creamy Parmesan Chicken Pasta
-:name: Southern Style Creamy Parmesan Chicken Pasta
-:prep_time: '15'
-:cook_time: '15'
-:servings: ''
-:tags:
-- "---"
-- "- Chicken"
-- "- Pasta"
-:preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2021/03/Southern-Style-Creamy-Parmesan-Chicken-Pasta-1-500x500.jpg
-:source: https://www.halfbakedharvest.com/parmesan-chicken-pasta/
-:source_kind: url
-:notes: []
+title: Southern Style Creamy Parmesan Chicken Pasta
+name: Southern Style Creamy Parmesan Chicken Pasta
+prep_time: '15'
+cook_time: '15'
+servings: ''
+tags:
+- Chicken
+- Pasta
+preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2021/03/Southern-Style-Creamy-Parmesan-Chicken-Pasta-1-500x500.jpg
+source: https://www.halfbakedharvest.com/parmesan-chicken-pasta/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

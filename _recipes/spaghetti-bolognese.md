@@ -1,17 +1,16 @@
 ---
-:title: Spaghetti Bolognese
-:name: Spaghetti Bolognese
-:prep_time: 20 minutes
-:cook_time: 30 minutes
-:total_time: 50 minutes
-:servings: '4'
-:tags:
-- "---"
-- "- Vegan"
-:preview_url: https://cdn.loveandlemons.com/wp-content/uploads/2016/12/spaghetti-bolognese-150x150.jpg
-:source: https://www.loveandlemons.com/spaghetti-bolognese/
-:source_kind: url
-:notes: []
+title: Spaghetti Bolognese
+name: Spaghetti Bolognese
+prep_time: 20 minutes
+cook_time: 30 minutes
+total_time: 50 minutes
+servings: '4'
+tags:
+- Vegan
+preview_url: https://cdn.loveandlemons.com/wp-content/uploads/2016/12/spaghetti-bolognese-150x150.jpg
+source: https://www.loveandlemons.com/spaghetti-bolognese/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

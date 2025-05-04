@@ -1,18 +1,17 @@
 ---
-:title: No-Knead Sourdough Bread
-:name: No-Knead Sourdough Bread
-:prep_time: 20 mins
-:cook_time: 55 mins to 1 hr
-:total_time: 12 hrs 35 mins
-:servings: 1 large loaf, 16 slices
-:tags:
-- "---"
-- "- bread"
-- "- Sourdough"
-:preview_url: https://www.kingarthurbaking.com/sites/default/files/styles/featured_image/public/recipe_legacy/19928-3-large_0.jpg?itok=z6hrU9GQ
-:source: https://www.kingarthurbaking.com/recipes/no-knead-sourdough-bread-recipe
-:source_kind: url
-:notes: []
+title: No-Knead Sourdough Bread
+name: No-Knead Sourdough Bread
+prep_time: 20 mins
+cook_time: 55 mins to 1 hr
+total_time: 12 hrs 35 mins
+servings: 1 large loaf, 16 slices
+tags:
+- bread
+- Sourdough
+preview_url: https://www.kingarthurbaking.com/sites/default/files/styles/featured_image/public/recipe_legacy/19928-3-large_0.jpg?itok=z6hrU9GQ
+source: https://www.kingarthurbaking.com/recipes/no-knead-sourdough-bread-recipe
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

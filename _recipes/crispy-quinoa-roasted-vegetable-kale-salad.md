@@ -1,14 +1,14 @@
 ---
-:title: Crispy Quinoa & Roasted Vegetable Kale Salad
-:name: Crispy Quinoa & Roasted Vegetable Kale Salad
-:prep_time: 10 minutes
-:cook_time: 20 minutes
-:servings: '2'
-:tags: []
-:preview_url: https://minimalistbaker.com/wp-content/uploads/2022/10/Kale-Salad-with-Crispy-Quinoa-SQUARE-200x200.jpg
-:source: https://minimalistbaker.com/crispy-quinoa-roasted-vegetable-kale-salad/
-:source_kind: url
-:notes: []
+title: Crispy Quinoa & Roasted Vegetable Kale Salad
+name: Crispy Quinoa & Roasted Vegetable Kale Salad
+prep_time: 10 minutes
+cook_time: 20 minutes
+servings: '2'
+tags: []
+preview_url: https://minimalistbaker.com/wp-content/uploads/2022/10/Kale-Salad-with-Crispy-Quinoa-SQUARE-200x200.jpg
+source: https://minimalistbaker.com/crispy-quinoa-roasted-vegetable-kale-salad/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

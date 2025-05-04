@@ -1,16 +1,15 @@
 ---
-:title: Cheesy Buffalo Chicken Strombolis
-:name: Cheesy Buffalo Chicken Strombolis
-:prep_time: '20'
-:cook_time: '30'
-:servings: ''
-:tags:
-- "---"
-- "- Chicken"
-:preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2021/08/Cheesy-Buffalo-Chicken-Strombolis-1.jpg
-:source: https://www.halfbakedharvest.com/buffalo-chicken-strombolis/
-:source_kind: url
-:notes: []
+title: Cheesy Buffalo Chicken Strombolis
+name: Cheesy Buffalo Chicken Strombolis
+prep_time: '20'
+cook_time: '30'
+servings: ''
+tags:
+- Chicken
+preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2021/08/Cheesy-Buffalo-Chicken-Strombolis-1.jpg
+source: https://www.halfbakedharvest.com/buffalo-chicken-strombolis/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

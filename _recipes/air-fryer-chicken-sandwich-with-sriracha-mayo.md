@@ -1,17 +1,16 @@
 ---
-:title: Air Fryer Chicken Sandwich with Sriracha Mayo
-:name: Air Fryer Chicken Sandwich with Sriracha Mayo
-:prep_time: 15 mins
-:cook_time: 18 mins
-:servings: 4 servings
-:tags:
-- "---"
-- "- Chicken"
-- "- Sandwich"
-:preview_url: https://www.skinnytaste.com/wp-content/uploads/2021/05/air-fryer-chicken-sandwich-20.jpg
-:source: https://www.skinnytaste.com/air-fryer-chicken-sandwich/
-:source_kind: url
-:notes: []
+title: Air Fryer Chicken Sandwich with Sriracha Mayo
+name: Air Fryer Chicken Sandwich with Sriracha Mayo
+prep_time: 15 mins
+cook_time: 18 mins
+servings: 4 servings
+tags:
+- Chicken
+- Sandwich
+preview_url: https://www.skinnytaste.com/wp-content/uploads/2021/05/air-fryer-chicken-sandwich-20.jpg
+source: https://www.skinnytaste.com/air-fryer-chicken-sandwich/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

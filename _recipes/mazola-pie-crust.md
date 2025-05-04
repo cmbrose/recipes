@@ -1,14 +1,13 @@
 ---
-:title: Mazola Pie Crust
-:name: Mazola Pie Crust
-:prep_time: 30 min
-:cook_time: 15 min
-:tags:
-- "---"
-- "- GrandmaBrose"
-- "- pie"
-:source_kind: manual
-:notes: []
+title: Mazola Pie Crust
+name: Mazola Pie Crust
+prep_time: 30 min
+cook_time: 15 min
+tags:
+- GrandmaBrose
+- pie
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

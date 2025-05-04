@@ -1,15 +1,14 @@
 ---
-:title: Chocolate Caramel Layer Bars
-:name: Chocolate Caramel Layer Bars
-:prep_time: '10'
-:cook_time: '25'
-:tags:
-- "---"
-- "- GrandmaBrose"
-- "- bars"
-:preview_url: https://i.imgur.com/HHDLiwp.jpg
-:source_kind: manual
-:notes: []
+title: Chocolate Caramel Layer Bars
+name: Chocolate Caramel Layer Bars
+prep_time: '10'
+cook_time: '25'
+tags:
+- GrandmaBrose
+- bars
+preview_url: https://i.imgur.com/HHDLiwp.jpg
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

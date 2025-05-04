@@ -1,14 +1,14 @@
 ---
-:title: Cozy White Bean Mushroom Stew (Vegan)
-:name: Cozy White Bean Mushroom Stew (Vegan)
-:prep_time: 10 minutes
-:cook_time: 35 minutes
-:servings: ''
-:tags: []
-:preview_url: https://minimalistbaker.com/wp-content/uploads/2022/12/Mushroom-stew-SQUARE-200x200.jpg
-:source: https://minimalistbaker.com/cozy-white-bean-mushroom-stew-vegan/
-:source_kind: url
-:notes: []
+title: Cozy White Bean Mushroom Stew (Vegan)
+name: Cozy White Bean Mushroom Stew (Vegan)
+prep_time: 10 minutes
+cook_time: 35 minutes
+servings: ''
+tags: []
+preview_url: https://minimalistbaker.com/wp-content/uploads/2022/12/Mushroom-stew-SQUARE-200x200.jpg
+source: https://minimalistbaker.com/cozy-white-bean-mushroom-stew-vegan/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

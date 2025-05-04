@@ -1,14 +1,13 @@
 ---
-:title: Fruit Coffee Ring
-:name: Fruit Coffee Ring
-:prep_time: 5 hours
-:cook_time: 45 min
-:tags:
-- "---"
-- "- GrandmaBrose"
-- "- bread"
-:source_kind: manual
-:notes: []
+title: Fruit Coffee Ring
+name: Fruit Coffee Ring
+prep_time: 5 hours
+cook_time: 45 min
+tags:
+- GrandmaBrose
+- bread
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

@@ -1,14 +1,13 @@
 ---
-:title: Overnight Rolls
-:name: Overnight Rolls
-:prep_time: 20 min plus overnight
-:cook_time: 45 min
-:tags:
-- "---"
-- "- GrandmaBrose"
-- "- cake"
-:source_kind: manual
-:notes: []
+title: Overnight Rolls
+name: Overnight Rolls
+prep_time: 20 min plus overnight
+cook_time: 45 min
+tags:
+- GrandmaBrose
+- cake
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

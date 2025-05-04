@@ -1,14 +1,13 @@
 ---
-:title: Applesauce Cake
-:name: Applesauce Cake
-:prep_time: 15 min
-:cook_time: 45 min
-:tags:
-- "---"
-- "- cake"
-- "- GrandmaBrose"
-:source_kind: manual
-:notes: []
+title: Applesauce Cake
+name: Applesauce Cake
+prep_time: 15 min
+cook_time: 45 min
+tags:
+- cake
+- GrandmaBrose
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

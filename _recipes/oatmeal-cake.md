@@ -1,14 +1,13 @@
 ---
-:title: Oatmeal Cake
-:name: Oatmeal Cake
-:prep_time: 20 min
-:cook_time: 60 min
-:tags:
-- "---"
-- "- GrandmaBrose"
-- "- cake"
-:source_kind: manual
-:notes: []
+title: Oatmeal Cake
+name: Oatmeal Cake
+prep_time: 20 min
+cook_time: 60 min
+tags:
+- GrandmaBrose
+- cake
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

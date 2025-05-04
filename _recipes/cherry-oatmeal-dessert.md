@@ -1,14 +1,13 @@
 ---
-:title: Cherry Oatmeal Dessert
-:name: Cherry Oatmeal Dessert
-:prep_time: 20 min
-:cook_time: 40 min
-:tags:
-- "---"
-- "- dessert"
-- "- GrandmaBrose"
-:source_kind: manual
-:notes: []
+title: Cherry Oatmeal Dessert
+name: Cherry Oatmeal Dessert
+prep_time: 20 min
+cook_time: 40 min
+tags:
+- dessert
+- GrandmaBrose
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

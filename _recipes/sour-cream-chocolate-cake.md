@@ -1,14 +1,13 @@
 ---
-:title: Sour Cream Chocolate Cake
-:name: Sour Cream Chocolate Cake
-:prep_time: 10 min
-:cook_time: 25 min
-:tags:
-- "---"
-- "- GrandmaBrose"
-- "- cake"
-:source_kind: manual
-:notes: []
+title: Sour Cream Chocolate Cake
+name: Sour Cream Chocolate Cake
+prep_time: 10 min
+cook_time: 25 min
+tags:
+- GrandmaBrose
+- cake
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

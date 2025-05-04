@@ -1,13 +1,12 @@
 ---
-:title: No-Cook Divinity
-:name: No-Cook Divinity
-:prep_time: 15 min
-:tags:
-- "---"
-- "- GrandmaBrose"
-- "- candy"
-:source_kind: manual
-:notes: []
+title: No-Cook Divinity
+name: No-Cook Divinity
+prep_time: 15 min
+tags:
+- GrandmaBrose
+- candy
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

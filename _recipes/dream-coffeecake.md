@@ -1,11 +1,10 @@
 ---
-:title: Dream coffeecake
-:name: Dream coffeecake
-:tags:
-- "---"
-- "- Gram B"
-:source_kind: manual
-:notes: []
+title: Dream coffeecake
+name: Dream coffeecake
+tags:
+- Gram B
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

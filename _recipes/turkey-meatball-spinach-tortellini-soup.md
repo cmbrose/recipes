@@ -1,17 +1,16 @@
 ---
-:title: Turkey Meatball Spinach Tortellini Soup
-:name: Turkey Meatball Spinach Tortellini Soup
-:prep_time: 15 mins
-:cook_time: 35 mins
-:servings: 6 servings
-:tags:
-- "---"
-- "- Soup"
-- "- Turkey"
-:preview_url: https://www.skinnytaste.com/wp-content/uploads/2014/02/Turkey-Meatball-Spinach-Tortellini-Soup-6.jpg
-:source: https://www.skinnytaste.com/turkey-meatball-spinach-tortellini-soup/
-:source_kind: url
-:notes: []
+title: Turkey Meatball Spinach Tortellini Soup
+name: Turkey Meatball Spinach Tortellini Soup
+prep_time: 15 mins
+cook_time: 35 mins
+servings: 6 servings
+tags:
+- Soup
+- Turkey
+preview_url: https://www.skinnytaste.com/wp-content/uploads/2014/02/Turkey-Meatball-Spinach-Tortellini-Soup-6.jpg
+source: https://www.skinnytaste.com/turkey-meatball-spinach-tortellini-soup/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

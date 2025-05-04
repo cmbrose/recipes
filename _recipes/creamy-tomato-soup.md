@@ -1,18 +1,17 @@
 ---
-:title: Creamy Tomato Soup
-:name: Creamy Tomato Soup
-:prep_time: 15 minutes
-:cook_time: 30 minutes
-:total_time: 45 minutes
-:servings: ''
-:tags:
-- "---"
-- "- Vegan"
-- "- Soup"
-:preview_url: https://cdn.loveandlemons.com/wp-content/uploads/2018/01/tomato-soup-150x150.jpg
-:source: https://www.loveandlemons.com/creamy-tomato-soup/
-:source_kind: url
-:notes: []
+title: Creamy Tomato Soup
+name: Creamy Tomato Soup
+prep_time: 15 minutes
+cook_time: 30 minutes
+total_time: 45 minutes
+servings: ''
+tags:
+- Vegan
+- Soup
+preview_url: https://cdn.loveandlemons.com/wp-content/uploads/2018/01/tomato-soup-150x150.jpg
+source: https://www.loveandlemons.com/creamy-tomato-soup/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

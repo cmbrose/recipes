@@ -1,16 +1,15 @@
 ---
-:title: Air Fryer Buffalo Chicken Nuggets
-:name: Air Fryer Buffalo Chicken Nuggets
-:prep_time: 5 mins
-:cook_time: 16 mins
-:servings: 4 servings
-:tags:
-- "---"
-- "- Chicken"
-:preview_url: https://www.skinnytaste.com/wp-content/uploads/2022/01/Air-Fryer-Buffalo-Chicken-Nuggets-9.jpg
-:source: https://www.skinnytaste.com/air-fryer-buffalo-chicken-nuggets/
-:source_kind: url
-:notes: []
+title: Air Fryer Buffalo Chicken Nuggets
+name: Air Fryer Buffalo Chicken Nuggets
+prep_time: 5 mins
+cook_time: 16 mins
+servings: 4 servings
+tags:
+- Chicken
+preview_url: https://www.skinnytaste.com/wp-content/uploads/2022/01/Air-Fryer-Buffalo-Chicken-Nuggets-9.jpg
+source: https://www.skinnytaste.com/air-fryer-buffalo-chicken-nuggets/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

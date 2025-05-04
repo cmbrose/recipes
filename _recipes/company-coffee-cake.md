@@ -1,14 +1,13 @@
 ---
-:title: Company Coffee Cake
-:name: Company Coffee Cake
-:prep_time: 20 min
-:cook_time: 1 hour
-:tags:
-- "---"
-- "- cake"
-- "- GrandmaBrose"
-:source_kind: manual
-:notes: []
+title: Company Coffee Cake
+name: Company Coffee Cake
+prep_time: 20 min
+cook_time: 1 hour
+tags:
+- cake
+- GrandmaBrose
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

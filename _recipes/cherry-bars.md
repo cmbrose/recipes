@@ -1,15 +1,14 @@
 ---
-:title: Cherry Bars
-:name: Cherry Bars
-:prep_time: 15 min
-:cook_time: 45 min
-:tags:
-- "---"
-- "- GrandmaBrose"
-- "- bars"
-:preview_url: ''
-:source_kind: manual
-:notes: []
+title: Cherry Bars
+name: Cherry Bars
+prep_time: 15 min
+cook_time: 45 min
+tags:
+- GrandmaBrose
+- bars
+preview_url: ''
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

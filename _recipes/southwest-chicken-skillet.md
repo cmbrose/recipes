@@ -1,16 +1,15 @@
 ---
-:title: Southwest Chicken Skillet
-:name: Southwest Chicken Skillet
-:prep_time: '5'
-:cook_time: '20'
-:servings: ''
-:tags:
-- "---"
-- "- Chicken"
-:preview_url: https://www.budgetbytes.com/wp-content/uploads/2014/05/Southwest-Chicken-Skillet-melted-cheese-500x500.jpg
-:source: https://www.budgetbytes.com/southwest-chicken-skillet/
-:source_kind: url
-:notes: []
+title: Southwest Chicken Skillet
+name: Southwest Chicken Skillet
+prep_time: '5'
+cook_time: '20'
+servings: ''
+tags:
+- Chicken
+preview_url: https://www.budgetbytes.com/wp-content/uploads/2014/05/Southwest-Chicken-Skillet-melted-cheese-500x500.jpg
+source: https://www.budgetbytes.com/southwest-chicken-skillet/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

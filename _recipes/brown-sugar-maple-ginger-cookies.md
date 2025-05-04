@@ -1,16 +1,15 @@
 ---
-:title: Brown Sugar Maple Ginger Cookies
-:name: Brown Sugar Maple Ginger Cookies
-:prep_time: '20'
-:cook_time: '15'
-:servings: ''
-:tags:
-- "---"
-- "- cookies"
-:preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2021/12/Brown-Sugar-Maple-Ginger-Cookies-6.jpg
-:source: https://www.halfbakedharvest.com/brown-sugar-maple-ginger-cookies/
-:source_kind: url
-:notes: []
+title: Brown Sugar Maple Ginger Cookies
+name: Brown Sugar Maple Ginger Cookies
+prep_time: '20'
+cook_time: '15'
+servings: ''
+tags:
+- cookies
+preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2021/12/Brown-Sugar-Maple-Ginger-Cookies-6.jpg
+source: https://www.halfbakedharvest.com/brown-sugar-maple-ginger-cookies/
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

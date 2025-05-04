@@ -1,13 +1,12 @@
 ---
-:title: Marshmallow Marble Fudge
-:name: Marshmallow Marble Fudge
-:cook_time: 30 min
-:tags:
-- "---"
-- "- GrandmaBrose"
-- "- candy"
-:source_kind: manual
-:notes: []
+title: Marshmallow Marble Fudge
+name: Marshmallow Marble Fudge
+cook_time: 30 min
+tags:
+- GrandmaBrose
+- candy
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

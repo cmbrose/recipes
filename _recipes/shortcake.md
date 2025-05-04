@@ -1,14 +1,13 @@
 ---
-:title: Shortcake
-:name: Shortcake
-:prep_time: 20 min
-:cook_time: 30 min
-:tags:
-- "---"
-- "- bars"
-- "- GrandmaBrose"
-:source_kind: manual
-:notes: []
+title: Shortcake
+name: Shortcake
+prep_time: 20 min
+cook_time: 30 min
+tags:
+- bars
+- GrandmaBrose
+source_kind: manual
+notes: []
 ---
 
 ## Ingredients

@@ -1,15 +1,15 @@
 ---
-:title: Japanese Milk Bread Rolls
-:name: Japanese Milk Bread Rolls
-:prep_time: 30 mins
-:cook_time: 25 to 30 mins
-:total_time: 3 hrs 57 mins
-:servings: 8 to 10 rolls, depending on size
-:tags: []
-:preview_url: https://www.kingarthurbaking.com/sites/default/files/styles/featured_image/public/recipe_legacy/5957-3-large.jpg?itok=G_z7Qlce
-:source: https://www.kingarthurbaking.com/recipes/japanese-milk-bread-rolls-recipe
-:source_kind: url
-:notes: []
+title: Japanese Milk Bread Rolls
+name: Japanese Milk Bread Rolls
+prep_time: 30 mins
+cook_time: 25 to 30 mins
+total_time: 3 hrs 57 mins
+servings: 8 to 10 rolls, depending on size
+tags: []
+preview_url: https://www.kingarthurbaking.com/sites/default/files/styles/featured_image/public/recipe_legacy/5957-3-large.jpg?itok=G_z7Qlce
+source: https://www.kingarthurbaking.com/recipes/japanese-milk-bread-rolls-recipe
+source_kind: url
+notes: []
 ---
 
 ## Ingredients

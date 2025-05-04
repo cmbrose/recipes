@@ -1,17 +1,16 @@
 ---
-:title: Naan
-:name: Naan
-:prep_time: 30 mins
-:cook_time: 12 to 15 mins
-:total_time: 2 hrs
-:servings: 8 flatbreads
-:tags:
-- "---"
-- "- Bread"
-:preview_url: https://www.kingarthurbaking.com/sites/default/files/styles/featured_image/public/2021-02/naan-3.jpg?itok=xPP3zs5s
-:source: https://www.kingarthurbaking.com/recipes/naan-recipe
-:source_kind: url
-:notes: []
+title: Naan
+name: Naan
+prep_time: 30 mins
+cook_time: 12 to 15 mins
+total_time: 2 hrs
+servings: 8 flatbreads
+tags:
+- Bread
+preview_url: https://www.kingarthurbaking.com/sites/default/files/styles/featured_image/public/2021-02/naan-3.jpg?itok=xPP3zs5s
+source: https://www.kingarthurbaking.com/recipes/naan-recipe
+source_kind: url
+notes: []
 ---
 
 ## Ingredients
