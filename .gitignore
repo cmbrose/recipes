@@ -10,9 +10,9 @@ tmp/
 
 #-------------------------------------------------
 # Jekyll build artifacts
-_site/              # output of `jekyll build`
-.jekyll-cache/      # incremental build cache (Jekyll ≥4)
-.sass-cache/        # older Sass cache
+_site/
+.jekyll-cache/
+.sass-cache/
 
 #-------------------------------------------------
 # Python (for import.py, export scripts)
