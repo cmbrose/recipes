@@ -1,0 +1,33 @@
+#-------------------------------------------------
+# Bundler / Ruby
+#   Keep Gemfile + Gemfile.lock, but ignore local installs
+.bundle/
+vendor/bundle/
+
+# Logs, temp files created by scripts or local Ruby runs
+log/
+tmp/
+
+#-------------------------------------------------
+# Jekyll build artifacts
+_site/              # output of `jekyll build`
+.jekyll-cache/      # incremental build cache (Jekyll ≥4)
+.sass-cache/        # older Sass cache
+
+#-------------------------------------------------
+# Python (for import.py, export scripts)
+__pycache__/
+*.py[cod]
+
+#-------------------------------------------------
+# Node (if you add a JS build later)
+node_modules/
+npm-debug.log*
+
+#-------------------------------------------------
+# Backups / archives
+*.bak
+*.orig
+*.old
+*.zip
+*.tar.gz

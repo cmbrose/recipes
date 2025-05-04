@@ -1,0 +1,11 @@
+title: Family Recipe Book
+theme: jekyll-theme-cayman        # any GitHub‑hosted theme; change later if you like
+
+collections:
+  recipes:
+    output: true                  # emit an HTML page per recipe
+    permalink: /recipes/:name/    # pretty URLs
+
+# Optional: keep build clean in Pages
+exclude:
+  - "scripts"                     # skip helper scripts like export_recipes_to_markdown.rb
