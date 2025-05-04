@@ -3,7 +3,6 @@ title: Healthier 30 Minute Beer Braised Chicken.
 name: Healthier 30 Minute Beer Braised Chicken.
 prep_time: '10'
 cook_time: '20'
-servings: ''
 tags: []
 preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2019/10/Healthier-30-Minute-Beer-Braised-Chicken-5.jpg
 source: https://www.halfbakedharvest.com/healthier-30-minute-beer-braised-chicken/

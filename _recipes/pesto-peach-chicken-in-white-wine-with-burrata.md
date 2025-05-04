@@ -3,7 +3,6 @@ title: Pesto Peach Chicken in White Wine with Burrata
 name: Pesto Peach Chicken in White Wine with Burrata
 prep_time: '10'
 cook_time: '15'
-servings: ''
 tags:
 - Chicken
 - Wednesday

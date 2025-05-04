@@ -3,7 +3,6 @@ title: Crispy Baked Tofu with Italian Herbs
 name: Crispy Baked Tofu with Italian Herbs
 prep_time: 20 minutes
 cook_time: 30 minutes
-servings: ''
 tags: []
 preview_url: https://minimalistbaker.com/wp-content/uploads/2021/12/Italian-Herbed-Tofu-SQUARE-200x200.jpg
 source: https://minimalistbaker.com/italian-herb-crispy-baked-tofu/

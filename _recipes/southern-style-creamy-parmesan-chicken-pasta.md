@@ -3,7 +3,6 @@ title: Southern Style Creamy Parmesan Chicken Pasta
 name: Southern Style Creamy Parmesan Chicken Pasta
 prep_time: '15'
 cook_time: '15'
-servings: ''
 tags:
 - Chicken
 - Pasta

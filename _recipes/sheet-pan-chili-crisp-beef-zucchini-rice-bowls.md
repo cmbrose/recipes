@@ -3,7 +3,6 @@ title: Sheet Pan Chili Crisp Beef Zucchini Rice Bowls
 name: Sheet Pan Chili Crisp Beef Zucchini Rice Bowls
 prep_time: 15 minutes
 cook_time: 30 minutes
-servings: ''
 tags:
 - Beef
 - Asian

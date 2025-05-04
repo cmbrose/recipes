@@ -3,7 +3,6 @@ title: Cherry Tomato Pasta Alla Vodka
 name: Cherry Tomato Pasta Alla Vodka
 prep_time: '15'
 cook_time: '30'
-servings: ''
 tags:
 - Pasta
 preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2021/08/Cherry-Tomato-Pasta-Alla-Vodka-9.jpg

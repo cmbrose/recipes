@@ -3,7 +3,6 @@ title: Creamy White Bean Lemon Pesto Orzo Soup
 name: Creamy White Bean Lemon Pesto Orzo Soup
 prep_time: '5'
 cook_time: '15'
-servings: ''
 tags:
 - Soup
 - Pasta

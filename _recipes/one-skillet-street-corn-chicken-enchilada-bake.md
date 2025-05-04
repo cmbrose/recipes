@@ -3,7 +3,6 @@ title: One Skillet Street Corn Chicken Enchilada Bake
 name: One Skillet Street Corn Chicken Enchilada Bake
 prep_time: '20'
 cook_time: '40'
-servings: ''
 tags:
 - Chicken
 - Wednesday

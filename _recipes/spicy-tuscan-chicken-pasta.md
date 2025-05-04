@@ -3,7 +3,6 @@ title: Spicy Tuscan Chicken Pasta
 name: Spicy Tuscan Chicken Pasta
 prep_time: '20'
 cook_time: '25'
-servings: ''
 tags: []
 preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2023/02/Spicy-Tuscan-Chicken-Pasta-9.jpg
 source: https://www.halfbakedharvest.com/tuscan-chicken-pasta/

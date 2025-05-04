@@ -3,7 +3,6 @@ title: One Pot Creamy Sun-Dried Tomato Orzo
 name: One Pot Creamy Sun-Dried Tomato Orzo
 prep_time: '15'
 cook_time: '15'
-servings: ''
 tags:
 - Pasta
 - Thursday

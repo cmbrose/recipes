@@ -3,7 +3,6 @@ title: Creamy White Lasagna Soup
 name: Creamy White Lasagna Soup
 prep_time: '20'
 cook_time: '30'
-servings: ''
 tags:
 - Soup
 - Chicken

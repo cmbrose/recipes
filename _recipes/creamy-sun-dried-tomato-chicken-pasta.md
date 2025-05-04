@@ -3,7 +3,6 @@ title: Creamy Sun-Dried Tomato Chicken Pasta
 name: Creamy Sun-Dried Tomato Chicken Pasta
 prep_time: '15'
 cook_time: '25'
-servings: ''
 tags:
 - Chicken
 - Pasta

@@ -1,10 +1,6 @@
 ---
 title: Blueberry Banana Muffins with Oats
 name: Blueberry Banana Muffins with Oats
-prep_time: ''
-cook_time: ''
-total_time: ''
-servings: ''
 tags: []
 preview_url: https://www.yummytoddlerfood.com/wp-content/uploads/2016/02/blueberry-banana-muffins-400x266.jpg
 source: https://www.yummytoddlerfood.com/blueberry-banana-muffins-with-oats/

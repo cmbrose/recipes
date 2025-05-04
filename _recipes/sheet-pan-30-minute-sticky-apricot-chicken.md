@@ -3,7 +3,6 @@ title: "Sheet Pan 30 Minute Sticky Apricot Chicken\t\t"
 name: "Sheet Pan 30 Minute Sticky Apricot Chicken\t\t"
 prep_time: '10'
 cook_time: '20'
-servings: ''
 tags:
 - Tuesday
 - Sheet Pan

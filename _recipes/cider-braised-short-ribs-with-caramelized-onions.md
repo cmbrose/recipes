@@ -3,7 +3,6 @@ title: Cider Braised Short Ribs with Caramelized Onions
 name: Cider Braised Short Ribs with Caramelized Onions
 prep_time: 30 min
 cook_time: 3 hours
-servings: ''
 tags: []
 preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2021/10/Cider-Braised-Short-Ribs-with-Caramelized-Onions-7.jpg
 source: https://www.halfbakedharvest.com/cider-braised-short-ribs/

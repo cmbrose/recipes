@@ -4,7 +4,6 @@ name: Broccoli Salad
 prep_time: 10 minutes
 cook_time: 15 minutes
 total_time: 25 minutes
-servings: ''
 tags:
 - Vegan
 - Salad

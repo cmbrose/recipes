@@ -3,7 +3,6 @@ title: Creamy Wild Rice Chicken Soup with Roasted Mushrooms.
 name: Creamy Wild Rice Chicken Soup with Roasted Mushrooms.
 prep_time: '15'
 cook_time: '30'
-servings: ''
 tags: []
 preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2019/11/Creamy-Wild-Rice-Chicken-Soup-with-Roasted-Mushrooms-7-700x467.jpg
 source: https://www.halfbakedharvest.com/creamy-wild-rice-chicken-soup/

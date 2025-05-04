@@ -3,7 +3,6 @@ title: Crispy Chicken Katsu Bowls
 name: Crispy Chicken Katsu Bowls
 prep_time: '30'
 cook_time: '15'
-servings: ''
 tags:
 - Chicken
 - Asian

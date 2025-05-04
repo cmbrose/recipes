@@ -3,7 +3,6 @@ title: Basil Parmesan Pasta with Crispy Chicken, Prosciutto, and Arugula
 name: Basil Parmesan Pasta with Crispy Chicken, Prosciutto, and Arugula
 prep_time: '25'
 cook_time: '15'
-servings: ''
 tags:
 - Chicken
 - Pasta

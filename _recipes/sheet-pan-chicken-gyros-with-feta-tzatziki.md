@@ -3,7 +3,6 @@ title: Sheet Pan Chicken Gyros with Feta Tzatziki
 name: Sheet Pan Chicken Gyros with Feta Tzatziki
 prep_time: '30'
 cook_time: '25'
-servings: ''
 tags:
 - Chicken
 - Greek

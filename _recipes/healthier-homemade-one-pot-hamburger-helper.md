@@ -3,7 +3,6 @@ title: Healthier Homemade One Pot Hamburger Helper
 name: Healthier Homemade One Pot Hamburger Helper
 prep_time: '10'
 cook_time: '20'
-servings: ''
 tags:
 - Beef
 - Pasta

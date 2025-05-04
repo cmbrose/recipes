@@ -3,7 +3,6 @@ title: Easy Greek Sheet Pan Chicken Souvlaki and Potatoes
 name: Easy Greek Sheet Pan Chicken Souvlaki and Potatoes
 prep_time: '20'
 cook_time: '40'
-servings: ''
 tags: []
 preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2021/02/Easy-Greek-Sheet-Pan-Chicken-Souvlaki-and-Potatoes-7.jpg
 source: https://www.halfbakedharvest.com/best-easy-greek-sheet-pan-chicken-souvlaki-and-potatoes/?fbclid=PAAabOlsQag1kt1e_Y16YFWFPtkRxMU9RJlIln3_eEjXJR3s9falH8GE6d3nQ

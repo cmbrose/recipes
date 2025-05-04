@@ -3,7 +3,6 @@ title: Zucchini Cacio e Pepe with Brown Butter
 name: Zucchini Cacio e Pepe with Brown Butter
 prep_time: '10'
 cook_time: '20'
-servings: ''
 tags: []
 preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2022/06/Zucchini-Cacio-e-Pepe-with-Brown-Butter-7.jpg
 source: https://www.halfbakedharvest.com/zucchini-cacio-e-pepe/

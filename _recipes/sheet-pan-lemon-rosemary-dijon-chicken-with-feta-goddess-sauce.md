@@ -3,7 +3,6 @@ title: "Sheet Pan Lemon Rosemary Dijon Chicken with Feta Goddess Sauce\t\t"
 name: "Sheet Pan Lemon Rosemary Dijon Chicken with Feta Goddess Sauce\t\t"
 prep_time: '20'
 cook_time: '40'
-servings: ''
 tags:
 - Tuesday
 - Sheet Pan

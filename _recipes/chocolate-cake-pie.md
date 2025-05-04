@@ -3,7 +3,6 @@ title: Chocolate Cake Pie
 name: Chocolate Cake Pie
 prep_time: 30 min
 cook_time: 50 min
-servings: ''
 tags:
 - GrandmaBrose
 - pie

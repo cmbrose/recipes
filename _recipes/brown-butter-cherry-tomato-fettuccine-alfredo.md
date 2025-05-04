@@ -3,7 +3,6 @@ title: Brown Butter Cherry Tomato Fettuccine Alfredo
 name: Brown Butter Cherry Tomato Fettuccine Alfredo
 prep_time: '15'
 cook_time: '15'
-servings: ''
 tags:
 - Chicken
 - Pasta

@@ -3,7 +3,6 @@ title: Spicy Lasagna Soup
 name: Spicy Lasagna Soup
 prep_time: '15'
 cook_time: '30'
-servings: ''
 tags:
 - Pasta
 - Soup

@@ -3,7 +3,6 @@ title: Homestyle Chicken Noodle Soup
 name: Homestyle Chicken Noodle Soup
 prep_time: '15'
 cook_time: '30'
-servings: ''
 tags:
 - Chicken
 - Soup

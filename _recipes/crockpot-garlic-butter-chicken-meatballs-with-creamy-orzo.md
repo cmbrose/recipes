@@ -3,7 +3,6 @@ title: Crockpot Garlic Butter Chicken Meatballs with Creamy Orzo
 name: Crockpot Garlic Butter Chicken Meatballs with Creamy Orzo
 prep_time: '20'
 cook_time: '4'
-servings: ''
 tags:
 - Pasta
 preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2022/10/Crockpot-Garlic-Butter-Chicken-Meatballs-with-Creamy-Orzo-8.jpg

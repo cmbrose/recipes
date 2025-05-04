@@ -2,8 +2,6 @@
 title: Vegan Parmesan Cheese
 name: Vegan Parmesan Cheese
 prep_time: 5 minutes
-cook_time: ''
-servings: ''
 tags:
 - Vegan
 preview_url: https://minimalistbaker.com/wp-content/uploads/2014/10/Parm-cheese-SQUARE-200x200.jpg

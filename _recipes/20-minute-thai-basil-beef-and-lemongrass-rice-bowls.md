@@ -3,7 +3,6 @@ title: 20 Minute Thai Basil Beef and Lemongrass Rice Bowls
 name: 20 Minute Thai Basil Beef and Lemongrass Rice Bowls
 prep_time: '10'
 cook_time: '15'
-servings: ''
 tags:
 - Asian
 - Beef

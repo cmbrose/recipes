@@ -3,7 +3,6 @@ title: "Spinach and Artichoke Pita Grilled Cheese\t\t"
 name: "Spinach and Artichoke Pita Grilled Cheese\t\t"
 prep_time: '10'
 cook_time: '5'
-servings: ''
 tags: []
 preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2021/03/pinach-and-Artichoke-Pita-Grilled-Cheese-1-500x500.jpg
 source: https://www.halfbakedharvest.com/spinach-and-artichoke-pita-grilled-cheese/

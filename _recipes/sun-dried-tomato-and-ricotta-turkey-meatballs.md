@@ -3,7 +3,6 @@ title: Sun-Dried Tomato and Ricotta Turkey Meatballs
 name: Sun-Dried Tomato and Ricotta Turkey Meatballs
 prep_time: '15'
 cook_time: '30'
-servings: ''
 tags: []
 preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2018/03/Sun-Dried-Tomato-and-Ricotta-Turkey-Meatballs-10-700x467.jpg
 source: https://www.halfbakedharvest.com/sun-dried-tomato-and-ricotta-turkey-meatballs/

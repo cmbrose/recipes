@@ -3,7 +3,6 @@ title: Easy Bibimbap with Gochujang Sauce
 name: Easy Bibimbap with Gochujang Sauce
 prep_time: 15 minutes
 cook_time: 30 minutes
-servings: ''
 tags: []
 preview_url: https://minimalistbaker.com/wp-content/uploads/2019/05/Bibimbap-SQUARE-200x200.jpg
 source: https://minimalistbaker.com/easy-bibimbap-with-gochujang-sauce/

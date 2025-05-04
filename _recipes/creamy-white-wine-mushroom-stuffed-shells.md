@@ -3,7 +3,6 @@ title: Creamy White Wine Mushroom Stuffed Shells
 name: Creamy White Wine Mushroom Stuffed Shells
 prep_time: '30'
 cook_time: '45'
-servings: ''
 tags: []
 preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2021/11/Creamy-White-Wine-Mushroom-Stuffed-Shells-7.jpg
 source: https://www.halfbakedharvest.com/creamy-white-wine-mushroom-stuffed-shells/

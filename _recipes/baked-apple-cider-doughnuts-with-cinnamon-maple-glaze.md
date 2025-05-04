@@ -3,7 +3,6 @@ title: Baked Apple Cider Doughnuts with Cinnamon Maple Glaze
 name: Baked Apple Cider Doughnuts with Cinnamon Maple Glaze
 prep_time: '20'
 cook_time: '20'
-servings: ''
 tags: []
 preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2021/09/Baked-Apple-Cider-Doughnuts-with-Cinnamon-Maple-Glaze-8.jpg
 source: https://www.halfbakedharvest.com/baked-apple-cider-doughnuts/

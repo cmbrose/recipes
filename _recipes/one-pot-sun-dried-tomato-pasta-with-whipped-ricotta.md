@@ -3,7 +3,6 @@ title: One Pot Sun-Dried Tomato Pasta with Whipped Ricotta
 name: One Pot Sun-Dried Tomato Pasta with Whipped Ricotta
 prep_time: '15'
 cook_time: '15'
-servings: ''
 tags:
 - Pasta
 - Chicken

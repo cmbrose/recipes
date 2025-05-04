@@ -3,7 +3,6 @@ title: "Sheet Pan Sticky Ginger Sesame Chicken and Crispy Brussels Sprouts\t\t"
 name: "Sheet Pan Sticky Ginger Sesame Chicken and Crispy Brussels Sprouts\t\t"
 prep_time: '15'
 cook_time: '20'
-servings: ''
 tags:
 - Chicken
 - Asian

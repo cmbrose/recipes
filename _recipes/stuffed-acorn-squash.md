@@ -3,7 +3,6 @@ title: Stuffed Acorn Squash
 name: Stuffed Acorn Squash
 prep_time: 20 minutes
 cook_time: 40 minutes
-total_time: ''
 servings: '4'
 tags:
 - Vegan

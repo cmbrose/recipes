@@ -3,7 +3,6 @@ title: Butternut Squash and Cheese Stuffed Pasta Shells
 name: Butternut Squash and Cheese Stuffed Pasta Shells
 prep_time: '30'
 cook_time: '45'
-servings: ''
 tags:
 - Pasta
 preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2021/09/Butternut-Squash-and-Cheese-Stuffed-Pasta-Shells-6-700x1050.jpg

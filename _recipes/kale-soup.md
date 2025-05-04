@@ -4,7 +4,6 @@ name: Kale Soup
 prep_time: 15 minutes
 cook_time: 35 minutes
 total_time: 50 minutes
-servings: ''
 tags: []
 preview_url: https://cdn.loveandlemons.com/wp-content/uploads/2023/01/kale-soup-150x150.jpg
 source: https://www.loveandlemons.com/kale-soup/

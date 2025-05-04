@@ -3,7 +3,6 @@ title: One Skillet Lemon Butter Dijon Chicken and Orzo with Feta Sauce
 name: One Skillet Lemon Butter Dijon Chicken and Orzo with Feta Sauce
 prep_time: '20'
 cook_time: '40'
-servings: ''
 tags:
 - Chicken
 - Pasta

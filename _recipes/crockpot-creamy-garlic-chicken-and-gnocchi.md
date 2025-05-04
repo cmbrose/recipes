@@ -3,7 +3,6 @@ title: 'Crockpot Creamy Garlic Chicken and Gnocchi:'
 name: 'Crockpot Creamy Garlic Chicken and Gnocchi:'
 prep_time: '15'
 cook_time: '4'
-servings: ''
 tags:
 - Chicken
 - Pasta

@@ -3,7 +3,6 @@ title: Creamed Mushroom and Brie Chicken
 name: Creamed Mushroom and Brie Chicken
 prep_time: '15'
 cook_time: '45'
-servings: ''
 tags:
 - Sunday
 preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2021/10/Creamed-Mushroom-and-Brie-Chicken-7.jpg

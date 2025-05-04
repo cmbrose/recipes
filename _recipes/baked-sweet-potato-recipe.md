@@ -1,7 +1,6 @@
 ---
 title: Baked Sweet Potato Recipe
 name: Baked Sweet Potato Recipe
-prep_time: ''
 cook_time: 40 mins
 total_time: 40 mins
 servings: 2 to 8filling for 2 sweet potatoesfilling for 2 sweet potatoesfilling for

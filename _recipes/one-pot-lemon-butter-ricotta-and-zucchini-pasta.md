@@ -3,7 +3,6 @@ title: One Pot Lemon Butter Ricotta and Zucchini Pasta
 name: One Pot Lemon Butter Ricotta and Zucchini Pasta
 prep_time: '10'
 cook_time: '15'
-servings: ''
 tags: []
 preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2021/07/One-Pot-Lemon-Butter-Ricotta-and-Zucchini-Pasta-8.jpg
 source: https://www.halfbakedharvest.com/lemon-butter-ricotta-and-zucchini-pasta/

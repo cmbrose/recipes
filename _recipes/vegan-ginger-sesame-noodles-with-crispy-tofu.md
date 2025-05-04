@@ -3,7 +3,6 @@ title: Vegan Ginger Sesame Noodles with Crispy Tofu
 name: Vegan Ginger Sesame Noodles with Crispy Tofu
 prep_time: 25 minutes
 cook_time: 30 minutes
-servings: ''
 tags: []
 preview_url: https://minimalistbaker.com/wp-content/uploads/2022/12/Vegan-Ginger-Sesame-Noodles-with-Crispy-Tofu-SQUARE-200x200.jpg
 source: https://minimalistbaker.com/vegan-ginger-sesame-noodles-with-crispy-tofu/

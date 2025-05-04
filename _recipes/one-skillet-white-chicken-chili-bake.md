@@ -3,7 +3,6 @@ title: One Skillet White Chicken Chili Bake
 name: One Skillet White Chicken Chili Bake
 prep_time: '15'
 cook_time: '30'
-servings: ''
 tags:
 - Chicken
 - Easy

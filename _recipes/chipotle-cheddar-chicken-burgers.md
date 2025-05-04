@@ -3,7 +3,6 @@ title: Chipotle Cheddar Chicken Burgers
 name: Chipotle Cheddar Chicken Burgers
 prep_time: 15 minutes
 cook_time: 10 minutes
-servings: ''
 tags: []
 preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2023/07/Chipotle-Cheddar-Chicken-Burgers-7.jpg
 source: https://www.halfbakedharvest.com/chipotle-cheddar-chicken-burgers/

@@ -3,7 +3,6 @@ title: Oven Fried Southern Hot Honey Chicken
 name: Oven Fried Southern Hot Honey Chicken
 prep_time: '15'
 cook_time: '30'
-servings: ''
 tags: []
 preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2018/05/Oven-Fried-Southern-Hot-Honey-Chicken-8.jpg
 source: https://www.halfbakedharvest.com/oven-fried-chicken/

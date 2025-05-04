@@ -3,7 +3,6 @@ title: Vegan Risotto with Miso and Spring Vegetables
 name: Vegan Risotto with Miso and Spring Vegetables
 prep_time: 20 minutes
 cook_time: 30 minutes
-servings: ''
 tags: []
 preview_url: https://minimalistbaker.com/wp-content/uploads/2021/01/Miso-and-Spring-Pea-Risotto-SQUARE-200x200.jpg
 source: https://minimalistbaker.com/vegan-risotto-with-miso-and-spring-vegetables/

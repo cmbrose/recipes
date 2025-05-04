@@ -3,7 +3,6 @@ title: One Pot Broccoli Cheddar and Dumplings
 name: One Pot Broccoli Cheddar and Dumplings
 prep_time: '15'
 cook_time: '30'
-servings: ''
 tags:
 - Soup
 preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2020/09/One-Pot-Broccoli-Cheddar-and-Dumplings-1-500x500.jpg

@@ -3,7 +3,6 @@ title: Baked Crunchy Hot Honey Chicken
 name: Baked Crunchy Hot Honey Chicken
 prep_time: '15'
 cook_time: '25'
-servings: ''
 tags:
 - Chicken
 preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2023/01/Baked-Crunchy-Hot-Honey-Chicken-8.jpg

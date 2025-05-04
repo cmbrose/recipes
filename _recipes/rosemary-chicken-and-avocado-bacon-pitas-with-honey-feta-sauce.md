@@ -3,7 +3,6 @@ title: Rosemary Chicken and Avocado Bacon Pitas with Honey Feta Sauce
 name: Rosemary Chicken and Avocado Bacon Pitas with Honey Feta Sauce
 prep_time: '10'
 cook_time: '25'
-servings: ''
 tags:
 - Chicken
 preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2021/05/Rosemary-Chicken-and-Avocado-Bacon-Pitas-with-Honey-Feta-Sauce-6.jpg

@@ -1,7 +1,6 @@
 ---
 title: Fudge 3 Ways
 name: Fudge 3 Ways
-cook_time: ''
 total_time: 20 min
 tags:
 - GrandmaBrose

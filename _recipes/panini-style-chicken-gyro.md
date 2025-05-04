@@ -3,7 +3,6 @@ title: Panini Style Chicken Gyro
 name: Panini Style Chicken Gyro
 prep_time: '15'
 cook_time: '15'
-servings: ''
 tags:
 - Chicken
 - Greek

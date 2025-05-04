@@ -3,7 +3,6 @@ title: One Pot Creamy Penne Alfredo with Spicy Arugula
 name: One Pot Creamy Penne Alfredo with Spicy Arugula
 prep_time: '15'
 cook_time: '15'
-servings: ''
 tags:
 - Chicken
 - Pasta

@@ -3,7 +3,6 @@ title: Pesto Baked Chicken Thighs
 name: Pesto Baked Chicken Thighs
 prep_time: 5 minutes
 cook_time: 15 minutes
-servings: ''
 tags: []
 preview_url: https://minimalistbaker.com/wp-content/uploads/2023/04/Pesto-Baked-Chicken-Thighs-SQUARE-200x200.jpg
 source: https://minimalistbaker.com/pesto-baked-chicken-thighs/

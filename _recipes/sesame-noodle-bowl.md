@@ -1,9 +1,6 @@
 ---
 title: Sesame Noodle Bowl
 name: Sesame Noodle Bowl
-prep_time: ''
-cook_time: ''
-total_time: ''
 servings: 2 to 3
 tags:
 - Vegan

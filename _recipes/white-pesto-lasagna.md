@@ -3,7 +3,6 @@ title: White Pesto Lasagna
 name: White Pesto Lasagna
 prep_time: '30'
 cook_time: '45'
-servings: ''
 tags: []
 preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2021/12/White-Pesto-Lasagna-9.jpg
 source: https://www.halfbakedharvest.com/white-pesto-lasagna/

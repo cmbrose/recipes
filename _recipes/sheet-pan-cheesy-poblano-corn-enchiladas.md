@@ -3,7 +3,6 @@ title: Sheet Pan Cheesy Poblano Corn Enchiladas
 name: Sheet Pan Cheesy Poblano Corn Enchiladas
 prep_time: '15'
 cook_time: '30'
-servings: ''
 tags:
 - Chicken
 - Mexican

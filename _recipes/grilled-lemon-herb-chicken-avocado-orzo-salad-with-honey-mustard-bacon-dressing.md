@@ -3,7 +3,6 @@ title: Grilled Lemon Herb Chicken Avocado Orzo Salad with Honey Mustard Bacon Dr
 name: Grilled Lemon Herb Chicken Avocado Orzo Salad with Honey Mustard Bacon Dressing
 prep_time: '25'
 cook_time: '15'
-servings: ''
 tags:
 - Chicken
 - Pasta

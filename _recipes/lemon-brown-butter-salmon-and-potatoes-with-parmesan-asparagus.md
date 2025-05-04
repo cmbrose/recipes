@@ -3,7 +3,6 @@ title: Lemon Brown Butter Salmon and Potatoes with Parmesan Asparagus
 name: Lemon Brown Butter Salmon and Potatoes with Parmesan Asparagus
 prep_time: '15'
 cook_time: '30'
-servings: ''
 tags:
 - Tuesday
 - Sheet Pan

@@ -4,7 +4,6 @@ name: Best Lentil Soup
 prep_time: 10 minutes
 cook_time: 35 minutes
 total_time: 45 minutes
-servings: ''
 tags:
 - Vegan
 - Soup

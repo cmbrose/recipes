@@ -3,7 +3,6 @@ title: "Sesame Chicken Dumplings in Spicy Broth with Garlic Crisps\t\t"
 name: "Sesame Chicken Dumplings in Spicy Broth with Garlic Crisps\t\t"
 prep_time: '30'
 cook_time: '20'
-servings: ''
 tags:
 - Chicken
 - Asian

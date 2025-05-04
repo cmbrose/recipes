@@ -2,7 +2,6 @@
 title: Easy Goodies
 name: Easy Goodies
 prep_time: 20 min
-cook_time: ''
 tags:
 - cookies
 - GrandmaBrose

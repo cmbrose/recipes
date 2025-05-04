@@ -3,7 +3,6 @@ title: Crockpot Herb Butter Chicken and Wild Rice
 name: Crockpot Herb Butter Chicken and Wild Rice
 prep_time: '15'
 cook_time: '6'
-servings: ''
 tags: []
 preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2022/10/Crockpot-Herb-Butter-Chicken-and-Wild-Rice-7.jpg
 source: https://www.halfbakedharvest.com/herb-butter-chicken-and-wild-rice/

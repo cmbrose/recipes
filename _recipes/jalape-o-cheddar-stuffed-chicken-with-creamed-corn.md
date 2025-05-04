@@ -3,7 +3,6 @@ title: Jalapeño Cheddar Stuffed Chicken with Creamed Corn
 name: Jalapeño Cheddar Stuffed Chicken with Creamed Corn
 prep_time: '30'
 cook_time: '30'
-servings: ''
 tags:
 - Chicken
 preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2021/08/Jalapen%CC%83o-Cheddar-Stuffed-Chicken-with-Creamed-Corn-8.jpg

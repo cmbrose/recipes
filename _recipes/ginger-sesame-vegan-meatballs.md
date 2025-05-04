@@ -3,7 +3,6 @@ title: Ginger Sesame Vegan “Meatballs”
 name: Ginger Sesame Vegan “Meatballs”
 prep_time: 30 minutes
 cook_time: 40 minutes
-servings: ''
 tags: []
 preview_url: https://minimalistbaker.com/wp-content/uploads/2021/11/Ginger-Sesame-Vegan-Meatballs-SQUARE-200x200.jpg
 source: https://minimalistbaker.com/ginger-sesame-vegan-meatballs/

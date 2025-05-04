@@ -3,7 +3,6 @@ title: Chili Onion Crisp Salmon Bowl with Avocado Mango Salsa
 name: Chili Onion Crisp Salmon Bowl with Avocado Mango Salsa
 prep_time: '25'
 cook_time: '10'
-servings: ''
 tags:
 - Salmon
 preview_url: https://www.halfbakedharvest.com/wp-content/uploads/2023/04/Chili-Crisp-Salmon-Bowl-with-Avocado-Mango-Salsa-8.jpg

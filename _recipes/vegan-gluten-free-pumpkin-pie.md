@@ -3,7 +3,6 @@ title: Vegan Gluten-Free Pumpkin Pie
 name: Vegan Gluten-Free Pumpkin Pie
 prep_time: 5 hours
 cook_time: 1 hour
-servings: ''
 tags: []
 preview_url: https://minimalistbaker.com/wp-content/uploads/2014/11/Vegan-GF-Pumpkin-Pie-SQUARE-200x200.jpg
 source: https://minimalistbaker.com/vegan-gluten-free-pumpkin-pie/#wprm-recipe-container-35767
